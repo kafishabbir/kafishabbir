@@ -1,8 +1,7 @@
-- [ORCiD: 0000-0003-2199-9151](https://orcid.org/0000-0003-2199-9151)
-- [author_id: 1269711](https://elibrary.ru/author_profile.asp?authorid=1269711)
-- [spin-код: 7182-8379](https://elibrary.ru/author_profile.asp?authorid=1269711)
+- ORCiD: [0000-0003-2199-9151](https://orcid.org/0000-0003-2199-9151)
+- author_id: [1269711](https://elibrary.ru/author_profile.asp?authorid=1269711)
+- spin-код: [7182-8379](https://elibrary.ru/author_items.asp?authorid=1269711&show_option=1&show_refs=1)
 - ResearchGate: [https://www.researchgate.net/profile/Kafi-Shabbir](https://www.researchgate.net/profile/Kafi-Shabbir)
-- Elibrary: [https://elibrary.ru/author_items.asp?authorid=1269711&show_option=1&show_refs=1](https://elibrary.ru/author_items.asp?authorid=1269711&show_option=1&show_refs=1)
 # Кафи Шаббир
 
 ## Публикации (Russian)
