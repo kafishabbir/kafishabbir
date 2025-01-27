@@ -1,8 +1,8 @@
-- ORCiD: [0000-0003-2199-9151](https://orcid.org/0000-0003-2199-9151)
-- author_id: [1269711](https://elibrary.ru/author_profile.asp?authorid=1269711)
-- spin-код: [7182-8379](https://elibrary.ru/author_profile.asp?authorid=1269711)
-- [ResearchGate](https://www.researchgate.net/profile/Kafi-Shabbir)
-- [elibrary.ru](https://elibrary.ru/author_items.asp?authorid=1269711&show_option=1&show_refs=1)
+- [ORCiD: 0000-0003-2199-9151](https://orcid.org/0000-0003-2199-9151)
+- [author_id: 1269711](https://elibrary.ru/author_profile.asp?authorid=1269711)
+- [spin-код: 7182-8379](https://elibrary.ru/author_profile.asp?authorid=1269711)
+- ResearchGate: [https://www.researchgate.net/profile/Kafi-Shabbir](https://www.researchgate.net/profile/Kafi-Shabbir)
+- Elibrary: [https://elibrary.ru/author_items.asp?authorid=1269711&show_option=1&show_refs=1](https://elibrary.ru/author_items.asp?authorid=1269711&show_option=1&show_refs=1)
 # Кафи Шаббир
 
 ## Публикации (Russian)
@@ -39,17 +39,18 @@
 
 1.  _Shabbir K., Izvekov O., Konyukhov A._, __Modeling of Two-Phase Flow in a Porous Medium Using a Two-Dimensional Network Model__ // Proceedings of the 66th All-Russian Scientific Conference of MIPT, April 1–6, 2024. Aerospace Technologies. — Moscow: Fizmatkniga, 2024, P. 164–166, ISBN 978-5-89155-411-5. _Published: 30.09.2024_. [Abstract](https://drive.google.com/file/d/18Kr-ZmFcAIboMl1DOqnGP4OZIM6tnzlw/view?usp=drive_link), [collection](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link). 
 
-1.  _Вамси Б., Шаббир К., Извеков О._, __Modeling of Two-Phase Flow in Porous Media using a Three-Dimensional Network Model__ // Proceedings of the 66th All-Russian Scientific Conference of MIPT, April 1–6, 2024. Aerospace Technologies. — Moscow: Fizmatkniga, 2024, P. 159–161, ISBN 978-5-89155-411-5. _Published: 30.09.2024_. [Abstract](https://drive.google.com/file/d/13iEHg6TghzQ-vN2tmOrBcY3OAh6-bhPN/view?usp=drive_link), [collection](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link).
+1.  _Vamsi B., Shabbir K., Izvekov O._, __Modeling of Two-Phase Flow in Porous Media using a Three-Dimensional Network Model__ // Proceedings of the 66th All-Russian Scientific Conference of MIPT, April 1–6, 2024. Aerospace Technologies. — Moscow: Fizmatkniga, 2024, P. 159–161, ISBN 978-5-89155-411-5. _Published: 30.09.2024_. [Abstract](https://drive.google.com/file/d/13iEHg6TghzQ-vN2tmOrBcY3OAh6-bhPN/view?usp=drive_link), [collection](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link).
 
 1. _Shabbir К., Izvekov O., Konyukhov A._, __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // The International Summer Conference on Theoretical Physics 2023, 03.07.2023. [Abstract](https://drive.google.com/file/d/1dEWF1XZvazpVHgu_bwuLLjofFFrsRp1c/view?usp=drive_link).
 
 
 1. _Shabbir K._, __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // Proceedings of the 65th All-Russian Scientific Conference of MIPT in honor of the 115th anniversary of L. D. Landau, April 3–8, 2023. Aerospace Technologies. — Moscow: Fizmatkniga, 2023, P. 205–206, ISBN 978-5-89155-388-0. _Published: 20.11.2023_. [Abstract](https://drive.google.com/file/d/1UYF6dMIxmFJBwPrQc0uAPHd8nN_e1JKV/view?usp=drive_link), [collection](https://drive.google.com/file/d/1dQFcNqbNkxJzRNheBGzD_b1Sl9YMuK1l/view?usp=drive_link).
 
+## Грант
+1. [РНФ № 23-21-00175](https://rscf.ru/project/23-21-00175/) (01.03.2023 - 28.12.2024)
 
 ## Конференции и мероприятия:
 1. Youtuh congress (25.11.2024 - 29.11.2024):
-
 
 1. Летняя школа по триггерным эффектам в геосистемах 03.07.2024: [cертификат](https://drive.google.com/file/d/1-zFUOyJr_61EasyoQ8II7oZd0qu_b350/view?usp=drive_link).
 
@@ -75,8 +76,7 @@
 1. 65-я Всероссийская научная конференция МФТИ, 08.04.2023, [cертификат за лучшего докладчика](https://drive.google.com/file/d/1ljK9G-bwcgsKskkzEpvPk6d1rBpxcHlD/view?usp=drive_link), [cертификат участника](https://drive.google.com/file/d/1A8ht6zl4cgYfjY9o-gVjiNEGM_QEbvrG/view?usp=drive_link).
 
 
-## Грант
-1. [РНФ № 23-21-00175](https://rscf.ru/project/23-21-00175/) (01.03.2023 - 28.12.2024)
+
 
 
 ## Образование:
@@ -125,6 +125,7 @@
 
 1. FestTech (24.09.2024): организовал регистрацию гостей, [add-certificate-later]()
 
+1. Greentech 
 1. FestTech (06.05.2023): организовал перемещение мебели и регистрацию гостей [cертификат](https://drive.google.com/file/d/1MbxemX2EMx1axa3uwb2CTktriH2wiaUb/view?usp=drive_link).
 
 1. Физтех-buddy (10.02.2021 - 10.02.2023): Организовал помощь новым иностранным студентам в кампусе. Провел тренинг для русскоязычных студентов о том, как встретить нового иностранного студента в аэропорту, помочь ему заключить договор аренды с общежитием, купить новому студенту сим-карту, открыть новый банковский счет, подключиться к Интернету, получить пропуск [cертификат](https://drive.google.com/file/d/1OFybBaNoNyV-aaRYcQ09Lw7yv4AFJHsk/view?usp=drive_link).
