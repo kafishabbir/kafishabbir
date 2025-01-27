@@ -131,9 +131,9 @@
 
 ## Добровольчество:
 
-1. (24.09.2024) FestTech: организовал регистрацию гостей, [add-certificate-later]()
+1. FestTech (24.09.2024) : организовал регистрацию гостей, [add-certificate-later]()
 
-1. (10.10.2022 - ) Greentech: организую и участвую в переработке пластика из 6-го общежития, собираю батарейки и бумагу из учебных корпусов, раз в месяц участвую в качестве волонтера в сборе мусора. [link-to-volunteer-book](https://dobro.ru/volunteers/94646073/resume), [volunteer-book-27.01.2025](https://drive.google.com/file/d/1aPLOkrqQSEoG5LQ676Ahf-AEldEpmhrs/view?usp=drive_link), [appreciation-certificate](https://drive.google.com/file/d/1rB_0uwVvw6LEQ8pl1PYYZlQnrOc5WN2m/view?usp=drive_link).
+1. Greentech (10.10.2022 - ) : организую и участвую в переработке пластика из 6-го общежития, собираю батарейки и бумагу из учебных корпусов, раз в месяц участвую в качестве волонтера в сборе мусора. [link-to-volunteer-book](https://dobro.ru/volunteers/94646073/resume), [volunteer-book-27.01.2025](https://drive.google.com/file/d/1aPLOkrqQSEoG5LQ676Ahf-AEldEpmhrs/view?usp=drive_link), [appreciation-certificate](https://drive.google.com/file/d/1rB_0uwVvw6LEQ8pl1PYYZlQnrOc5WN2m/view?usp=drive_link).
 
 1. FestTech (06.05.2023): организовал перемещение мебели и регистрацию гостей [cертификат](https://drive.google.com/file/d/1MbxemX2EMx1axa3uwb2CTktriH2wiaUb/view?usp=drive_link).
 
