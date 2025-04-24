@@ -87,7 +87,7 @@
 
 
 ## Олимпиады и cоревнования:
-1. 1. Opendoors: Физика, 21.02.2025, [cертификат](./pages/file-not-uploaded.md).
+1. Opendoors: Физика, 21.02.2025, [cертификат](./pages/file-not-uploaded.md).
 
 1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2024, 08.10.2023, [cертификат](https://drive.google.com/file/d/1iwMvO2gnRpHlBlnyGYURe2HQJa-JWTQ3/view?usp=drive_link).
 
@@ -130,6 +130,32 @@
 
 1. [Mini tank](https://github.com/kafishabbir/mini_tank), мы придумали новый дизайн колес и цепей, он управлялся с помощью arduino. Мы написали код, который сможет интегрировать различные системы с небольшой памятью и вычислительной мощностью. В будущем мы планируем превратить его в автоматизированного робота для разминирования или строительства чего-либо на Луне.
 
+## Physical
+### Measure
+- Mass: 63 kg.
+- Height: 173 cm.
+- Head circumference: 57cm.
+- Neck circumference: 37cm.
+- Chest circumference: 92cm.
+- Waist circumference: 80 cm
+
+### Clothes
+- Hat/helmet size: 58.
+- Suit size: chest 48, drop 176.
+- Shirt size: 39 slim fit.
+- Pant: 48 (russia), 32 (usa).
+- Shoes Running: 41
+- Shoes walking: 40
+
+### Exercise
+All in 1 day, if doing everyday without breaks
+- 10km run: 61:00. Record 53:20 on 20.09.2020
+- Push ups: 30
+- Chin ups: 4
+- Pull ups: 4
+- Bench press: 20kg x 20
+- Squats: 25kg x 20
+- Situps: 30 at 30 degrees slope
 
 ## Accounts
 - ORCiD: [0000-0003-2199-9151](https://orcid.org/0000-0003-2199-9151)
