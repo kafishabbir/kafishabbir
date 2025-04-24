@@ -137,12 +137,13 @@
 - Head circumference: 57cm
 - Neck circumference: 37cm
 - Chest circumference: 92cm
-- Waist circumference: 80 cm
+- Waist circumference: 80cm
 
 ### Clothes
 - Hat/helmet size: 58.
 - Suit size: chest 48, drop 176
 - Shirt size: 39 slim fit
+- Tshirt: M
 - Pant: 48 (russia), 32 (usa)
 - Shoes Running: 41
 - Shoes walking: 40
