@@ -132,18 +132,18 @@
 
 ## Physical
 ### Measure
-- Mass: 63 kg.
-- Height: 173 cm.
-- Head circumference: 57cm.
-- Neck circumference: 37cm.
-- Chest circumference: 92cm.
+- Mass: 63 kg
+- Height: 173 cm
+- Head circumference: 57cm
+- Neck circumference: 37cm
+- Chest circumference: 92cm
 - Waist circumference: 80 cm
 
 ### Clothes
 - Hat/helmet size: 58.
-- Suit size: chest 48, drop 176.
-- Shirt size: 39 slim fit.
-- Pant: 48 (russia), 32 (usa).
+- Suit size: chest 48, drop 176
+- Shirt size: 39 slim fit
+- Pant: 48 (russia), 32 (usa)
 - Shoes Running: 41
 - Shoes walking: 40
 
