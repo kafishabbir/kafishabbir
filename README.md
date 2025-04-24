@@ -2,7 +2,14 @@
 
 ## Образование:
 
-### Магистратура, 30.06.2025
+### Аспирантура, 01.07.2029
+- 1.1.9 Механика жидкости, газа и плазмы
+- Сентябрь 2025 - июль 2029
+- Московский Физико-Технический Институт
+- Физтех-школа Аэрокосмических Технологий (ФАКТ)
+- Моделирование континуальных моделей и двухфазного течения в пористых средах
+
+### Магистратура, 05.07.2025
 - 03.04.01 Прикладные математика и физика
 - Сентябрь 2023 - июль 2025
 - Московский Физико-Технический Институт
@@ -45,8 +52,6 @@
 
 1. _Shabbir K._, __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // Труды 65-й Всероссийской научной конференции МФТИ в честь 115-летия Л. Д. Ландау, 3–8 апреля 2023 г. Аэрокосмические технологии. — М: Физматкнига, 2023, С. 205–206, ISBN 978-5-89155-388-0. _Опубликовано: 20.11.2023_. [Тезис](https://drive.google.com/file/d/1UYF6dMIxmFJBwPrQc0uAPHd8nN_e1JKV/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1dQFcNqbNkxJzRNheBGzD_b1Sl9YMuK1l/view?usp=drive_link).
 
-
-
 ##  Дополнительное образование
 ### Профессиональная квалификация программиста, 30.06.2024
 - Сентябрь 2023 - июль 2024
@@ -66,7 +71,6 @@
 
 1. Летняя школа по триггерным эффектам в геосистемах (03.07.2024): [cертификат](https://drive.google.com/file/d/1-zFUOyJr_61EasyoQ8II7oZd0qu_b350/view?usp=drive_link).
 
-
 1. VII Международная конференция: Триггерные эффекты в геосистемах, Долгопрудный, Россия (02.07.2024 - 05.07.2024): [пригласительное письмо](https://drive.google.com/file/d/1POJX0404gQvl4NnoE0hW0oFLAnhwTx6z/view?usp=drive_link).
 
 1. 66-я Всероссийская научная конференция МФТИ (05.04.2024): [cертификат участника](https://drive.google.com/file/d/1IThZg5WiBYveaT5z3wpfkg-3ub-VodJP/view?usp=drive_link).
@@ -80,8 +84,6 @@
 1. Школа предпринимательства (15.04.2023): [cертификат](https://drive.google.com/file/d/1CUek6bP-u8HeLjxj4pbx8kSV0DDZkxUz/view?usp=drive_link).
 
 1. 65-я Всероссийская научная конференция МФТИ (08.04.2023): [cертификат за лучшего докладчика](https://drive.google.com/file/d/1ljK9G-bwcgsKskkzEpvPk6d1rBpxcHlD/view?usp=drive_link), [cертификат участника](https://drive.google.com/file/d/1A8ht6zl4cgYfjY9o-gVjiNEGM_QEbvrG/view?usp=drive_link).
-
-
 
 
 ## Олимпиады и cоревнования:
