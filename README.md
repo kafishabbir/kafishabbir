@@ -162,10 +162,6 @@
 #### Gym
 Pull up: x4
 
-3x10 = sets x reps
-
-added mass (total mass) in kg
-
 | Serial | Exercise | Target | Current | 06.05.2025 |
 |-------:|:---------|:-------|:----------:|:----------:|
 |	1.	|	Squats			|	15(50)	|	5	|	5	|
@@ -177,9 +173,11 @@ added mass (total mass) in kg
 |	7.	|	Shoulder-press	|	7.5(25)	|	2.5	|	2.5	|
 |	8.	|	Curl			|	5(20)	|	2.5	|	2.5	|
 
-Bench-press, squat barbell empty mass: 20kg. Dead-lift, shoulder press, curl empty mass = 10kg.
 
-Total mass = barbell mass + 2 * added mass
+3x10 = sets x reps \\
+added mass (total mass) in kg \\
+Bench-press, squat barbell empty mass: 20kg. Dead-lift, shoulder press, curl empty mass = 10kg. \\
+Total mass = barbell mass + 2 * added mass \\
 
 ## Accounts
 - ORCiD: [0000-0003-2199-9151](https://orcid.org/0000-0003-2199-9151)
