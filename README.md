@@ -174,10 +174,10 @@ Pull up: x4
 |	8.	|	Curl			|	5(20)	|	2.5	|	2.5	|
 
 
-3x10 = sets x reps \\
-added mass (total mass) in kg \\
-Bench-press, squat barbell empty mass: 20kg. Dead-lift, shoulder press, curl empty mass = 10kg. \\
-Total mass = barbell mass + 2 * added mass \\
+3x10 = sets x reps \
+added mass (total mass) in kg \
+Bench-press, squat barbell empty mass: 20kg. Dead-lift, shoulder press, curl empty mass = 10kg. \
+Total mass = barbell mass + 2 * added mass \
 
 ## Accounts
 - ORCiD: [0000-0003-2199-9151](https://orcid.org/0000-0003-2199-9151)
