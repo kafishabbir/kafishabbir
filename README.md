@@ -163,6 +163,7 @@
 1. Pull up: x4
 3x10 = sets x reps
 added mass (total mass) in kg
+
 | Serial | Exercise | Target | Current | 06.05.2025 |
 |-------:|:---------|:-------|:----------:|:----------:|
 |	1.	|	Squats			|	15(50)	|	5	|	5	|
