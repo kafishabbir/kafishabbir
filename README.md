@@ -160,8 +160,10 @@
 1. Triceps 9kg: x20
 
 #### Gym
-1. Pull up: x4
+Pull up: x4
+
 3x10 = sets x reps
+
 added mass (total mass) in kg
 
 | Serial | Exercise | Target | Current | 06.05.2025 |
@@ -176,6 +178,7 @@ added mass (total mass) in kg
 |	8.	|	Curl			|	5(20)	|	2.5	|	2.5	|
 
 Bench-press, squat barbell empty mass: 20kg. Dead-lift, shoulder press, curl empty mass = 10kg.
+
 Total mass = barbell mass + 2 * added mass
 
 ## Accounts
