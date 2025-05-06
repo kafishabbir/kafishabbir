@@ -137,10 +137,10 @@
 - Head circumference: 57cm
 - Neck circumference: 37cm
 - Chest circumference: 92cm
-- Waist circumference: 80cm
+- Waist circumference: 82cm
 
 ### Clothes
-- Hat/helmet size: 58.
+- Hat/helmet size: 58
 - Suit size: chest 48, drop 176
 - Shirt size: 39 slim fit
 - Tshirt: M
@@ -149,14 +149,33 @@
 - Shoes walking: 40
 
 ### Exercise
-All in 1 day, if doing everyday without breaks
-- 10km run: 61:00. Record 53:20 on 20.09.2020
-- Push ups: 30
-- Chin ups: 4
-- Pull ups: 4
-- Bench press: 20kg x 20
-- Squats: 25kg x 20
-- Situps: 30 at 30 degrees slope
+#### Morning
+1. Push ups: x40
+1. Run 8km, 50min
+1. Chin ups: x4
+1. Stretch-leg-sides: x20
+1. Stretch-hip-sides: x10
+1. Stretch-leg-bow: x20
+1. Stretch-hip-twist: x10
+1. Triceps 9kg: x20
+
+#### Gym
+1. Pull up: x4
+3x10 = sets x reps
+added mass (total mass) in kg
+| Serial | Exercise | Target | Current | 06.05.2025 |
+|-------:|:---------|:-------|:----------:|:----------:|
+|	1.	|	Squats			|	15(50)	|	5	|	5	|
+|	2.	|	Bench-press		|	10(40)	|	5	|	5	|
+|	3.	|	Sit-ups			|	x20		|	x15	|	x15	|
+|	4.	|	Pull-downs		|	60		|	30	|	25	|
+|	5.	|	Legs			|	80		|	40	|	35	|
+|	6.	|	Dead-lift		|	25(60)	|	5	|	2.5	|
+|	7.	|	Shoulder-press	|	7.5(25)	|	2.5	|	2.5	|
+|	8.	|	Curl			|	5(20)	|	2.5	|	2.5	|
+
+Bench-press, squat barbell empty mass: 20kg. Dead-lift, shoulder press, curl empty mass = 10kg.
+Total mass = barbell mass + 2 * added mass
 
 ## Accounts
 - ORCiD: [0000-0003-2199-9151](https://orcid.org/0000-0003-2199-9151)
