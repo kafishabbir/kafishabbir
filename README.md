@@ -151,8 +151,8 @@
 ### Exercise
 #### Morning
 1. Push ups: x40
-1. Run 8km, 50min
-1. Chin ups: x4
+1. Run 8km, 55min
+1. Chin ups: x5
 1. Stretch-leg-sides: x20
 1. Stretch-hip-sides: x10
 1. Stretch-leg-bow: x20
@@ -160,24 +160,32 @@
 1. Triceps 9kg: x20
 
 #### Gym
-Pull up: x4
 
-| Serial | Exercise | Target | Current | 06.05.2025 |
-|-------:|:---------|:-------:|:----------:|:----------:|
-|	1.	|	Squats			|	15(50)	|	5	|	5	|
-|	2.	|	Bench-press		|	10(40)	|	5	|	5	|
-|	3.	|	Sit-ups			|	x20		|	x15	|	x15	|
-|	4.	|	Pull-downs		|	60		|	30	|	25	|
-|	5.	|	Legs			|	80		|	40	|	35	|
-|	6.	|	Dead-lift		|	25(60)	|	5	|	2.5	|
-|	7.	|	Shoulder-press	|	7.5(25)	|	2.5	|	2.5	|
-|	8.	|	Curl			|	5(20)	|	2.5	|	2.5	|
+| Serial    | Exercise          | Target    | 12.05.25 | 10.05.25 | 06.05.25 |
+|----------:|:------------------|:---------:|:-----:|:-----:|:-----:|
+|   1.1.    |   Pull up         |   x10     |  x4   |   x3  |   x3  |
+|	2.1.	|	Squat			|	20(50)	| 7.5   |	5	|	5	|
+|	2.2.	|	Bench press		|	15(40)	| 7.5   |	5	|	5	|
+|	2.3.	|	Dead lift 		|	30(60)	| 12.5  |	10	|	2.5	|
+|	2.4.	|	Shoulder press	|	10(25)	| 5     |	2.5	|	2.5	|
+|	2.5.	|	Barbell curl 	|	10(20)	| 5     |	2.5	|	2.5	|
+|	2.6.	|	Pull down		|	60		| 35    |	30	|	25	|
+|	2.7.	|	Leg curl		|	80		| 45    |	40	|	35	|
+|	3.1.	|	Sit up			|	x30		| x25   |	x20	|	x15	|
+
+- 2.x.: 2 x 10 (sets x reps) \
+- added mass (total mass) in kg \
+- Total mass = barbell mass + 2 * added mass
+| Exercise | Barbell mass in kg |
+|----------|--------------------|
+|Squat			|	20      |
+|Bench press	|	20      |
+|Dead lift 		|	10      |
+|Shoulder press	|	10      |
+|Barbell curl 	|	10      |
+	
 
 
-3x10 = sets x reps \
-added mass (total mass) in kg \
-Bench-press, squat barbell empty mass: 20kg. Dead-lift, shoulder press, curl empty mass = 10kg. \
-Total mass = barbell mass + 2 * added mass
 
 ## Accounts
 - ORCiD: [0000-0003-2199-9151](https://orcid.org/0000-0003-2199-9151)
