@@ -42,6 +42,8 @@
 
 ### Тезисы с конференций :
 
+1. _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование процессов вытеснения в пористых средах с периодической неоднородностью__ // Труды 67-й Всероссийской научной конференции МФТИ, 1–5 апреля 2025 г. Аэрокосмические технологии. — М: Физматкнига. 2025, С. xxx–xxx, ISBN 978-5-xxxxx-xxx-x.
+
 1.  _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование противоточной капиллярной пропитки на основе cетевой (network) модели__ // VII Международная Конференция Триггерные Эффекты В Геосистемах 2–5 Июля 2024 Г., Долгопрудный, Тезисы Докладов, С. 54. EDN: [tfataz](https://elibrary.ru/tfataz), [тезис](https://drive.google.com/file/d/1ch1rhN66_3eEzHRqnvA_eWIv-YEG2n__/view?usp=drive_link), [сборник на сайте](https://conf2024.idg.ras.ru/docs/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81%D1%8B_2024_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.pdf), [cборник сохраненный](https://drive.google.com/file/d/1hIQZVnG3fFMV_-Pp3bejYEXIqBrjmi6h/view?usp=drive_link).
 
 1.  _Шаббир К., Извеков О., Конюхов А._, __Моделирование двухфазного потока в пористой среде с использованием двумерной сетевой модели__ // Труды 66-й Всероссийской научной конференции МФТИ, 1–6 апреля 2024 г. Аэрокосмические технологии. — М: Физматкнига. 2024, С. 164–166, ISBN 978-5-89155-411-5. _Опубликовано: 30.09.2024_. [Тезис](https://drive.google.com/file/d/18Kr-ZmFcAIboMl1DOqnGP4OZIM6tnzlw/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link).
@@ -104,8 +106,6 @@
 1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2021, 15.11.2020, [cертификат](https://drive.google.com/file/d/1JRaYZjs2q4WOoDMmpCFHXw5e7jIDopjn/view?usp=drive_link).
 
 
-
-
 ## Event Organizations:
 
 1. Greentech (10.10.2022 - today) : организую и участвую в переработке пластика из 6-го общежития, собираю батарейки и бумагу из учебных корпусов, раз в месяц участвую в качестве волонтера в сборе мусора. [link-to-volunteer-book](https://dobro.ru/volunteers/94646073/resume), [volunteer-book-27.01.2025](https://drive.google.com/file/d/1aPLOkrqQSEoG5LQ676Ahf-AEldEpmhrs/view?usp=drive_link), [appreciation-certificate](https://drive.google.com/file/d/1rB_0uwVvw6LEQ8pl1PYYZlQnrOc5WN2m/view?usp=drive_link).
@@ -130,7 +130,7 @@
 ## Проекты:
 1. [Запуска ракета в 2025 году](https://github.com/icarus-imperium/rocket-2025) мы добавили возможность приземления с парашютом.
 
-1. [Запуска ракета в 2023 году](https://github.com/kafishabbir/rocket2023) мы спроектировали ракету в Solidworks, напечатали ее детали на 3D-принтере, смоделировали и проверили, что она будет работать на openrocket. В ракете использовался твердотопливный двигатель.
+1. [Запуска ракета в 2023 году](https://github.com/kafishabbir/rocket2023) мы спроектировали ракету в Solidworks, напечатали ее детали на 3D-принтере, смоделировали и проверили, что она будет работать на openrocket. В ракете использовался твердотопливный двигатель. [Article on the vk page of ФАКИ](https://vk.com/astech_mipt?z=photo-17906_457246723)
 
 1. [Mini tank](https://github.com/kafishabbir/mini_tank), мы придумали новый дизайн колес и цепей, он управлялся с помощью arduino. Мы написали код, который сможет интегрировать различные системы с небольшой памятью и вычислительной мощностью. В будущем мы планируем превратить его в автоматизированного робота для разминирования или строительства чего-либо на Луне.
 
@@ -167,7 +167,7 @@
 
 | Serial    | Exercise          | Target    | 12.05.25 | 10.05.25 | 06.05.25 |
 |----------:|:------------------|:---------:|:-----:|:-----:|:-----:|
-|   1.1.    |   Pull up         |   x10     |  x4   |   x3  |   x3  |
+|   1.       |   Pull up         |   x10     |  x4   |   x3  |   x3  |
 |	2.1.	|	Squat			|	20(50)	| 7.5   |	5	|	5	|
 |	2.2.	|	Bench press		|	15(40)	| 7.5   |	5	|	5	|
 |	2.3.	|	Dead lift 		|	30(60)	| 12.5  |	10	|	2.5	|
@@ -175,11 +175,12 @@
 |	2.5.	|	Barbell curl 	|	10(20)	| 5     |	2.5	|	2.5	|
 |	2.6.	|	Pull down		|	60		| 35    |	30	|	25	|
 |	2.7.	|	Leg curl		|	80		| 45    |	40	|	35	|
-|	3.1.	|	Sit up			|	x30		| x25   |	x20	|	x15	|
+|	3.	    |	Sit up			| x30 x 2 | x25 x 2 | x20 x 2 | x15 x 2 |
 
-- 2.x.: 2 x 10 (sets x reps) \
+- {2.x, 3}: 2 x 10 (sets x reps) \
 - added mass (total mass) in kg \
 - Total mass = barbell mass + 2 * added mass
+
 | Exercise | Barbell mass in kg |
 |----------|--------------------|
 |Squat			|	20      |
@@ -188,7 +189,13 @@
 |Shoulder press	|	10      |
 |Barbell curl 	|	10      |
 	
+#### Running times
 
+| Date | Distance (km) | Time mm::ss |
+|----------|----------|----------|
+|   23.11.2018  |	10 | 56:11 |
+|   20.09.2020	|	10 | 53:20 |
+|   07.05.2025 	|	10 | 71:00 |
 
 
 ## Accounts
