@@ -139,9 +139,9 @@
 - Mass: 63 kg
 - Height: 173 cm
 - Head circumference: 57cm
-- Neck circumference: 37cm
+- Neck circumference: 38cm
 - Chest circumference: 92cm
-- Waist circumference: 82cm
+- Pant circumference: 82cm
 
 ### Clothes
 - Hat/helmet size: 58
@@ -165,20 +165,20 @@
 
 #### Gym
 
-| Serial    | Exercise          | Target    | 12.05.25 | 10.05.25 | 06.05.25 |
-|----------:|:------------------|:---------:|:-----:|:-----:|:-----:|
-|   1.       |   Pull up         |   x10     |  x4   |   x3  |   x3  |
-|	2.1.	|	Squat			|	20(50)	| 7.5   |	5	|	5	|
-|	2.2.	|	Bench press		|	15(40)	| 7.5   |	5	|	5	|
-|	2.3.	|	Dead lift 		|	30(60)	| 12.5  |	10	|	2.5	|
-|	2.4.	|	Shoulder press	|	10(25)	| 5     |	2.5	|	2.5	|
-|	2.5.	|	Barbell curl 	|	10(20)	| 5     |	2.5	|	2.5	|
-|	2.6.	|	Pull down		|	60		| 35    |	30	|	25	|
-|	2.7.	|	Leg curl		|	80		| 45    |	40	|	35	|
-|	3.	    |	Sit up			| x30 x 2 | x25 x 2 | x20 x 2 | x15 x 2 |
+| Serial    | Exercise     | Target (novice)|26.05 |19.05  | 12.05 | 10.05 | 06.05 |
+|----------:|:------------------|:---------:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|   1.      |   Pull up         |   x6      |x4     |x4(18%) |  x4   |   x3  |   x3  |
+|	2.1.	|	Lat Pulldown	|	54		|35     |35(17%) | 35    |	30	|	25	|
+|	2.2.	|	Lying Leg Curl	|	37		|45     |45(59%) | 45    |	40	|	35	|
+|	2.3.	|	Shoulder press	|	15(40)	|7.5    |7.5(15%)| 5     |	2.5	|	2.5	|
+|	2.4.	|	Dead lift 		|	45(100)	|25(11%)|__15(2%)__    | 10  |	10	|	2.5	|
+|	2.5.	|	Squat			|	30(80)	|17.5(17%)|__10(6%)__ | 7.5   |	5	|	5	|
+|	2.6.	|	Bench press		|	20(60)	|10(16%)|__7.5(12%)__| 7.5 |	5	|	5	|
+|	2.7.	|	Barbell curl 	|	7.5(25)	|5      |5(25%)  | 5     |	2.5	|	2.5	|
+|	3.8.    |	Sit up			| x30       |x25    |x25(34%)| x25   | x20   | x15   |
 
-- {2.x, 3}: 2 x 10 (sets x reps) \
-- added mass (total mass) in kg \
+- {2.x, 3}: 2 x 10 (sets x reps)
+- added mass (total mass) in kg
 - Total mass = barbell mass + 2 * added mass
 
 | Exercise | Barbell mass in kg |
