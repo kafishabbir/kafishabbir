@@ -188,7 +188,7 @@
 |Dead lift 		|	10      |
 |Shoulder press	|	10      |
 |Barbell curl 	|	10      |
-	
+
 #### Running times
 
 | Date | Distance (km) | Time mm::ss |
@@ -196,6 +196,7 @@
 |   23.11.2018  |	10 | 56:11 |
 |   20.09.2020	|	10 | 53:20 |
 |   07.05.2025 	|	10 | 71:00 |
+|   18.05.2025 	|	10 | 60:00 |
 
 
 ## Accounts
