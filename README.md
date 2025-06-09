@@ -35,9 +35,9 @@
 
 ### Статьи:
 
-1. _Шаббир К., Извеков О. Я., Конюхов А. В.,_ __Моделирование двухфазного течения в пористых средах с использованием неоднородной сетевой модели__ // Компьютерные Исследования И Моделирование. 2024, Т. 16, № 4, С. 913–925. DOI: [10.20537/2076-7633-2024-16-4-913-925](https://doi.org/10.20537/2076-7633-2024-16-4-913-925), EDN: [nldfeb](https://elibrary.ru/nldfeb), [ссылка](http://crm.ics.org.ru/journal/article/3500/), [статья](https://drive.google.com/file/d/18eR9BNacpS1DP670lktNDLrrjXCEN9DZ/view?usp=drive_link).
+1. _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование двухфазного течения в пористых средах с использованием неоднородной сетевой модели__ // Компьютерные Исследования И Моделирование. 2024, Т. 16, № 4, С. 913–925. DOI: [10.20537/2076-7633-2024-16-4-913-925](https://doi.org/10.20537/2076-7633-2024-16-4-913-925), EDN: [nldfeb](https://elibrary.ru/nldfeb), [ссылка](http://crm.ics.org.ru/journal/article/3500/), [статья](https://drive.google.com/file/d/18eR9BNacpS1DP670lktNDLrrjXCEN9DZ/view?usp=drive_link).
 
-1. _Шаббир К., Извеков O. Я., Вамси Б._, __Моделирование пропитки пористой среды с помощью двумерной сетевой модели__ // Труды МФТИ. 2024, Т. 18, №. 2, С. 41–50. EDN: [doeyil](https://elibrary.ru/doeyil), [ссылка](https://mipt.ru/science/trudy/62), [статья](https://drive.google.com/file/d/1ijaZ8UJ5xsav_CdEdcbFVWTFRwZIfGkb/view?usp=drive_link),
+1. _Шаббир К., Извеков O. Я., Вамси Б._ __Моделирование пропитки пористой среды с помощью двумерной сетевой модели__ // Труды МФТИ. 2024, Т. 18, №. 2, С. 41–50. EDN: [doeyil](https://elibrary.ru/doeyil), [ссылка](https://mipt.ru/science/trudy/62), [статья](https://drive.google.com/file/d/1ijaZ8UJ5xsav_CdEdcbFVWTFRwZIfGkb/view?usp=drive_link),
 
 
 ### Тезисы с конференций :
@@ -46,13 +46,13 @@
 
 1.  _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование противоточной капиллярной пропитки на основе cетевой (network) модели__ // VII Международная Конференция Триггерные Эффекты В Геосистемах 2–5 Июля 2024 Г., Долгопрудный, Тезисы Докладов, С. 54. EDN: [tfataz](https://elibrary.ru/tfataz), [тезис](https://drive.google.com/file/d/1ch1rhN66_3eEzHRqnvA_eWIv-YEG2n__/view?usp=drive_link), [сборник на сайте](https://conf2024.idg.ras.ru/docs/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81%D1%8B_2024_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.pdf), [cборник сохраненный](https://drive.google.com/file/d/1hIQZVnG3fFMV_-Pp3bejYEXIqBrjmi6h/view?usp=drive_link).
 
-1.  _Шаббир К., Извеков О., Конюхов А._, __Моделирование двухфазного потока в пористой среде с использованием двумерной сетевой модели__ // Труды 66-й Всероссийской научной конференции МФТИ, 1–6 апреля 2024 г. Аэрокосмические технологии. — М: Физматкнига. 2024, С. 164–166, ISBN 978-5-89155-411-5. _Опубликовано: 30.09.2024_. [Тезис](https://drive.google.com/file/d/18Kr-ZmFcAIboMl1DOqnGP4OZIM6tnzlw/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link).
+1.  _Шаббир К., Извеков О., Конюхов А._ __Моделирование двухфазного потока в пористой среде с использованием двумерной сетевой модели__ // Труды 66-й Всероссийской научной конференции МФТИ, 1–6 апреля 2024 г. Аэрокосмические технологии. — М: Физматкнига. 2024, С. 164–166, ISBN 978-5-89155-411-5. _Опубликовано: 30.09.2024_. [Тезис](https://drive.google.com/file/d/18Kr-ZmFcAIboMl1DOqnGP4OZIM6tnzlw/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link).
 
-1.  _Вамси Б., Шаббир К., Извеков О._, __Моделирование двухфазного течения в пористых средах с использованием трехмерной сетевой модели__ // Труды 66-й Всероссийской научной конференции МФТИ, 1–6 апреля 2024 г. Аэрокосмические технологии. — М: Физматкнига, 2024, С. 159–161, ISBN 978-5-89155-411-5. _Опубликовано: 30.09.2024_. [Тезис](https://drive.google.com/file/d/13iEHg6TghzQ-vN2tmOrBcY3OAh6-bhPN/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link).
+1.  _Вамси Б., Шаббир К., Извеков О._ __Моделирование двухфазного течения в пористых средах с использованием трехмерной сетевой модели__ // Труды 66-й Всероссийской научной конференции МФТИ, 1–6 апреля 2024 г. Аэрокосмические технологии. — М: Физматкнига, 2024, С. 159–161, ISBN 978-5-89155-411-5. _Опубликовано: 30.09.2024_. [Тезис](https://drive.google.com/file/d/13iEHg6TghzQ-vN2tmOrBcY3OAh6-bhPN/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link).
 
-1. _Shabbir К., Izvekov O., Konyukhov A._, __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // The International Summer Conference on Theoretical Physics 03.07.2023. [Тезис](https://drive.google.com/file/d/1dEWF1XZvazpVHgu_bwuLLjofFFrsRp1c/view?usp=drive_link).
+1. _Shabbir К., Izvekov O., Konyukhov A._ __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // The International Summer Conference on Theoretical Physics 03.07.2023. [Тезис](https://drive.google.com/file/d/1dEWF1XZvazpVHgu_bwuLLjofFFrsRp1c/view?usp=drive_link).
 
-1. _Shabbir K._, __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // Труды 65-й Всероссийской научной конференции МФТИ в честь 115-летия Л. Д. Ландау, 3–8 апреля 2023 г. Аэрокосмические технологии. — М: Физматкнига, 2023, С. 205–206, ISBN 978-5-89155-388-0. _Опубликовано: 20.11.2023_. [Тезис](https://drive.google.com/file/d/1UYF6dMIxmFJBwPrQc0uAPHd8nN_e1JKV/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1dQFcNqbNkxJzRNheBGzD_b1Sl9YMuK1l/view?usp=drive_link).
+1. _Shabbir K._ __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // Труды 65-й Всероссийской научной конференции МФТИ в честь 115-летия Л. Д. Ландау, 3–8 апреля 2023 г. Аэрокосмические технологии. — М: Физматкнига, 2023, С. 205–206, ISBN 978-5-89155-388-0. _Опубликовано: 20.11.2023_. [Тезис](https://drive.google.com/file/d/1UYF6dMIxmFJBwPrQc0uAPHd8nN_e1JKV/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1dQFcNqbNkxJzRNheBGzD_b1Sl9YMuK1l/view?usp=drive_link).
 
 ##  Дополнительное образование
 ### Профессиональная квалификация программиста, 30.06.2024
@@ -67,7 +67,7 @@
 
 
 ## Конференции и мероприятия:
-1. 67-я Всероссийская научная конференция МФТИ (04.04.2025): [cертификат участника (not available yet)](./pages/file-not-uploaded.md).
+1. 67-я Всероссийская научная конференция МФТИ (04.04.2025): [cертификат участника](https://drive.google.com/file/d/1Xm4NQOTk0mv3UrCITrNRjBNMs79VfFFv/view?usp=drive_link).
 
 1. IV Конгресса молодых ученых, Сириус (27.11.2024 - 29.11.2024): [cертификат](https://drive.google.com/file/d/1aLEZlM2Q2xoBu4-7_M4_Uth3qhBmTxn4/view?usp=drive_link).
 
@@ -77,7 +77,7 @@
 
 1. 66-я Всероссийская научная конференция МФТИ (05.04.2024): [cертификат участника](https://drive.google.com/file/d/1IThZg5WiBYveaT5z3wpfkg-3ub-VodJP/view?usp=drive_link).
 
-1. Всемирный фестиваль молодежи (01.03.2024 - 06.03.2024): [cертификат](https://drive.google.com/file/d/1_tH-yhIkwK7BSkykej7GObDydfCiuC8U/view?usp=drive_link).
+1. Всемирный фестиваль молодежи, Сириус (01.03.2024 - 06.03.2024): [cертификат](https://drive.google.com/file/d/1_tH-yhIkwK7BSkykej7GObDydfCiuC8U/view?usp=drive_link).
 
 1. Евразийский аэрокосмический конгресс (24.07.2023): [фото](https://drive.google.com/file/d/1voTsyCQM80th2ee3jJWofUMPgF3PWbgs/view?usp=drive_link).
 
@@ -89,7 +89,7 @@
 
 
 ## Олимпиады и cоревнования:
-1. Opendoors: Физика, 21.02.2025, [cертификат](./pages/file-not-uploaded.md).
+1. Opendoors: Физика, 21.02.2025, [cертификат](https://drive.google.com/file/d/1k7xyISYRNEaOedDckRWqbTxhUqCl-dNZ/view?usp=drive_link).
 
 1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2024, 08.10.2023, [cертификат](https://drive.google.com/file/d/1iwMvO2gnRpHlBlnyGYURe2HQJa-JWTQ3/view?usp=drive_link).
 
@@ -108,11 +108,11 @@
 
 ## Event Organizations:
 
-1. Greentech (10.10.2022 - today) : организую и участвую в переработке пластика из 6-го общежития, собираю батарейки и бумагу из учебных корпусов, раз в месяц участвую в качестве волонтера в сборе мусора. [link-to-volunteer-book](https://dobro.ru/volunteers/94646073/resume), [volunteer-book-27.01.2025](https://drive.google.com/file/d/1aPLOkrqQSEoG5LQ676Ahf-AEldEpmhrs/view?usp=drive_link), [appreciation-certificate](https://drive.google.com/file/d/1rB_0uwVvw6LEQ8pl1PYYZlQnrOc5WN2m/view?usp=drive_link).
+1. Greentech (10.10.2022 - today) : организую и участвую в переработке пластика из 6-го общежития, собираю батарейки и бумагу из учебных корпусов, раз в месяц участвую в качестве волонтера в сборе мусора. [link-to-volunteer-book](https://dobro.ru/volunteers/94646073/resume), [volunteer-book-snap-27.01.2025](https://drive.google.com/file/d/1aPLOkrqQSEoG5LQ676Ahf-AEldEpmhrs/view?usp=drive_link), [appreciation-certificate](https://drive.google.com/file/d/1rB_0uwVvw6LEQ8pl1PYYZlQnrOc5WN2m/view?usp=drive_link).
 
-1. Swap of clothes for greentech 03.05.2025.
+1. Swap of clothes for greentech (03.05.2025).
 
-1. ВсОШ (16.03.2025 - 24.03.2025), Физтех-лицей. Принимал участие в организации [Всероссийской олимпиады школьников по астрономии и астрофизике](https://t.me/astroftl25/210). Осуществлялась встреча членов жюри и участников всероссийской олимпиады (около 300 школьников) в аэропорту и на вокзале, поддерживалась связь с группой участников (14 человек из 11 регионов), выполнялось дежурство во время олимпиадных туров на этаже здания и оказывалась логистическая поддержка.
+1. ВсОШ (16.03.2025 - 24.03.2025), Физтех-лицей. Принимал участие в организации [Всероссийской олимпиады школьников (около 300) по астрономии и астрофизике](https://t.me/astroftl25/210). Осуществлялась встреча членов жюри и участников всероссийской олимпиады в аэропорту и на вокзале, поддерживалась связь с группой участников (14 человек из 11 регионов), выполнялось дежурство во время олимпиадных туров на этаже здания и оказывалась логистическая поддержка.
 
 1. FestTech (24.09.2024): организовал регистрацию гостей, [add-certificate-later](./pages/file-not-uploaded.md)
 
@@ -136,17 +136,18 @@
 
 ## Physical
 ### Measure
-- Mass: 63 kg
+- Mass: 67 kg
 - Height: 173 cm
 - Head circumference: 57cm
 - Neck circumference: 38cm
+- Shoulder circumference: 106cm
 - Chest circumference: 92cm
 - Pant circumference: 82cm
 
 ### Clothes
 - Hat/helmet size: 58
 - Suit size: chest 48, drop 176
-- Shirt size: 39 slim fit
+- Shirt size: 40 M slim fit
 - Tshirt: M
 - Pant: 48 (russia), 32 (usa)
 - Shoes Running: 41
@@ -163,20 +164,24 @@
 1. Stretch-hip-twist: x10
 1. Triceps 9kg: x20
 
-#### Gym
+#### Gym-odd
+| Serial| Exercise			| Target	| Current	|
+|------:|:------------------|:---------:|:---------:|
+| 2.1.	| Leg curl			| 45		|	45		|
+| 2.2.	| Shoulder press	| 12.5(35)	|	7.5(25)	|
+| 2.3.	| Squat				| 25(70)	|	15(50)	|
+| 2.4.	| Barbell curl 		| 5(20)		|	injured |
 
-| Serial    | Exercise     | Target-40 | Target-20 |26.05 |19.05  |
-|----------:|:------------|:---------:|:---------:|:-----:|:-----:|
-|	2.1.	|	Lat Pulldown	| 50 		|	40		|35     |35(17%) 	|
-|	2.2.	|	Lying Leg Curl	| 40		|	25		|45     |45(59%)	 |
-|	2.3.	|	Shoulder press	| 12.5(35)	|	7.5(25)	|7.5    |7.5(15%)	|
-|	2.4.	|	Dead lift 		| 37.5(85)	|	30(70)	|25(11%)|__15(2%)__	|
-|	2.5.	|	Squat			| 27.5(75)	|	20(60)	|15(12%)|__10(6%)__ |
-|	2.6.	|	Bench press		| 17.5(55)	|12.5(45)	|10(16%)|__7.5(12%)__|
-|	2.7.	|	Barbell curl 	| 7.5(25)	|	5(20)	|5      |5(25%)  |
-|	3.8.    |	Sit up			|x30		| x10       |x25    |x25(34%)|
 
-- {2.x}: 2 x 10 (sets x reps),
+#### Gym-even
+| Serial| Exercise		| Target	| Current	|
+|------:|:--------------|:---------:|:---------:|
+| 2.5.	| Pull down		| 50 		| 40		|
+| 2.6.	| Dead lift		| 35(85)	| 25(50)	|
+| 2.7.	| Bench press	| 12.5(45)	| 10(40)	|
+| 3.8.	| Sit up		| x80		| x50       |
+
+- {2.x}: 3 x 10 (sets x reps),
 - added mass (total mass) in kg
 - Total mass = barbell mass + 2 * added mass
 
