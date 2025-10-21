@@ -3,14 +3,14 @@
 ## Образование:
 
 ### Аспирантура
-- 01.09.2025 - 31.08.2029
+- (01.09.2025 - 31.08.2029)
 - Моделирование континуальных моделей и двухфазного течения в пористых средах
 - 1.1.9 Механика жидкости, газа и плазмы
 - Физтех-школа Аэрокосмических Технологий (ФАКТ)
 - Московский Физико-Технический Институт
 
 ### Магистратура
-- 01.09.2023 - 31.08.2025
+- (01.09.2023 - 31.08.2025)
 - Фундаментальная и прикладная геофизика, [программа](https://fakt.mipt.ru/master/geo-theor)
 - 03.04.01 Прикладные математика и физика
 - Физтех-школа Аэрокосмических Технологий (ФАКТ)
@@ -18,7 +18,7 @@
 - [Диплом](https://drive.google.com/file/d/1-XcbRZle2anzzGjFC6VyFhotd98uC2Zh/view?usp=drive_link)
 
 ### Бакалавра
-- 01.09.2019 - 31.08.2023
+- (01.09.2019 - 31.08.2023)
 - Аэрокосмические технологии
 - 16.03.01 Техническая физика
 - Физтех-школа Аэрокосмических Технологий (ФАКТ)
@@ -46,20 +46,21 @@
 
 1.  _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование противоточной капиллярной пропитки на основе cетевой (network) модели__ // VII Международная Конференция Триггерные Эффекты В Геосистемах 2–5 Июля 2024 Г., Долгопрудный, Тезисы Докладов, С. 54. EDN: [tfataz](https://elibrary.ru/tfataz), [тезис](https://drive.google.com/file/d/1ch1rhN66_3eEzHRqnvA_eWIv-YEG2n__/view?usp=drive_link), [сборник на сайте](https://conf2024.idg.ras.ru/docs/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81%D1%8B_2024_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.pdf), [cборник сохраненный](https://drive.google.com/file/d/1hIQZVnG3fFMV_-Pp3bejYEXIqBrjmi6h/view?usp=drive_link).
 
-1.  _Шаббир К., Извеков О., Конюхов А._ __Моделирование двухфазного потока в пористой среде с использованием двумерной сетевой модели__ // Труды 66-й Всероссийской научной конференции МФТИ, 1–6 апреля 2024 г. Аэрокосмические технологии. — М: Физматкнига. 2024, С. 164–166, ISBN 978-5-89155-411-5. _Опубликовано: 30.09.2024_. [Тезис](https://drive.google.com/file/d/18Kr-ZmFcAIboMl1DOqnGP4OZIM6tnzlw/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link).
+1.  _Шаббир К., Извеков О., Конюхов А._ __Моделирование двухфазного потока в пористой среде с использованием двумерной сетевой модели__ // Труды 66-й Всероссийской научной конференции МФТИ, 1–6 апреля 2024 г. Аэрокосмические технологии. — М: Физматкнига. 2024, С. 164–166, ISBN 978-5-89155-411-5. _Опубликовано: (30.09.2024)_. [Тезис](https://drive.google.com/file/d/18Kr-ZmFcAIboMl1DOqnGP4OZIM6tnzlw/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link).
 
-1.  _Вамси Б., Шаббир К., Извеков О._ __Моделирование двухфазного течения в пористых средах с использованием трехмерной сетевой модели__ // Труды 66-й Всероссийской научной конференции МФТИ, 1–6 апреля 2024 г. Аэрокосмические технологии. — М: Физматкнига, 2024, С. 159–161, ISBN 978-5-89155-411-5. _Опубликовано: 30.09.2024_. [Тезис](https://drive.google.com/file/d/13iEHg6TghzQ-vN2tmOrBcY3OAh6-bhPN/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link).
+1.  _Вамси Б., Шаббир К., Извеков О._ __Моделирование двухфазного течения в пористых средах с использованием трехмерной сетевой модели__ // Труды 66-й Всероссийской научной конференции МФТИ, 1–6 апреля 2024 г. Аэрокосмические технологии. — М: Физматкнига, 2024, С. 159–161, ISBN 978-5-89155-411-5. _Опубликовано: (30.09.2024)_. [Тезис](https://drive.google.com/file/d/13iEHg6TghzQ-vN2tmOrBcY3OAh6-bhPN/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link).
 
-1. _Shabbir К., Izvekov O., Konyukhov A._ __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // The International Summer Conference on Theoretical Physics 03.07.2023. [Тезис](https://drive.google.com/file/d/1dEWF1XZvazpVHgu_bwuLLjofFFrsRp1c/view?usp=drive_link).
+1. _Shabbir К., Izvekov O., Konyukhov A._ __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // The International Summer Conference on Theoretical Physics (03.07.2023). [Тезис](https://drive.google.com/file/d/1dEWF1XZvazpVHgu_bwuLLjofFFrsRp1c/view?usp=drive_link).
 
-1. _Shabbir K._ __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // Труды 65-й Всероссийской научной конференции МФТИ в честь 115-летия Л. Д. Ландау, 3–8 апреля 2023 г. Аэрокосмические технологии. — М: Физматкнига, 2023, С. 205–206, ISBN 978-5-89155-388-0. _Опубликовано: 20.11.2023_. [Тезис](https://drive.google.com/file/d/1UYF6dMIxmFJBwPrQc0uAPHd8nN_e1JKV/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1dQFcNqbNkxJzRNheBGzD_b1Sl9YMuK1l/view?usp=drive_link).
+1. _Shabbir K._ __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // Труды 65-й Всероссийской научной конференции МФТИ в честь 115-летия Л. Д. Ландау, 3–8 апреля 2023 г. Аэрокосмические технологии. — М: Физматкнига, 2023, С. 205–206, ISBN 978-5-89155-388-0. _Опубликовано: (20.11.2023)_. [Тезис](https://drive.google.com/file/d/1UYF6dMIxmFJBwPrQc0uAPHd8nN_e1JKV/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1dQFcNqbNkxJzRNheBGzD_b1Sl9YMuK1l/view?usp=drive_link).
 
 ##  Дополнительное образование
-### Профессиональная квалификация программиста, 30.06.2024
-- Сентябрь 2023 - июль 2024
+### Профессиональная квалификация программиста
+- 25.09.2023 - 30.06.2024
 - [Диплом](https://drive.google.com/file/d/1MgcwvLOYCm70ipPJrp0Dhmin9BpZhjN7/view?usp=sharing)
 
-### SolidWorks Certification, 28.12.2020
+### SolidWorks Certification
+- (28.12.2020)
 - [Сертификат](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link)
 
 ## Грант
@@ -89,26 +90,26 @@
 
 
 ## Олимпиады и cоревнования:
-1. Opendoors: Физика, 21.02.2025, [cертификат](https://drive.google.com/file/d/1k7xyISYRNEaOedDckRWqbTxhUqCl-dNZ/view?usp=drive_link).
+1. Opendoors: Физика, (21.02.2025), [cертификат](https://drive.google.com/file/d/1k7xyISYRNEaOedDckRWqbTxhUqCl-dNZ/view?usp=drive_link).
 
-1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2024, 08.10.2023, [cертификат](https://drive.google.com/file/d/1iwMvO2gnRpHlBlnyGYURe2HQJa-JWTQ3/view?usp=drive_link).
+1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2024, (08.10.2023), [cертификат](https://drive.google.com/file/d/1iwMvO2gnRpHlBlnyGYURe2HQJa-JWTQ3/view?usp=drive_link).
 
-1. Олимпиада по электродинамике, 22.05.2023, [cертификат](https://drive.google.com/file/d/1OilRnO9ZKBKF8ymKy3YiEeocrG5kMLiv/view?usp=drive_link).
+1. Олимпиада по электродинамике, (22.05.2023), [cертификат](https://drive.google.com/file/d/1OilRnO9ZKBKF8ymKy3YiEeocrG5kMLiv/view?usp=drive_link).
 
-1. Opendoors: Физика, 17.01.2023, [cертификат](https://drive.google.com/file/d/1_N6wCpkx4CgAscZjYsKIx33V_RRVSMJ2/view?usp=drive_link).
+1. Opendoors: Физика, (17.01.2023), [cертификат](https://drive.google.com/file/d/1_N6wCpkx4CgAscZjYsKIx33V_RRVSMJ2/view?usp=drive_link).
 
-1. Opendoors: Компьютерные науки и науки о данных, 11.01.2023, [cертификат](https://drive.google.com/file/d/1xUvVsdtTIcMoGnft4zmEa8dKt77K-h-r/view?usp=drive_link).
+1. Opendoors: Компьютерные науки и науки о данных, (11.01.2023), [cертификат](https://drive.google.com/file/d/1xUvVsdtTIcMoGnft4zmEa8dKt77K-h-r/view?usp=drive_link).
 
-1. Opendoors: Инженерия и технологии, 10.01.2023, [cертификат](https://drive.google.com/file/d/1m3jNMcKqqWL303jHacuxLJ3pEAOWcgZ4/view?usp=drive_link).
+1. Opendoors: Инженерия и технологии, (10.01.2023), [cертификат](https://drive.google.com/file/d/1m3jNMcKqqWL303jHacuxLJ3pEAOWcgZ4/view?usp=drive_link).
 
-1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2023, 16.10.2022, [cертификат](https://drive.google.com/file/d/1vov-Dj0uin0AXc68CrdKINrtJgZ0xkQE/view?usp=drive_link).
+1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2023, (16.10.2022), [cертификат](https://drive.google.com/file/d/1vov-Dj0uin0AXc68CrdKINrtJgZ0xkQE/view?usp=drive_link).
 
-1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2021, 15.11.2020, [cертификат](https://drive.google.com/file/d/1JRaYZjs2q4WOoDMmpCFHXw5e7jIDopjn/view?usp=drive_link).
+1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2021, (15.11.2020), [cертификат](https://drive.google.com/file/d/1JRaYZjs2q4WOoDMmpCFHXw5e7jIDopjn/view?usp=drive_link).
 
 
 ## Event Organizations:
 
-1. Greentech (10.10.2022 - today) : организую и участвую в переработке пластика из 6-го общежития, собираю батарейки и бумагу из учебных корпусов, раз в месяц участвую в качестве волонтера в сборе мусора. [link-to-volunteer-book](https://dobro.ru/volunteers/94646073/resume), [volunteer-book-snap-27.01.2025](https://drive.google.com/file/d/1aPLOkrqQSEoG5LQ676Ahf-AEldEpmhrs/view?usp=drive_link), [appreciation-certificate](https://drive.google.com/file/d/1rB_0uwVvw6LEQ8pl1PYYZlQnrOc5WN2m/view?usp=drive_link).
+1. Greentech (10.10.2022 - ...) : организую и участвую в переработке пластика из 6-го общежития, собираю батарейки и бумагу из учебных корпусов, раз в месяц участвую в качестве волонтера в сборе мусора. [link-to-volunteer-book](https://dobro.ru/volunteers/94646073/resume), [volunteer-book-snap-27.01.2025](https://drive.google.com/file/d/1aPLOkrqQSEoG5LQ676Ahf-AEldEpmhrs/view?usp=drive_link), [appreciation-certificate](https://drive.google.com/file/d/1rB_0uwVvw6LEQ8pl1PYYZlQnrOc5WN2m/view?usp=drive_link).
 
 1. Swap of clothes for greentech (03.05.2025).
 
@@ -136,13 +137,13 @@
 
 ## Physical
 ### Measure
-- Mass: 67 kg
+- Mass: 68 kg
 - Height: 173 cm
 - Head circumference: 57cm
 - Neck circumference: 38cm
 - Shoulder circumference: 106cm
 - Chest circumference: 92cm
-- Pant circumference: 82cm
+- Pant circumference: 83cm
 
 ### Clothes
 - Hat/helmet size: 58
@@ -155,43 +156,31 @@
 
 ### Exercise
 #### Morning
-1. Push ups: x40
 1. Run 8km, 55min
-1. Chin ups: x5
+1. Push ups: x40
 1. Stretch-leg-sides: x20
 1. Stretch-hip-sides: x10
 1. Stretch-leg-bow: x20
 1. Stretch-hip-twist: x10
-1. Triceps 9kg: x20
+
 
 #### Gym-odd
-| Serial| Exercise			| Target	| Current	|
-|------:|:------------------|:---------:|:---------:|
-| 2.1.	| Leg curl			| 45		|	45		|
-| 2.2.	| Shoulder press	| 12.5(35)	|	7.5(25)	|
-| 2.3.	| Squat				| 25(70)	|	15(50)	|
-| 2.4.	| Barbell curl 		| 5(20)		|	injured |
+| Day		| Exercise			| Current	|
+|----------:|:------------------|:---------:|
 
 
-#### Gym-even
-| Serial| Exercise		| Target	| Current	|
-|------:|:--------------|:---------:|:---------:|
-| 2.5.	| Pull down		| 50 		| 40		|
-| 2.6.	| Dead lift		| 35(85)	| 25(50)	|
-| 2.7.	| Bench press	| 12.5(45)	| 10(40)	|
-| 3.8.	| Sit up		| x80		| x50       |
+| A			| Sit up			| x50       |
+| A			| Dead lift			| 40		|
+| A			| Biceps and hand	| 5			|
 
-- {2.x}: 3 x 10 (sets x reps),
-- added mass (total mass) in kg
-- Total mass = barbell mass + 2 * added mass
+| B			| Leg curl			|	40		|
+| B			| Squat				|	30		|
+| B			| Shoulder press	|	20		|
 
-| Exercise | Barbell mass in kg |
-|----------|--------------------|
-|Squat			|	20      |
-|Bench press	|	20      |
-|Dead lift 		|	10      |
-|Shoulder press	|	10      |
-|Barbell curl 	|	10      |
+| C		| Pull down			| 30		|
+| C		| Bench press		| 30		|
+
+
 
 #### Running times
 
