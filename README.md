@@ -167,16 +167,12 @@
 #### Gym-odd
 | Day		| Exercise			| Current	|
 |----------:|:------------------|:---------:|
-
-
 | A			| Sit up			| x50       |
 | A			| Dead lift			| 40		|
 | A			| Biceps and hand	| 5			|
-
 | B			| Leg curl			|	40		|
 | B			| Squat				|	30		|
 | B			| Shoulder press	|	20		|
-
 | C		| Pull down			| 30		|
 | C		| Bench press		| 30		|
 
