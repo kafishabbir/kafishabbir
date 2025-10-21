@@ -165,17 +165,16 @@
 
 
 #### Gym-odd
-| Day		| Exercise			| Current	|
-|----------:|:------------------|:---------:|
-| A			| Sit up			| x50       |
-| A			| Dead lift			| 40		|
-| A			| Biceps and hand	| 5			|
-| B			| Leg curl			|	40		|
-| B			| Squat				|	30		|
-| B			| Shoulder press	|	20		|
-| C		| Pull down			| 30		|
-| C		| Bench press		| 30		|
-
+| Day | Exercise         | Current | Current Ratio | Ideal Ratio |
+|:---:|:-----------------|:-------:|:-------------:|:-----------:|
+| A   | Sit up           | x50     |      -		   |             |
+| A   | Dead lift        | 40      |      __2.0__      |     2.5     |
+| A   | Biceps and hand  | 5       |		-	   |             |
+| B   | Leg curl         | 40      |      2.0      |     0.9     |
+| B   | Squat            | 30      |      __1.5__      |     2.0     |
+| B   | Shoulder press   | 20      |      1.0      |     1.0     |
+| C   | Pull down        | 30      |      1.5      |     1.3     |
+| C   | Bench press      | 30      |      1.5      |     1.5     |
 
 
 #### Running times
