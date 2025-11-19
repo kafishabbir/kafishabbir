@@ -33,7 +33,7 @@
 - (28.12.2020)
 - [Сертификат](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link)
 
-## Публикации
+## Публикации:
 
 [English version](./pages/publications-eng.md)
 
@@ -60,7 +60,7 @@
 
 1. _Shabbir K._ __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // Труды 65-й Всероссийской научной конференции МФТИ в честь 115-летия Л. Д. Ландау, 3–8 апреля 2023 г. Аэрокосмические технологии. — М: Физматкнига, 2023, С. 205–206, ISBN 978-5-89155-388-0. _Опубликовано: (20.11.2023)_. [Тезис](https://drive.google.com/file/d/1UYF6dMIxmFJBwPrQc0uAPHd8nN_e1JKV/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1dQFcNqbNkxJzRNheBGzD_b1Sl9YMuK1l/view?usp=drive_link).
 
-## Грант
+### Грант
 1. [РНФ № 23-21-00175](https://rscf.ru/project/23-21-00175/) (01.03.2023 - 28.12.2024): Континуальное разрушение и фильтрация при разработке месторождений со сверхнизкой проницаемостью. EDN: [sfihsl](https://www.elibrary.ru/sfihsl)
 
 
@@ -104,9 +104,9 @@
 1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2021, (15.11.2020), [cертификат](https://drive.google.com/file/d/1JRaYZjs2q4WOoDMmpCFHXw5e7jIDopjn/view?usp=drive_link).
 
 
-## Event Organizations:
+## Организация мероприятий и волонтерская деятельность:
 
-1. Greentech (10.10.2022 - ...) : организую и участвую в переработке пластика из 6-го общежития, собираю батарейки и бумагу из учебных корпусов, раз в месяц участвую в качестве волонтера в сборе мусора. [link-to-volunteer-book](https://dobro.ru/volunteers/94646073/resume), [volunteer-book-snap-27.01.2025](https://drive.google.com/file/d/1aPLOkrqQSEoG5LQ676Ahf-AEldEpmhrs/view?usp=drive_link), [appreciation-certificate](https://drive.google.com/file/d/1rB_0uwVvw6LEQ8pl1PYYZlQnrOc5WN2m/view?usp=drive_link).
+1. Greentech (10.10.2022 - ...): раз в месяц участвую в качестве волонтера в сборе мусора, собираю батарейки и бумагу из учебных корпусов. (13.08.2024 - 25.10.2025) Организовал и участвовал в переработке пластика из 6‑го общежития. [link-to-volunteer-book](https://dobro.ru/volunteers/94646073/resume), [appreciation-certificate](https://drive.google.com/file/d/1rB_0uwVvw6LEQ8pl1PYYZlQnrOc5WN2m/view?usp=drive_link).
 
 1. Swap of clothes for greentech (03.05.2025).
 
