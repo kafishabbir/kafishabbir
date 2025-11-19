@@ -25,6 +25,13 @@
 - Московский Физико-Технический Институт
 - [Диплом](https://drive.google.com/file/d/1GCFFYA3cN6nYCx4Zhm7DuikevP-SxA-_/view?usp=drive_link), [report card](https://drive.google.com/file/d/1enGPK6OEO8HultZH8mThOx3ruYE5Qe2E/view?usp=drive_link)
 
+### Профессиональная квалификация программиста
+- (25.09.2023 - 30.06.2024)
+- [Диплом](https://drive.google.com/file/d/1MgcwvLOYCm70ipPJrp0Dhmin9BpZhjN7/view?usp=sharing)
+
+### SolidWorks Certification
+- (28.12.2020)
+- [Сертификат](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link)
 
 ## Публикации
 
@@ -41,7 +48,7 @@
 
 ### Тезисы с конференций :
 
-1. _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование процессов вытеснения в пористых средах с периодической неоднородностью__ // Труды 67-й Всероссийской научной конференции МФТИ, 1–5 апреля 2025 г. Аэрокосмические технологии. — М: Физматкнига. 2025, С. xxx–xxx, ISBN 978-5-xxxxx-xxx-x. [тезис](https://drive.google.com/file/d/1jqRZHVCGufpHVN0iNQTTMHgTVi5p34kQ/view?usp=drive_link).
+1. _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование процессов вытеснения в пористых средах с периодической неоднородностью__ // Труды 67-й Всероссийской научной конференции МФТИ, 1–5 апреля 2025 г. Аэрокосмические технологии. — М: Физматкнига. 2025, С. xxx–xxx, ISBN 978-5-xxxxx-xxx-x. [Тезис](https://drive.google.com/file/d/1jqRZHVCGufpHVN0iNQTTMHgTVi5p34kQ/view?usp=drive_link).
 
 1.  _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование противоточной капиллярной пропитки на основе cетевой (network) модели__ // VII Международная Конференция Триггерные Эффекты В Геосистемах 2–5 Июля 2024 Г., Долгопрудный, Тезисы Докладов, С. 54. EDN: [tfataz](https://elibrary.ru/tfataz), [тезис](https://drive.google.com/file/d/1ch1rhN66_3eEzHRqnvA_eWIv-YEG2n__/view?usp=drive_link), [сборник на сайте](https://conf2024.idg.ras.ru/docs/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81%D1%8B_2024_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.pdf), [cборник сохраненный](https://drive.google.com/file/d/1hIQZVnG3fFMV_-Pp3bejYEXIqBrjmi6h/view?usp=drive_link).
 
@@ -52,15 +59,6 @@
 1. _Shabbir К., Izvekov O., Konyukhov A._ __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // The International Summer Conference on Theoretical Physics (03.07.2023). [Тезис](https://drive.google.com/file/d/1dEWF1XZvazpVHgu_bwuLLjofFFrsRp1c/view?usp=drive_link).
 
 1. _Shabbir K._ __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // Труды 65-й Всероссийской научной конференции МФТИ в честь 115-летия Л. Д. Ландау, 3–8 апреля 2023 г. Аэрокосмические технологии. — М: Физматкнига, 2023, С. 205–206, ISBN 978-5-89155-388-0. _Опубликовано: (20.11.2023)_. [Тезис](https://drive.google.com/file/d/1UYF6dMIxmFJBwPrQc0uAPHd8nN_e1JKV/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1dQFcNqbNkxJzRNheBGzD_b1Sl9YMuK1l/view?usp=drive_link).
-
-##  Дополнительное образование
-### Профессиональная квалификация программиста
-- 25.09.2023 - 30.06.2024
-- [Диплом](https://drive.google.com/file/d/1MgcwvLOYCm70ipPJrp0Dhmin9BpZhjN7/view?usp=sharing)
-
-### SolidWorks Certification
-- (28.12.2020)
-- [Сертификат](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link)
 
 ## Грант
 1. [РНФ № 23-21-00175](https://rscf.ru/project/23-21-00175/) (01.03.2023 - 28.12.2024): Континуальное разрушение и фильтрация при разработке месторождений со сверхнизкой проницаемостью. EDN: [sfihsl](https://www.elibrary.ru/sfihsl)
