@@ -61,7 +61,7 @@
 1. _Shabbir K._ __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // Труды 65-й Всероссийской научной конференции МФТИ в честь 115-летия Л. Д. Ландау, 3–8 апреля 2023 г. Аэрокосмические технологии. — М: Физматкнига, 2023, С. 205–206, ISBN 978-5-89155-388-0. _Опубликовано: (20.11.2023)_. [Тезис](https://drive.google.com/file/d/1UYF6dMIxmFJBwPrQc0uAPHd8nN_e1JKV/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1dQFcNqbNkxJzRNheBGzD_b1Sl9YMuK1l/view?usp=drive_link).
 
 ### Грант
-1. [РНФ № 23-21-00175](https://rscf.ru/project/23-21-00175/) (01.03.2023 - 28.12.2024): Континуальное разрушение и фильтрация при разработке месторождений со сверхнизкой проницаемостью. EDN: [sfihsl](https://www.elibrary.ru/sfihsl)
+1. [РНФ № 23-21-00175](https://rscf.ru/project/23-21-00175/) (01.03.2023 - 28.12.2024): Континуальное разрушение и фильтрация при разработке месторождений со сверхнизкой проницаемостью. EDN: [sfihsl](https://www.elibrary.ru/sfihsl).
 
 
 ## Конференции и мероприятия:
@@ -110,7 +110,7 @@
 
 1. ВсОШ (16.03.2025 - 24.03.2025), Физтех-лицей. Принимал участие в организации [Всероссийской олимпиады школьников (около 300) по астрономии и астрофизике](https://t.me/astroftl25/210). Осуществлялась встреча членов жюри и участников всероссийской олимпиады в аэропорту и на вокзале, поддерживалась связь с группой участников (14 человек из 11 регионов), выполнялось дежурство во время олимпиадных туров на этаже здания и оказывалась логистическая поддержка.
 
-1. FestTech (24.09.2024): организовал регистрацию гостей, [cертификат](./pages/file-not-uploaded.md)
+1. FestTech (24.09.2024): организовал регистрацию гостей, [cертификат](./pages/file-not-uploaded.md).
 
 1. FestTech (06.05.2023): организовал перемещение мебели и регистрацию гостей [cертификат](https://drive.google.com/file/d/1MbxemX2EMx1axa3uwb2CTktriH2wiaUb/view?usp=drive_link).
 
@@ -145,7 +145,7 @@
 - Suit size: chest 48, drop 176
 - Shirt size: 40 M slim fit
 - Tshirt: M
-- Pant: 48 (russia), 32 (usa)
+- Pant: 48 (Russia), 32 (USA)
 - Shoes running: 41
 - Shoes walking: 40
 - Boots winter: 42
