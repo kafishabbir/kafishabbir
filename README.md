@@ -106,13 +106,11 @@
 
 ## Организация мероприятий и волонтерская деятельность:
 
-1. Greentech (10.10.2022 - ... ): раз в месяц участвую в качестве волонтера в сборе мусора, собираю батарейки и бумагу из учебных корпусов. (13.08.2024 - 25.10.2025): oрганизовал и участвовал в переработке пластика из 6‑го общежития. [Ссылка на волонтёрскую книжку на dobro-ru](https://dobro.ru/volunteers/94646073/resume), [appreciation-certificate](https://drive.google.com/file/d/1rB_0uwVvw6LEQ8pl1PYYZlQnrOc5WN2m/view?usp=drive_link).
-
-1. Swap of clothes for greentech (03.05.2025).
+1. Greentech (10.10.2022 - ... ): раз в месяц участвую в качестве волонтера в сборе мусора, собираю батарейки и бумагу из учебных корпусов. Swap: 03.05.2025, 31.08.2025. (13.08.2024 - 25.10.2025): oрганизовал и участвовал в переработке пластика из 6‑го общежития. [Ссылка на волонтёрскую книжку на dobro-ru](https://dobro.ru/volunteers/94646073/resume), [cертификат](https://drive.google.com/file/d/1rB_0uwVvw6LEQ8pl1PYYZlQnrOc5WN2m/view?usp=drive_link).
 
 1. ВсОШ (16.03.2025 - 24.03.2025), Физтех-лицей. Принимал участие в организации [Всероссийской олимпиады школьников (около 300) по астрономии и астрофизике](https://t.me/astroftl25/210). Осуществлялась встреча членов жюри и участников всероссийской олимпиады в аэропорту и на вокзале, поддерживалась связь с группой участников (14 человек из 11 регионов), выполнялось дежурство во время олимпиадных туров на этаже здания и оказывалась логистическая поддержка.
 
-1. FestTech (24.09.2024): организовал регистрацию гостей, [add-certificate-later](./pages/file-not-uploaded.md)
+1. FestTech (24.09.2024): организовал регистрацию гостей, [cертификат](./pages/file-not-uploaded.md)
 
 1. FestTech (06.05.2023): организовал перемещение мебели и регистрацию гостей [cертификат](https://drive.google.com/file/d/1MbxemX2EMx1axa3uwb2CTktriH2wiaUb/view?usp=drive_link).
 
@@ -132,7 +130,7 @@
 
 1. [Mini tank](https://github.com/kafishabbir/mini_tank), мы придумали новый дизайн колес и цепей, он управлялся с помощью arduino. Мы написали код, который сможет интегрировать различные системы с небольшой памятью и вычислительной мощностью. В будущем мы планируем превратить его в автоматизированного робота для разминирования или строительства чего-либо на Луне.
 
-## Physical
+## Physical Characteristics
 ### Measure
 - Mass: 68 kg
 - Height: 173 cm
@@ -148,34 +146,34 @@
 - Shirt size: 40 M slim fit
 - Tshirt: M
 - Pant: 48 (russia), 32 (usa)
-- Shoes Running: 41
+- Shoes running: 41
 - Shoes walking: 40
+- Boots winter: 42
 
 ### Exercise
-#### Morning
-1. Run 8km, 55min
-1. Push ups: x40
+#### Morning 0500 - 0600
+1. Run: 8km, 55min
 1. Stretch-leg-sides: x20
 1. Stretch-hip-sides: x10
 1. Stretch-leg-bow: x20
 1. Stretch-hip-twist: x10
+1. Push ups: x40
 
 
-#### Gym-odd
-| Day | Exercise         | Current | Current Ratio | Ideal Ratio |
-|:---:|:-----------------|:-------:|:-------------:|:-----------:|
-| A   | Sit up           | x50     |      -		   |             |
-| A   | Dead lift        | 40      |      __2.0__      |     2.5     |
-| A   | Biceps and hand  | 5       |		-	   |             |
-| B   | Leg curl         | 40      |      2.0      |     0.9     |
-| B   | Squat            | 30      |      __1.5__      |     2.0     |
-| B   | Shoulder press   | 20      |      1.0      |     1.0     |
-| C   | Pull down        | 30      |      1.5      |     1.3     |
-| C   | Bench press      | 30      |      1.5      |     1.5     |
-
+#### Gym 1825 - 1900
+| Day | Exercise         | Ratio | Mass    | Set x reps    |(/2.5), Target|
+|:---:|:-----------------|:-----:|:-------:|:-------------:|:------------:|
+| Mon | Squat            | 0.7   | 30      | 4 x 10        | (45) 113     |
+| Mon | Leg curl         | 1.7   | 40      | 4 x 10        | (24) 59      |
+| Mon | Shoulder press   | 0.9   | 20      | 4 x 10        | (22) 56      |
+| Wed | Pull up			 | 0.2   | -       |  x 3          | x 14         |
+| Wed | Pull down        | 1.0   | 30      | 4 x 10        | (30) 76      |
+| Wed | Bench press      | 0.9   | 30      | 4 x 10        | (34) 85      |
+| Fri | Sit up           | 1.5   | -       |  x 60		   | x 39         |
+| Fri | Dead lift        | 0.8   | 40      | 4 x 10        | (53) 133     |
+| Fri | Biceps curl 	 | 0.6   | 5       | 4 x 10	       | (9) 22       |
 
 #### Running times
-
 | Date | Distance (km) | Time mm::ss |
 |----------|----------|----------|
 |   23.11.2018  |	10 | 56:11 |
