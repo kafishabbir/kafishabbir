@@ -27,7 +27,6 @@
 
 
 ## Публикации
-[Русская версия](./pages/publications-rus.md)
 
 [English version](./pages/publications-eng.md)
 
@@ -35,7 +34,9 @@
 
 ### Статьи:
 
-1. _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование двухфазного течения в пористых средах с использованием неоднородной сетевой модели__ // Компьютерные Исследования И Моделирование. 2024, Т. 16, № 4, С. 913–925. DOI: [10.20537/2076-7633-2024-16-4-913-925](https://doi.org/10.20537/2076-7633-2024-16-4-913-925), EDN: [nldfeb](https://elibrary.ru/nldfeb), [ссылка](http://crm.ics.org.ru/journal/article/3500/), [статья](https://drive.google.com/file/d/18eR9BNacpS1DP670lktNDLrrjXCEN9DZ/view?usp=drive_link).
+1. _Шаббир К., Извеков О. Я., Конюхов А. В._ __Simulation of two-phase flow in porous media using an inhomogeneous network model__ // Computer Research and Modeling. 2024, V. 16, N 4, P. 913–925.
+
+DOI: [10.20537/2076-7633-2024-16-4-913-925](https://doi.org/10.20537/2076-7633-2024-16-4-913-925), EDN: [nldfeb](https://elibrary.ru/nldfeb), [ссылка](http://crm.ics.org.ru/journal/article/3500/), [статья](https://drive.google.com/file/d/18eR9BNacpS1DP670lktNDLrrjXCEN9DZ/view?usp=drive_link).
 
 1. _Шаббир К., Извеков O. Я., Вамси Б._ __Моделирование пропитки пористой среды с помощью двумерной сетевой модели__ // Труды МФТИ. 2024, Т. 18, №. 2, С. 41–50. EDN: [doeyil](https://elibrary.ru/doeyil), [ссылка](https://mipt.ru/science/trudy/62), [статья](https://drive.google.com/file/d/1ijaZ8UJ5xsav_CdEdcbFVWTFRwZIfGkb/view?usp=drive_link),
 
