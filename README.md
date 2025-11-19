@@ -106,7 +106,7 @@
 
 ## Организация мероприятий и волонтерская деятельность:
 
-1. Greentech (10.10.2022 - ...): раз в месяц участвую в качестве волонтера в сборе мусора, собираю батарейки и бумагу из учебных корпусов. (13.08.2024 - 25.10.2025) Организовал и участвовал в переработке пластика из 6‑го общежития. [link-to-volunteer-book](https://dobro.ru/volunteers/94646073/resume), [appreciation-certificate](https://drive.google.com/file/d/1rB_0uwVvw6LEQ8pl1PYYZlQnrOc5WN2m/view?usp=drive_link).
+1. Greentech (10.10.2022 - ... ): раз в месяц участвую в качестве волонтера в сборе мусора, собираю батарейки и бумагу из учебных корпусов. (13.08.2024 - 25.10.2025): oрганизовал и участвовал в переработке пластика из 6‑го общежития. [Ссылка на волонтёрскую книжку на dobro-ru](https://dobro.ru/volunteers/94646073/resume), [appreciation-certificate](https://drive.google.com/file/d/1rB_0uwVvw6LEQ8pl1PYYZlQnrOc5WN2m/view?usp=drive_link).
 
 1. Swap of clothes for greentech (03.05.2025).
 
