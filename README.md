@@ -34,16 +34,14 @@
 
 ### Статьи:
 
-1. _Шаббир К., Извеков О. Я., Конюхов А. В._ __Simulation of two-phase flow in porous media using an inhomogeneous network model__ // Computer Research and Modeling. 2024, V. 16, N 4, P. 913–925.
+1. _Шаббир К., Извеков О. Я., Конюхов А. В._ __Simulation of two-phase flow in porous media using an inhomogeneous network model__ // Computer Research and Modeling. 2024, V. 16, N 4, P. 913–925. DOI: [10.20537/2076-7633-2024-16-4-913-925](https://doi.org/10.20537/2076-7633-2024-16-4-913-925), EDN: [nldfeb](https://elibrary.ru/nldfeb), [ссылка](http://crm.ics.org.ru/journal/article/3500/), [статья](https://drive.google.com/file/d/18eR9BNacpS1DP670lktNDLrrjXCEN9DZ/view?usp=drive_link).
 
-DOI: [10.20537/2076-7633-2024-16-4-913-925](https://doi.org/10.20537/2076-7633-2024-16-4-913-925), EDN: [nldfeb](https://elibrary.ru/nldfeb), [ссылка](http://crm.ics.org.ru/journal/article/3500/), [статья](https://drive.google.com/file/d/18eR9BNacpS1DP670lktNDLrrjXCEN9DZ/view?usp=drive_link).
-
-1. _Шаббир К., Извеков O. Я., Вамси Б._ __Моделирование пропитки пористой среды с помощью двумерной сетевой модели__ // Труды МФТИ. 2024, Т. 18, №. 2, С. 41–50. EDN: [doeyil](https://elibrary.ru/doeyil), [ссылка](https://mipt.ru/science/trudy/62), [статья](https://drive.google.com/file/d/1ijaZ8UJ5xsav_CdEdcbFVWTFRwZIfGkb/view?usp=drive_link),
+1. _Шаббир К., Извеков O. Я., Вамси Б._ __Моделирование пропитки пористой среды с помощью двумерной сетевой модели__ // Труды МФТИ. 2024, Т. 18, №. 2, С. 41–50. EDN: [doeyil](https://elibrary.ru/doeyil), [ссылка](https://mipt.ru/science/trudy/62), [статья](https://drive.google.com/file/d/1ijaZ8UJ5xsav_CdEdcbFVWTFRwZIfGkb/view?usp=drive_link).
 
 
 ### Тезисы с конференций :
 
-1. _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование процессов вытеснения в пористых средах с периодической неоднородностью__ // Труды 67-й Всероссийской научной конференции МФТИ, 1–5 апреля 2025 г. Аэрокосмические технологии. — М: Физматкнига. 2025, С. xxx–xxx, ISBN 978-5-xxxxx-xxx-x.
+1. _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование процессов вытеснения в пористых средах с периодической неоднородностью__ // Труды 67-й Всероссийской научной конференции МФТИ, 1–5 апреля 2025 г. Аэрокосмические технологии. — М: Физматкнига. 2025, С. xxx–xxx, ISBN 978-5-xxxxx-xxx-x. [тезис](https://drive.google.com/file/d/1jqRZHVCGufpHVN0iNQTTMHgTVi5p34kQ/view?usp=drive_link).
 
 1.  _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование противоточной капиллярной пропитки на основе cетевой (network) модели__ // VII Международная Конференция Триггерные Эффекты В Геосистемах 2–5 Июля 2024 Г., Долгопрудный, Тезисы Докладов, С. 54. EDN: [tfataz](https://elibrary.ru/tfataz), [тезис](https://drive.google.com/file/d/1ch1rhN66_3eEzHRqnvA_eWIv-YEG2n__/view?usp=drive_link), [сборник на сайте](https://conf2024.idg.ras.ru/docs/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81%D1%8B_2024_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.pdf), [cборник сохраненный](https://drive.google.com/file/d/1hIQZVnG3fFMV_-Pp3bejYEXIqBrjmi6h/view?usp=drive_link).
 
