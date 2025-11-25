@@ -163,15 +163,15 @@
 #### Gym 1810 - 1900
 | Day | Exercise         | Ratio | Mass    | Set x reps    |(/2.5), Target|
 |:---:|:-----------------|:-----:|:-------:|:-------------:|:------------:|
-| All | Pull up			 | 0.5   | -       | 1 x 3         | x 14         |
-| All | Sit up           | 3.2   | -       | 1 x 50		   | x 39         |
-| 1 | Squat            | 0.7   | 25      | 5 x 10        | (45) 113     |
-| 1 | Leg curl         | 1.7   | 30      | 5 x 10        | (24) 59      |
-| 1 | Shoulder press   | 0.9   | 15      | 5 x 10        | (22) 56      |
-| 2 | Pull down        | 1.0   | 30      | 5 x 10        | (30) 76      |
-| 2 | Bench press      | 0.9   | 30      | 5 x 10        | (34) 85      |
-| 3 | Dead lift        | 0.8   | 40      | 5 x 10        | (53) 133     |
-| 3 | Biceps curl 	 | 0.6   | 5       | 5 x 10	       | (9) 22       |
+| All | Pull up			 | 🟧 0.5   | -       | 1 x 3         | x 14         |
+| All | Sit up           | 🟩 3.2   | -       | 1 x 50		  | x 39         |
+| 1   | Squat            | 🟧 0.6   | 25      | 5 x 10        | (45) 113     |
+| 1   | Leg curl         | 🟩 1.3   | 30      | 5 x 10        | (24) 59      |
+| 1   | Shoulder press   | 🟨 0.7   | 15      | 5 x 10        | (22) 56      |
+| 2   | Pull down        | 🟩 1.0   | 30      | 5 x 10        | (30) 76      |
+| 2   | Bench press      | 🟨 0.9   | 30      | 5 x 10        | (34) 85      |
+| 3   | Dead lift        | 🟨 0.8   | 40      | 5 x 10        | (53) 133     |
+| 3   | Biceps curl 	 | 🟧 0.6   | 5       | 5 x 10	      | (9) 22       |
 
 #### Running times
 | Date | Distance (km) | Time mm::ss |
