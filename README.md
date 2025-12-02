@@ -163,7 +163,6 @@
 #### Gym 1810 - 1900
 | Day | Exercise                   | Mass | Set x reps |
 |:---:|:---------------------------|:------:|:-------------:|
-| all | Push Ups                   | -      | 1 × 30        |
 | all | Pull Ups                   | -      | 1 × 3         |
 | all | Decline Sit Up             | -      | 1 × 60        |
 |  1  | Squat                      | 30 kg  | 5 × 10        |
