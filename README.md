@@ -161,17 +161,28 @@
 
 
 #### Gym 1810 - 1900
-| Day | Exercise         | Ratio | Mass    | Set x reps    |(/2.5), Target|
-|:---:|:-----------------|:-----:|:-------:|:-------------:|:------------:|
-| All | Pull up			 | 🟧 0.5   | -       | 1 x 3         | x 14         |
-| All | Sit up           | 🟩 3.2   | -       | 1 x 50		  | x 39         |
-| 1   | Squat            | 🟧 0.6   | 25      | 5 x 10        | (45) 113     |
-| 1   | Leg curl         | 🟩 1.3   | 30      | 5 x 10        | (24) 59      |
-| 1   | Shoulder press   | 🟨 0.7   | 15      | 5 x 10        | (22) 56      |
-| 2   | Pull down        | 🟩 1.0   | 30      | 5 x 10        | (30) 76      |
-| 2   | Bench press      | 🟨 0.9   | 30      | 5 x 10        | (34) 85      |
-| 3   | Dead lift        | 🟨 0.8   | 40      | 5 x 10        | (53) 133     |
-| 3   | Biceps curl 	 | 🟧 0.6   | 5       | 5 x 10	      | (9) 22       |
+| Day | Exercise                   | Mass | Set x reps |
+|:---:|:---------------------------|:------:|:-------------:|
+| all | Push Ups                   | -      | 1 × 30        |
+| all | Pull Ups                   | -      | 1 × 3         |
+| all | Decline Sit Up             | -      | 1 × 60        |
+|  1  | Squat                      | 30 kg  | 5 × 10        |
+|  1  | Lying Leg Curl             | 35 kg  | 5 × 10        |
+|  1  | Clean and Press            | 30 kg  | 10 × 1        |
+|  1  | Shoulder Press             | 20 kg  | 5 × 10        |
+|  1  | Upright Row                | 20 kg  | 3 × 10        |
+|  1  | Dumbbell Front Raise       | 5 kg   | 3 × 10        |
+|  1  | Dumbbell Lateral Raise     | 5 kg   | 3 × 10        |
+|  2  | Bench Press                | 30 kg  | 5 × 10        |
+|  2  | Barbell Curl               | 20 kg  | 3 × 10        |
+|  2  | Dumbbell Curl              | 5 kg   | 3 × 10        |
+|  2  | Hammer Curl                | 5 kg   | 3 × 10        |
+|  3  | Dips                       | -      | 1 × 3         |
+|  3  | Deadlift                   | 40 kg  | 5 × 10        |
+|  3  | Bent Over Row              | 30 kg  | 5 × 10        |
+|  3  | Lat Pulldown               | 30 kg  | 5 × 10        |
+|  3  | Tricep Extension           | 20 kg  | 3 × 10        |
+|  3  | Dumbbell Tricep Extension  | 5 kg   | 3 × 10        |
 
 #### Running times
 | Date | Distance (km) | Time mm::ss |
