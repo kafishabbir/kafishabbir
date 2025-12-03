@@ -169,19 +169,15 @@
 |  1  | Lying Leg Curl             | 35 kg  | 5 × 10        |
 |  1  | Clean and Press            | 30 kg  | 10 × 1        |
 |  1  | Shoulder Press             | 20 kg  | 5 × 10        |
-|  1  | Upright Row                | 20 kg  | 3 × 10        |
-|  1  | Dumbbell Front Raise       | 5 kg   | 3 × 10        |
-|  1  | Dumbbell Lateral Raise     | 5 kg   | 3 × 10        |
 |  2  | Bench Press                | 30 kg  | 5 × 10        |
-|  2  | Barbell Curl               | 20 kg  | 3 × 10        |
-|  2  | Dumbbell Curl              | 5 kg   | 3 × 10        |
-|  2  | Hammer Curl                | 5 kg   | 3 × 10        |
-|  3  | Dips                       | -      | 1 × 3         |
+|  2  | Dumbbell Tricep Extension  | 5 kg   | 3 × 10        |
+|  2  | Dumbbell Front Raise       | 5 kg   | 3 × 10        |
+|  2  | Dumbbell Lateral Raise     | 5 kg   | 3 × 10        |
 |  3  | Deadlift                   | 40 kg  | 5 × 10        |
-|  3  | Bent Over Row              | 30 kg  | 5 × 10        |
 |  3  | Lat Pulldown               | 30 kg  | 5 × 10        |
-|  3  | Tricep Extension           | 20 kg  | 3 × 10        |
-|  3  | Dumbbell Tricep Extension  | 5 kg   | 3 × 10        |
+|  3  | Barbell Curl               | 20 kg  | 3 × 10        |
+|  3  | Dumbbell Curl              | 5 kg   | 3 × 10        |
+|  3  | Hammer Curl                | 5 kg   | 3 × 10        |
 
 #### Running times
 | Date | Distance (km) | Time mm::ss |
