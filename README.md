@@ -138,7 +138,7 @@
 - Neck circumference: 38cm
 - Shoulder circumference: 106cm
 - Chest circumference: 92cm
-- Pant circumference: 83cm
+- Waist (at pant's belt) circumference: 83cm
 
 ### Clothes
 - Hat/helmet size: 58
@@ -146,8 +146,8 @@
 - Shirt size: 40 M slim fit
 - Tshirt: M
 - Pant: 48 (Russia), 32 (USA)
-- Shoes running: 41
 - Shoes walking: 40
+- Shoes running: 41
 - Boots winter: 42
 
 ### Exercise
@@ -157,29 +157,28 @@
 1. Stretch-hip-sides: x10
 1. Stretch-leg-bow: x20
 1. Stretch-hip-twist: x10
-1. Push ups: x40
-
 
 #### Gym 1810 - 1900
-| Day | Exercise | Reps x mass | Target |
-|:---:|:---|:---|:---:|
-| all | [Push Ups](https://strengthlevel.com/strength-standards/push-ups) | 30 | 27 |
-| all | [Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | 3 | 9 |
-| all | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | 70 | 25 |
-| A1 | [Squat](https://strengthlevel.com/strength-standards/squat) | 10 x 20, 30, 30, 50, 30 | 81 |
-| A2 | [Lying Leg Curl](https://strengthlevel.com/strength-standards/lying-leg-curl) | 10 x 30, 35, 35, 45, 35 | 42 |
-| A3 | [Clean and Press](https://strengthlevel.com/strength-standards/clean-and-press) | 10 x 2 x 30 | 40 |
-| A4 | [Shoulder Press](https://strengthlevel.com/strength-standards/shoulder-press) | 3 x 10 x 25 | - |
-| A5 | [Dumbbell Front Raise](https://strengthlevel.com/strength-standards/dumbbell-front-raise) | 3 x 10 x 5 | - |
-| B1 | [Bench Press](https://strengthlevel.com/strength-standards/bench-press) | 10 x 20, 30, 30, 40, 30 | 61 |
-| B2 | [Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | 10 x 30, 35, 35, 45, 35 | 53 |
-| B3 | [Tricep Push down](https://strengthlevel.com/strength-standards/tricep-rope-pushdown) | 10 x 20, 25, 30 | 30 |
-| B4 | [Dumbbell Tricep Extension](https://strengthlevel.com/strength-standards/dumbbell-tricep-extension) | 3 x 10 x 5 | - |
-| C1 | [Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 5 x 10 x 40 | 95 |
-| C2 | [Barbell Curl](https://strengthlevel.com/strength-standards/barbell-curl) | 3 x 10 x 20 | 30 |
-| C3 | [Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 3 x 10 x 10 | 32 |
-| C4 | [Dumbbell Curl](https://strengthlevel.com/strength-standards/dumbbell-curl) | 2 x 10 x 8 | - |
-| C5 | [Hammer Curl](https://strengthlevel.com/strength-standards/hammer-curl) | 2 x 10 x 8 | - |
+| Day | Exercise | Max-weight / rep |
+|:---:|:---|:---:|
+| 1 | [Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | 3 |
+| 1 | [Bench Press](https://strengthlevel.com/strength-standards/bench-press) | 40 |
+| 1 | [Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | 50 |
+| 2 | [Squat](https://strengthlevel.com/strength-standards/squat) | 50 |
+| 2 | [Lying Leg Curl](https://strengthlevel.com/strength-standards/lying-leg-curl) | 50 |
+| 2 | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | 70 |
+| 3 | [Clean and Press](https://strengthlevel.com/strength-standards/clean-and-press) | 30 |
+| 3 | [Shoulder Press](https://strengthlevel.com/strength-standards/shoulder-press) | 30 |
+| 3 | [Dumbbell Front Raise](https://strengthlevel.com/strength-standards/dumbbell-front-raise) | 5 |
+| 4 | [Barbell Curl](https://strengthlevel.com/strength-standards/barbell-curl) | 20 |
+| 4 | [Dumbbell Curl](https://strengthlevel.com/strength-standards/dumbbell-curl) | 8 |
+| 4 | [Hammer Curl](https://strengthlevel.com/strength-standards/hammer-curl) | 8 |
+| 5 | [Push Ups](https://strengthlevel.com/strength-standards/push-ups) | 60 |
+| 5 | [Tricep Push down](https://strengthlevel.com/strength-standards/tricep-rope-pushdown) | 35 |
+| 5 | [Dumbbell Tricep Extension](https://strengthlevel.com/strength-standards/dumbbell-tricep-extension) | 5 |
+| 6 | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | 70 |
+| 6 | [Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 60 |
+| 6 | [Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 10 |
 
 Note: I've kept all the original formatting and data exactly as you provided, only removing the link column as requested.
 
