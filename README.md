@@ -180,8 +180,6 @@
 | 6 | [Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 60 |
 | 6 | [Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 10 |
 
-Note: I've kept all the original formatting and data exactly as you provided, only removing the link column as requested.
-
 #### Running times
 | Date | Distance (km) | Time mm::ss |
 |----------|----------|----------|
