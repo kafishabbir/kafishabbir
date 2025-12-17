@@ -130,8 +130,38 @@
 
 1. [Mini tank](https://github.com/kafishabbir/mini_tank), мы придумали новый дизайн колес и цепей, он управлялся с помощью arduino. Мы написали код, который сможет интегрировать различные системы с небольшой памятью и вычислительной мощностью. В будущем мы планируем превратить его в автоматизированного робота для разминирования или строительства чего-либо на Луне.
 
-## Physical Characteristics
-### Measure
+
+## Exercise
+### Morning
+1. Run: 8km, 55min
+1. Stretch-leg-sides: x20
+1. Stretch-hip-sides: x10
+1. Stretch-leg-bow: x20
+1. Stretch-hip-twist: x10
+
+### Evening
+| Day | Exercise | Max-weight / rep |
+|:---:|:---|:---:|
+| **1** | [Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | 3 |
+| | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | 70 |
+| | [Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 60 |
+| | [Bent Over Row](https://strengthlevel.com/exercises/bent-over-row) | 30 |
+| | [Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | 50 |
+| **2** | [Bench Press](https://strengthlevel.com/strength-standards/bench-press) | 40 |
+| | [Tricep Push down](https://strengthlevel.com/strength-standards/tricep-rope-pushdown) | 35 |
+| | [Dumbbell Tricep Extension](https://strengthlevel.com/strength-standards/dumbbell-tricep-extension) | 5 |
+| **3** | [Barbell Curl](https://strengthlevel.com/strength-standards/barbell-curl) | 20 |
+| | [Dumbbell Curl](https://strengthlevel.com/strength-standards/dumbbell-curl) | 8 |
+| **4** | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | 70 |
+| | [Squat](https://strengthlevel.com/strength-standards/squat) | 50 |
+| | [Lying Leg Curl](https://strengthlevel.com/strength-standards/lying-leg-curl) | 50 |
+| | [Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 20 |
+| | [Seated Cable Row](https://strengthlevel.com/strength-standards/seated-cable-row) | 30 |
+| **5** | [Push Ups](https://strengthlevel.com/strength-standards/push-ups) | 60 |
+| | [Shoulder Press](https://strengthlevel.com/strength-standards/shoulder-press) | 30 |
+| | [Dumbbell Front Raise](https://strengthlevel.com/strength-standards/dumbbell-front-raise) | 5 |
+
+### Measurements
 - Mass: 68 kg
 - Height: 173 cm
 - Head circumference: 57cm
@@ -150,44 +180,13 @@
 - Shoes running: 41
 - Boots winter: 42
 
-### Exercise
-#### Morning 0500 - 0600
-1. Run: 8km, 55min
-1. Stretch-leg-sides: x20
-1. Stretch-hip-sides: x10
-1. Stretch-leg-bow: x20
-1. Stretch-hip-twist: x10
-
-#### Gym 1810 - 1900
-| Day | Exercise | Max-weight / rep |
-|:---:|:---|:---:|
-| 1 | [Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | 3 |
-| 1 | [Bench Press](https://strengthlevel.com/strength-standards/bench-press) | 40 |
-| 1 | [Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | 50 |
-| 2 | [Squat](https://strengthlevel.com/strength-standards/squat) | 50 |
-| 2 | [Lying Leg Curl](https://strengthlevel.com/strength-standards/lying-leg-curl) | 50 |
-| 2 | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | 70 |
-| 3 | [Clean and Press](https://strengthlevel.com/strength-standards/clean-and-press) | 30 |
-| 3 | [Shoulder Press](https://strengthlevel.com/strength-standards/shoulder-press) | 30 |
-| 3 | [Dumbbell Front Raise](https://strengthlevel.com/strength-standards/dumbbell-front-raise) | 5 |
-| 4 | [Barbell Curl](https://strengthlevel.com/strength-standards/barbell-curl) | 20 |
-| 4 | [Dumbbell Curl](https://strengthlevel.com/strength-standards/dumbbell-curl) | 8 |
-| 4 | [Hammer Curl](https://strengthlevel.com/strength-standards/hammer-curl) | 8 |
-| 5 | [Push Ups](https://strengthlevel.com/strength-standards/push-ups) | 60 |
-| 5 | [Tricep Push down](https://strengthlevel.com/strength-standards/tricep-rope-pushdown) | 35 |
-| 5 | [Dumbbell Tricep Extension](https://strengthlevel.com/strength-standards/dumbbell-tricep-extension) | 5 |
-| 6 | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | 70 |
-| 6 | [Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 60 |
-| 6 | [Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 10 |
-
-#### Running times
+### Running times
 | Date | Distance (km) | Time mm::ss |
 |----------|----------|----------|
 |   23.11.2018  |	10 | 56:11 |
 |   20.09.2020	|	10 | 53:20 |
 |   07.05.2025 	|	10 | 71:00 |
 |   18.05.2025 	|	10 | 60:00 |
-
 
 ## Accounts
 - ORCiD: [0000-0003-2199-9151](https://orcid.org/0000-0003-2199-9151)
