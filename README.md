@@ -156,7 +156,6 @@
 | | [Squat](https://strengthlevel.com/strength-standards/squat) | 50 |
 | | [Lying Leg Curl](https://strengthlevel.com/strength-standards/lying-leg-curl) | 50 |
 | | [Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 20 |
-| | [Seated Cable Row](https://strengthlevel.com/strength-standards/seated-cable-row) | 30 |
 | **5** | [Push Ups](https://strengthlevel.com/strength-standards/push-ups) | 60 |
 | | [Shoulder Press](https://strengthlevel.com/strength-standards/shoulder-press) | 30 |
 | | [Dumbbell Front Raise](https://strengthlevel.com/strength-standards/dumbbell-front-raise) | 5 |
