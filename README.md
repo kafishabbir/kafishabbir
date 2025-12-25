@@ -140,25 +140,37 @@
 1. Stretch-hip-twist: x10
 
 ### Evening
-| Day | Exercise | Max-weight / rep |
-|:---:|:---|:---:|
-| **1** | [Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | 3 |
-| | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | 70 |
-| | [Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 60 |
-| | [Bent Over Row](https://strengthlevel.com/exercises/bent-over-row) | 30 |
-| | [Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | 50 |
-| **2** | [Bench Press](https://strengthlevel.com/strength-standards/bench-press) | 40 |
-| | [Tricep Push down](https://strengthlevel.com/strength-standards/tricep-rope-pushdown) | 35 |
-| | [Dumbbell Tricep Extension](https://strengthlevel.com/strength-standards/dumbbell-tricep-extension) | 5 |
-| **3** | [Barbell Curl](https://strengthlevel.com/strength-standards/barbell-curl) | 20 |
-| | [Dumbbell Curl](https://strengthlevel.com/strength-standards/dumbbell-curl) | 8 |
-| **4** | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | 70 |
-| | [Squat](https://strengthlevel.com/strength-standards/squat) | 50 |
-| | [Lying Leg Curl](https://strengthlevel.com/strength-standards/lying-leg-curl) | 50 |
-| | [Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 20 |
-| **5** | [Push Ups](https://strengthlevel.com/strength-standards/push-ups) | 60 |
-| | [Shoulder Press](https://strengthlevel.com/strength-standards/shoulder-press) | 30 |
-| | [Dumbbell Front Raise](https://strengthlevel.com/strength-standards/dumbbell-front-raise) | 5 |
+| Day | Group | Exercise | Max-w / rep |
+|:---:|:-----:|:---------|:-----------:|
+| **1** | Warm Up|[Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | 3 |
+| 		| |[Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | 70 |
+| 		| |[Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | 50 |
+|		| 1. Legs |[Squat](https://strengthlevel.com/strength-standards/squat) | 50 |
+| 		| |[Lying Leg Curl](https://strengthlevel.com/strength-standards/lying-leg-curl) | 50 |
+| **2** | |[Push Ups](https://strengthlevel.com/strength-standards/push-ups) | 60 |
+|		| 1. Shoulder|[Shoulder Press](https://strengthlevel.com/strength-standards/shoulder-press) | 30 |
+| 		| |[Dumbbell Front Raise](https://strengthlevel.com/strength-standards/dumbbell-front-raise) | 5 |
+|		| 2. Biceps |[Barbell Curl](https://strengthlevel.com/strength-standards/barbell-curl) | 20 |
+| 		| |[Dumbbell Curl](https://strengthlevel.com/strength-standards/dumbbell-curl) | 8 |
+| **3** | Warm Up|[Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | 3 |
+| 		| |[Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | 70 |
+| 		| |[Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | 50 |
+| 		| 1. Back |[Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 60 |
+|		| |[Bent Over Row](https://strengthlevel.com/exercises/bent-over-row) | 30 |
+|		| |[Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 20 |
+| **4** | 1. Chest|[Bench Press](https://strengthlevel.com/strength-standards/bench-press) | 40 |
+| 		| |[Tricep Push down](https://strengthlevel.com/strength-standards/tricep-rope-pushdown) | 35 |
+| 		| |[Dumbbell Tricep Extension](https://strengthlevel.com/strength-standards/dumbbell-tricep-extension) | 5 |
+
+
+
+
+
+
+
+
+
+
 
 ### Measurements
 - Mass: 68 kg
