@@ -152,23 +152,15 @@
 | 		| |[Dumbbell Front Raise](https://strengthlevel.com/strength-standards/dumbbell-front-raise) | 5 |
 |		| 2. Biceps |[Barbell Curl](https://strengthlevel.com/strength-standards/barbell-curl) | 20 |
 | 		| |[Dumbbell Curl](https://strengthlevel.com/strength-standards/dumbbell-curl) | 8 |
-| **3** | Warm Up|[Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | 3 |
+| **3** | 1. Chest|[Bench Press](https://strengthlevel.com/strength-standards/bench-press) | 40 |
+| 		| |[Tricep Push down](https://strengthlevel.com/strength-standards/tricep-rope-pushdown) | 35 |
+| 		| |[Dumbbell Tricep Extension](https://strengthlevel.com/strength-standards/dumbbell-tricep-extension) | 5 |
+| **4** | Warm Up|[Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | 3 |
 | 		| |[Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | 70 |
 | 		| |[Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | 50 |
 | 		| 1. Back |[Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 60 |
 |		| |[Bent Over Row](https://strengthlevel.com/exercises/bent-over-row) | 30 |
 |		| |[Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 20 |
-| **4** | 1. Chest|[Bench Press](https://strengthlevel.com/strength-standards/bench-press) | 40 |
-| 		| |[Tricep Push down](https://strengthlevel.com/strength-standards/tricep-rope-pushdown) | 35 |
-| 		| |[Dumbbell Tricep Extension](https://strengthlevel.com/strength-standards/dumbbell-tricep-extension) | 5 |
-
-
-
-
-
-
-
-
 
 
 
