@@ -158,13 +158,14 @@
 | 		| 2.C. |[Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 70 (3x5) |
 |		| 3.C. |[Bent Over Row](https://strengthlevel.com/exercises/bent-over-row) | 40 (3x5) |
 |		| 4.I. |[Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 15 (3x5) |
+| 		| 5.W. |[Bodyweight Squat](https://strengthlevel.com/strength-standards/bodyweight-squat) | (1x50)|
 |       |      |                                                                        |          |
 | **5** | 1.W. |[Push Ups](https://strengthlevel.com/strength-standards/push-ups) | 60 |
 |		| 2.C. |[Shoulder Press](https://strengthlevel.com/strength-standards/shoulder-press) | 30 (3x5) |
 | 		| 3.C. |[Upright Row](https://strengthlevel.com/strength-standards/upright-row) |30 (3x5)|
 | 		| 4.I. |[Dumbbell Front Raise](https://strengthlevel.com/strength-standards/dumbbell-front-raise) | 5 (3x10) |
 | 		| 5.I. |[Dumbbell Lateral Raise](https://strengthlevel.com/strength-standards/dumbbell-lateral-raise) |5 (3x10)|
-| 		| 6.W. |[Bodyweight Squat](https://strengthlevel.com/strength-standards/bodyweight-squat) | (1x50)|
+
 
 
 
