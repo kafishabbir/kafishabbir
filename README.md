@@ -27,13 +27,13 @@
 - (25.09.2023 - 30.06.2024)
 - [Диплом](https://drive.google.com/file/d/1MgcwvLOYCm70ipPJrp0Dhmin9BpZhjN7/view?usp=sharing)
 
-### A. SolidWorks Certification
+### A. SolidWorks сертификация
 - (28.12.2020)
 - [Сертификат](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link)
 
 ## Публикации:
 
-[English version](./pages/publications-eng.md)
+[🇺🇸Американская версия🇺🇸](./pages/publications-eng.md)
 
 [Все файлы](https://drive.google.com/drive/folders/1K6X7G0WD6KmLEhiI17vd3FdvVKIH5GRZ?usp=sharing)
 
