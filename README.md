@@ -124,14 +124,21 @@
 
 1. ICPC (05.10.2021): ездил на международные соревнования по Москве, встречал их в аэропорту, [cертификат](https://drive.google.com/file/d/1QjNoe-pruaWMd_zEhZkm3Ui29fTJYbID/view?usp=drive_link).
 
-
 ## Проекты:
 1. [Запуска ракета в 2025 году](https://github.com/icarus-imperium/rocket-2025) мы добавили возможность приземления с парашютом.
 
-1. [Запуска ракета в 2023 году](https://github.com/kafishabbir/rocket2023) мы спроектировали ракету в Solidworks, напечатали ее детали на 3D-принтере, смоделировали и проверили, что она будет работать на openrocket. В ракете использовался твердотопливный двигатель. [Article on the vk page of ФАКИ](https://vk.com/astech_mipt?z=photo-17906_457246723)
+1. [Запуска ракета в 2023 году](https://github.com/kafishabbir/rocket2023) мы спроектировали ракету в Solidworks, напечатали ее детали на 3D-принтере, смоделировали и проверили, что она будет работать на openrocket. В ракете использовался твердотопливный двигатель. [Статья на ВК странице ФАКИ](https://vk.com/astech_mipt?z=photo-17906_457246723)
 
 1. [Mini tank](https://github.com/kafishabbir/mini_tank), мы придумали новый дизайн колес и цепей, он управлялся с помощью arduino. Мы написали код, который сможет интегрировать различные системы с небольшой памятью и вычислительной мощностью. В будущем мы планируем превратить его в автоматизированного робота для разминирования или строительства чего-либо на Луне.
 
+## Accounts
+- ORCiD: [0000-0003-2199-9151](https://orcid.org/0000-0003-2199-9151)
+- author_id: [1269711](https://elibrary.ru/author_profile.asp?authorid=1269711)
+- spin-код: [7182-8379](https://elibrary.ru/author_items.asp?authorid=1269711&show_option=1&show_refs=1)
+- ResearchGate: [https://www.researchgate.net/profile/Kafi-Shabbir](https://www.researchgate.net/profile/Kafi-Shabbir)
+- [Codeforces](https://codeforces.com/profile/kafiulshabbir)
+- [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK)
+- [Lichess](https://lichess.org/@/kafiulshabbir)
 
 ## Exercise
 ### Morning
@@ -142,39 +149,35 @@
 1. Stretch-hip-twist: x10
 
 ### Evening
-| Day | Group | Exercise | Max-w / rep |
+| Day | Group | Exercise | Max-w (set-x-rep) |
 |:---:|:-----:|:---------|:-----------:|
-| **1** | 1.W. |[Pull Ups](https://strengthlevel.com/strength-standards/pull-ups), [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up), [Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | (1x3), (1x60), 50 (3x5) |
-|		| 2.C. |[Squat](https://strengthlevel.com/strength-standards/squat) | 50 (3x5)|
-|		| 3.I. |[Barbell Curl](https://strengthlevel.com/strength-standards/barbell-curl) | 20 (3x10) |
-| 		| 4.C. |[Lying Leg Curl](https://strengthlevel.com/strength-standards/lying-leg-curl) | 50 (3x5) |
+| **1** | 1.W. |[Pull Ups](https://strengthlevel.com/strength-standards/pull-ups), [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up), [Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | (1x3), (1x50), 40 (3x10) |
+|		| 2.C. |[Squat](https://strengthlevel.com/strength-standards/squat) | 45 (3x10)|
+|		| 3.I. |[Barbell Curl](https://strengthlevel.com/strength-standards/barbell-curl) | 25 (3x10) |
+| 		| 4.C. |[Lying Leg Curl](https://strengthlevel.com/strength-standards/lying-leg-curl) | 40 (3x10) |
 | 		| 5.I. |[Dumbbell Curl](https://strengthlevel.com/strength-standards/dumbbell-curl) | 8 (3x10) |
 |       |      |                                                                        |          |
-| **2** | 1.C. |[Bench Press](https://strengthlevel.com/strength-standards/bench-press) | 40 (3x5) |
-| 		| 2.I. |[Tricep Push down](https://strengthlevel.com/strength-standards/tricep-rope-pushdown) | 30 (3x10) |
+| **2** | 1.C. |[Bench Press](https://strengthlevel.com/strength-standards/bench-press) | 40 (3x10) |
+| 		| 2.I. |[Tricep Push down](https://strengthlevel.com/strength-standards/tricep-rope-pushdown) | 25 (3x10) |
 | 		| 3.I. |[Dumbbell Tricep Extension](https://strengthlevel.com/strength-standards/dumbbell-tricep-extension) | 10 (3x10) |
-| 		| 4.I. |[Dumbbell Lateral Raise](https://strengthlevel.com/strength-standards/dumbbell-lateral-raise) |5 (3x10)
+| 		| 4.I. |[Dumbbell Lateral Raise](https://strengthlevel.com/strength-standards/dumbbell-lateral-raise) |5 (3x10) |
 |       |      |                                                                        |          |
 | **3** |      |                                                                        |          |
 |       |      |                                                                        |          |
-| **4** | 1.W. |[Pull Ups](https://strengthlevel.com/strength-standards/pull-ups), [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up), [Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | (1x3), (1x60), 50 (3x5) |
-| 		| 2.C. |[Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 70 (3x5) |
-|		| 3.C. |[Bent Over Row](https://strengthlevel.com/exercises/bent-over-row) | 40 (3x5) |
-|		| 4.I. |[Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 15 (3x5) |
+| **4** | 1.W. |[Pull Ups](https://strengthlevel.com/strength-standards/pull-ups), [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up), [Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | (1x3), (1x50), 40 (3x10) |
+| 		| 2.C. |[Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 60 (3x10) |
+|		| 3.C. |[Bent Over Row](https://strengthlevel.com/exercises/bent-over-row) | 40 (3x10) |
+|		| 4.I. |[Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 15 (3x10) |
 |       |      |                                                                        |          |
 | **5** | 1.W. |[Push Ups](https://strengthlevel.com/strength-standards/push-ups) | 60 |
-|		| 2.C. |[Shoulder Press](https://strengthlevel.com/strength-standards/shoulder-press) | 30 (3x5) |
-| 		| 3.C. |[Upright Row](https://strengthlevel.com/strength-standards/upright-row) |30 (3x5) |
+|		| 2.C. |[Shoulder Press](https://strengthlevel.com/strength-standards/shoulder-press) | 30 (3x10) |
+| 		| 3.C. |[Upright Row](https://strengthlevel.com/strength-standards/upright-row) |30 (3x10) |
 | 		| 4.I. |[Dumbbell Front Raise](https://strengthlevel.com/strength-standards/dumbbell-front-raise) | 5 (3x10) |
 | 		| 5.W. |[Bodyweight Squat](https://strengthlevel.com/strength-standards/bodyweight-squat) | (1x50) |
 
 
-
-
-
-
 ### Measurements
-- Mass: 68 kg
+- Mass: 70 kg
 - Height: 173 cm
 - Head circumference: 57cm
 - Neck circumference: 38cm
@@ -200,13 +203,6 @@
 |   07.05.2025 	|	10 | 71:00 |
 |   18.05.2025 	|	10 | 60:00 |
 
-## Accounts
-- ORCiD: [0000-0003-2199-9151](https://orcid.org/0000-0003-2199-9151)
-- author_id: [1269711](https://elibrary.ru/author_profile.asp?authorid=1269711)
-- spin-код: [7182-8379](https://elibrary.ru/author_items.asp?authorid=1269711&show_option=1&show_refs=1)
-- ResearchGate: [https://www.researchgate.net/profile/Kafi-Shabbir](https://www.researchgate.net/profile/Kafi-Shabbir)
-- [Codeforces](https://codeforces.com/profile/kafiulshabbir)
-- [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK)
-- [Lichess](https://lichess.org/@/kafiulshabbir)
+
 
 
