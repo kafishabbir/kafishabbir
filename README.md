@@ -46,7 +46,7 @@
 
 ### Тезисы с конференций :
 
-1. _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование процессов вытеснения в пористых средах с периодической неоднородностью__ // Труды 67-й Всероссийской научной конференции МФТИ, 31 марта – 5 апреля 2025 г. — М: Физматкнига. 2025, С. 180–182, ISBN 978-5-89155-411-5. [Тезис](https://drive.google.com/file/d/1jqRZHVCGufpHVN0iNQTTMHgTVi5p34kQ/view?usp=drive_link), [cборник](https://drive.google.com/file/d/11-eonu1FcADtqJsfr2NA7OXPvD2ARizP/view?usp=drive_link).
+1. _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование процессов вытеснения в пористых средах с периодической неоднородностью__ // Труды 67-й Всероссийской научной конференции МФТИ, 31 марта – 5 апреля 2025 г. — М: Физматкнига. 2025, С. 180–182, ISBN 978-5-89155-411-5. _Опубликовано: (30.10.2025)_ [Тезис](https://drive.google.com/file/d/1jqRZHVCGufpHVN0iNQTTMHgTVi5p34kQ/view?usp=drive_link), [cборник](https://drive.google.com/file/d/11-eonu1FcADtqJsfr2NA7OXPvD2ARizP/view?usp=drive_link).
 
 1.  _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование противоточной капиллярной пропитки на основе cетевой (network) модели__ // VII Международная Конференция Триггерные Эффекты В Геосистемах 2–5 Июля 2024 Г., Долгопрудный, Тезисы Докладов, С. 54. EDN: [tfataz](https://elibrary.ru/tfataz), [тезис](https://drive.google.com/file/d/1ch1rhN66_3eEzHRqnvA_eWIv-YEG2n__/view?usp=drive_link), [сборник на сайте](https://conf2024.idg.ras.ru/docs/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81%D1%8B_2024_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.pdf), [cборник сохраненный](https://drive.google.com/file/d/1hIQZVnG3fFMV_-Pp3bejYEXIqBrjmi6h/view?usp=drive_link).
 
