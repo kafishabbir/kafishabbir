@@ -149,7 +149,7 @@
 1. Stretch-hip-twist: x10
 
 ### Evening
-| Day | Group | Exercise | Max-w (set-x-rep) | Target (current ratio) |
+| Day | Group | Exercise | Max-w (set-x-rep) | T (ratio) |
 |:---:|:-----:|:---------|:-----------:|------------------------------:|
 | **1** | 1. |[Pull Ups](https://strengthlevel.com/strength-standards/pull-ups), [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up), [Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | (1x3), (1x50), 40 (3x10) | |
 |		| 2. |[Squat](https://strengthlevel.com/strength-standards/squat) |**45 (3x10)** |100(0.45)|
