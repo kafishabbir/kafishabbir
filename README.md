@@ -155,6 +155,7 @@
 |   | 2 | [Squat](https://strengthlevel.com/strength-standards/squat) |**45 (3x10)** |100(0.45)|
 |   | 3 | [Lying Leg Curl](https://strengthlevel.com/strength-standards/lying-leg-curl) | 40 (3x10) | |
 |   | 4 | [Bodyweight Squat](https://strengthlevel.com/strength-standards/bodyweight-squat) | (1x50) | |
+|	|	|																				|	|	|
 | 2 | 1 | [Bench Press](https://strengthlevel.com/strength-standards/bench-press) |**40 (3x10)**|70(0.57)|
 |   | 2 | [Shoulder Press](https://strengthlevel.com/strength-standards/shoulder-press) |**30 (3x10)**|50(0.60)|
 |   | 3 | [Push Ups](https://strengthlevel.com/strength-standards/push-ups) | 60 | |
@@ -163,6 +164,7 @@
 |   | 6 | [Dumbbell Tricep Extension](https://strengthlevel.com/strength-standards/dumbbell-tricep-extension) | 10 (3x10) | |
 |   | 7 | [Dumbbell Front Raise](https://strengthlevel.com/strength-standards/dumbbell-front-raise) | 5 (3x10) | |
 |   | 8 | [Dumbbell Lateral Raise](https://strengthlevel.com/strength-standards/dumbbell-lateral-raise) |5 (3x10) | |
+|	|	|																				|	|	|
 | 3 | 1 | [Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | (1x3) | |
 |   | 2 | [Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 60 (3x10) | |
 |   | 3 | [Bent Over Row](https://strengthlevel.com/exercises/bent-over-row) |**40 (3x10)**|60(0.67)|
