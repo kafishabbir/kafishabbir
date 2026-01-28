@@ -152,21 +152,21 @@
 ### Evening
 | Day | Group | Exercise | Max-w (set-x-rep) | T (ratio) |
 |:---:|:-----:|:---------|:-----------:|------------------------------:|
-| 1 | 1 | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | (1x50) | |
-|   | 2 | [Squat](https://strengthlevel.com/strength-standards/squat) |**40 (3x10)** |100(0.40)|
-|   | 3 | [Lying Leg Curl](https://strengthlevel.com/strength-standards/lying-leg-curl) | 40 (3x10) | |
-|	| 4 | [Clean and Press](https://strengthlevel.com/strength-standards/clean-and-pres) |**30 (3x2)**|	60(0.50) |
-|   | 5 | [Shoulder Press](https://strengthlevel.com/strength-standards/shoulder-press) |**20 (3x10)**|50(0.40)|
-|	|	|																				|	|	|
-| 2 | 1 | [Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | (1x3) | |
+| 1 | 1 | [Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | (1x3) | |
 |   | 2 | [Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | 40 (3x10) | |
-|   | 3 | [Bench Press](https://strengthlevel.com/strength-standards/bench-press) |**35 (3x10)**|70(0.50)|
-|   | 4 | [Tricep Push down](https://strengthlevel.com/strength-standards/tricep-rope-pushdown) | 15 (3x10) | |
+|   | 3 | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | (1x60) | |
+|   | 4 | [Squat](https://strengthlevel.com/strength-standards/squat) |**40 (3x10)** |100(0.40)|
+|   | 5 | [Lying Leg Curl](https://strengthlevel.com/strength-standards/lying-leg-curl) | 40 (3x10) | |
 |	|	|																				|	|	|
-| 3 | 1 | [Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 60 (3x10) | |
+| 2 | 1 | [Bench Press](https://strengthlevel.com/strength-standards/bench-press) |**35 (3x10)**|70(0.50)|
+|   | 2 | [Tricep Push down](https://strengthlevel.com/strength-standards/tricep-rope-pushdown) | 20 (3x10) | |
+|	| 3 | [Clean and Press](https://strengthlevel.com/strength-standards/clean-and-pres) |**35 (3x2)**|	60(0.50) |
+|   | 4 | [Shoulder Press](https://strengthlevel.com/strength-standards/shoulder-press) |**25 (3x10)**|50(0.40)|
+|	|	|																				|	|	|
+| 3 | 1 | [Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 50 (3x10) | |
 |   | 2 | [Bent Over Row](https://strengthlevel.com/exercises/bent-over-row) |**30 (3x10)**|60(0.50)|
-|   | 3 | [Barbell Curl](https://strengthlevel.com/strength-standards/barbell-curl) |**20 (3x10)**|40(0.50)|
-|   | 4 | [Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 15 (3x10) | |
+|   | 3 | [Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 15 (3x10) | |
+|   | 4 | [Barbell Curl](https://strengthlevel.com/strength-standards/barbell-curl) |**20 (3x10)**|40(0.50)|
 |   | 5 | [Dumbbell Curl](https://strengthlevel.com/strength-standards/dumbbell-curl) | 8 (3x10) | |
 
 ### Measurements
