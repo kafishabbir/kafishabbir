@@ -153,8 +153,6 @@
 ### Evening
 | Day | Group | Exercise | Max-w (set-x-rep) | Target |
 |:---:|:-----:|:---------|:-----------:|------------------------------:|
-| Day | Group | Exercise | Max-w (set-x-rep) | Target |
-|:---:|:-----:|:---------|:-----------:|------------------------------:|
 | 1 | 1 | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | (1x50) | |
 |   | 2 | [Squat](https://strengthlevel.com/strength-standards/squat) | 40 (3x10) | 100 |
 |   | 3 | [Clean and Press](https://strengthlevel.com/strength-standards/clean-and-pres) | 40 (5x1) | 60 |
