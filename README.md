@@ -65,7 +65,7 @@ ISBN 978-5-89155-388-0,
 [pdf](https://drive.google.com/file/d/1UYF6dMIxmFJBwPrQc0uAPHd8nN_e1JKV/view?usp=drive_link), 
 [cборник](https://drive.google.com/file/d/1dQFcNqbNkxJzRNheBGzD_b1Sl9YMuK1l/view?usp=drive_link)
 
-[🇺🇸eng](./publications-eng.md)
+[🇺🇸eng](./publications-eng.md),
 [все файлы](https://drive.google.com/drive/folders/1K6X7G0WD6KmLEhiI17vd3FdvVKIH5GRZ?usp=sharing)
 
 ## Грант
