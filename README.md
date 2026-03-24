@@ -1,4 +1,29 @@
-# ✝️🇺🇸🦅 Кафи Шаббир 🦅🇺🇸✝️
+# Кафи Шаббир
+
+# Статьи:
+
+1. _Shabbir K., Izvekov O. Ya., Konyukhov A.V._ __Simulation of two-phase flow in porous media using an inhomogeneous network model__ // Computer Research and Modeling. 2024, V. 16, N. 4, P. 913–925. 
+[DOI]((https://doi.org/10.20537/2076-7633-2024-16-4-913-925)): 10.20537/2076-7633-2024-16-4-913-925,
+EDN: [nldfeb](https://elibrary.ru/nldfeb),
+[ссылка](http://crm.ics.org.ru/journal/article/3500/), 
+[pdf](https://drive.google.com/file/d/18eR9BNacpS1DP670lktNDLrrjXCEN9DZ/view?usp=drive_link)
+
+1. _Шаббир К., Извеков O. Я., Вамси Б._ __Моделирование пропитки пористой среды с помощью двумерной сетевой модели__ // Труды МФТИ. 2024, Т. 18, №. 2, С. 41–50. EDN: [doeyil](https://elibrary.ru/doeyil), [ссылка](https://mipt.ru/science/trudy/62), [pdf](https://drive.google.com/file/d/1ijaZ8UJ5xsav_CdEdcbFVWTFRwZIfGkb/view?usp=drive_link)
+
+
+# Тезисы с конференций:
+
+1. _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование процессов вытеснения в пористых средах с периодической неоднородностью__ // Труды 67-й Всероссийской научной конференции МФТИ, 31 марта – 5 апреля 2025 г. — М: Физматкнига. 2025, С. 180–182, ISBN 978-5-89155-411-5. _Опубликовано: (30.10.2025)_,[текст](https://drive.google.com/file/d/1jqRZHVCGufpHVN0iNQTTMHgTVi5p34kQ/view?usp=drive_link), [cборник](https://drive.google.com/file/d/11-eonu1FcADtqJsfr2NA7OXPvD2ARizP/view?usp=drive_link)
+
+1.  _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование противоточной капиллярной пропитки на основе cетевой (network) модели__ // VII Международная Конференция Триггерные Эффекты В Геосистемах 2–5 Июля 2024 Г., Долгопрудный, Тезисы Докладов, С. 54. EDN: [tfataz](https://elibrary.ru/tfataz), [тезис](https://drive.google.com/file/d/1ch1rhN66_3eEzHRqnvA_eWIv-YEG2n__/view?usp=drive_link), [сборник на сайте](https://conf2024.idg.ras.ru/docs/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81%D1%8B_2024_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.pdf), [cборник сохраненный](https://drive.google.com/file/d/1hIQZVnG3fFMV_-Pp3bejYEXIqBrjmi6h/view?usp=drive_link).
+
+1.  _Шаббир К., Извеков О., Конюхов А._ __Моделирование двухфазного потока в пористой среде с использованием двумерной сетевой модели__ // Труды 66-й Всероссийской научной конференции МФТИ, 1–6 апреля 2024 г. Аэрокосмические технологии. — М: Физматкнига. 2024, С. 164–166, ISBN 978-5-89155-411-5. _Опубликовано: (30.09.2024)_. [Тезис](https://drive.google.com/file/d/18Kr-ZmFcAIboMl1DOqnGP4OZIM6tnzlw/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link).
+
+1.  _Вамси Б., Шаббир К., Извеков О._ __Моделирование двухфазного течения в пористых средах с использованием трехмерной сетевой модели__ // Труды 66-й Всероссийской научной конференции МФТИ, 1–6 апреля 2024 г. Аэрокосмические технологии. — М: Физматкнига, 2024, С. 159–161, ISBN 978-5-89155-411-5. _Опубликовано: (30.09.2024)_. [Тезис](https://drive.google.com/file/d/13iEHg6TghzQ-vN2tmOrBcY3OAh6-bhPN/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link).
+
+1. _Shabbir К., Izvekov O., Konyukhov A._ __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // The International Summer Conference on Theoretical Physics (03.07.2023). [Тезис](https://drive.google.com/file/d/1dEWF1XZvazpVHgu_bwuLLjofFFrsRp1c/view?usp=drive_link).
+
+1. _Shabbir K._ __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // Труды 65-й Всероссийской научной конференции МФТИ в честь 115-летия Л. Д. Ландау, 3–8 апреля 2023 г. Аэрокосмические технологии. — М: Физматкнига, 2023, С. 205–206, ISBN 978-5-89155-388-0. _Опубликовано: (20.11.2023)_. [Тезис](https://drive.google.com/file/d/1UYF6dMIxmFJBwPrQc0uAPHd8nN_e1JKV/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1dQFcNqbNkxJzRNheBGzD_b1Sl9YMuK1l/view?usp=drive_link).
 
 ## Образование:
 
@@ -13,8 +38,9 @@
 - Московский Физико-Технический Институт
 - Физтех-школа Аэрокосмических Технологий (ФАКТ)
 - 03.04.01 Прикладные математика и физика
-- Фундаментальная и прикладная геофизика, [программа](https://fakt.mipt.ru/master/geo-theor), [диплом](https://drive.google.com/file/d/1-XcbRZle2anzzGjFC6VyFhotd98uC2Zh/view?usp=drive_link)
+- Фундаментальная и прикладная геофизика
 - (01.09.2023 - 31.08.2025)
+[программа](https://fakt.mipt.ru/master/geo-theor), [диплом](https://drive.google.com/file/d/1-XcbRZle2anzzGjFC6VyFhotd98uC2Zh/view?usp=drive_link)
 
 ### 1. Бакалавра
 - Московский Физико-Технический Институт
@@ -37,26 +63,10 @@
 
 [Все файлы](https://drive.google.com/drive/folders/1K6X7G0WD6KmLEhiI17vd3FdvVKIH5GRZ?usp=sharing)
 
-### Статьи:
-
-1. _Шаббир К., Извеков О. Я., Конюхов А. В._ __Simulation of two-phase flow in porous media using an inhomogeneous network model__ // Computer Research and Modeling. 2024, V. 16, N 4, P. 913–925. DOI: [10.20537/2076-7633-2024-16-4-913-925](https://doi.org/10.20537/2076-7633-2024-16-4-913-925), EDN: [nldfeb](https://elibrary.ru/nldfeb), [ссылка](http://crm.ics.org.ru/journal/article/3500/), [статья](https://drive.google.com/file/d/18eR9BNacpS1DP670lktNDLrrjXCEN9DZ/view?usp=drive_link).
-
-1. _Шаббир К., Извеков O. Я., Вамси Б._ __Моделирование пропитки пористой среды с помощью двумерной сетевой модели__ // Труды МФТИ. 2024, Т. 18, №. 2, С. 41–50. EDN: [doeyil](https://elibrary.ru/doeyil), [ссылка](https://mipt.ru/science/trudy/62), [статья](https://drive.google.com/file/d/1ijaZ8UJ5xsav_CdEdcbFVWTFRwZIfGkb/view?usp=drive_link).
 
 
-### Тезисы с конференций :
 
-1. _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование процессов вытеснения в пористых средах с периодической неоднородностью__ // Труды 67-й Всероссийской научной конференции МФТИ, 31 марта – 5 апреля 2025 г. — М: Физматкнига. 2025, С. 180–182, ISBN 978-5-89155-411-5. _Опубликовано: (30.10.2025)_ [Тезис](https://drive.google.com/file/d/1jqRZHVCGufpHVN0iNQTTMHgTVi5p34kQ/view?usp=drive_link), [cборник](https://drive.google.com/file/d/11-eonu1FcADtqJsfr2NA7OXPvD2ARizP/view?usp=drive_link).
 
-1.  _Шаббир К., Извеков О. Я., Конюхов А. В._ __Моделирование противоточной капиллярной пропитки на основе cетевой (network) модели__ // VII Международная Конференция Триггерные Эффекты В Геосистемах 2–5 Июля 2024 Г., Долгопрудный, Тезисы Докладов, С. 54. EDN: [tfataz](https://elibrary.ru/tfataz), [тезис](https://drive.google.com/file/d/1ch1rhN66_3eEzHRqnvA_eWIv-YEG2n__/view?usp=drive_link), [сборник на сайте](https://conf2024.idg.ras.ru/docs/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81%D1%8B_2024_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.pdf), [cборник сохраненный](https://drive.google.com/file/d/1hIQZVnG3fFMV_-Pp3bejYEXIqBrjmi6h/view?usp=drive_link).
-
-1.  _Шаббир К., Извеков О., Конюхов А._ __Моделирование двухфазного потока в пористой среде с использованием двумерной сетевой модели__ // Труды 66-й Всероссийской научной конференции МФТИ, 1–6 апреля 2024 г. Аэрокосмические технологии. — М: Физматкнига. 2024, С. 164–166, ISBN 978-5-89155-411-5. _Опубликовано: (30.09.2024)_. [Тезис](https://drive.google.com/file/d/18Kr-ZmFcAIboMl1DOqnGP4OZIM6tnzlw/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link).
-
-1.  _Вамси Б., Шаббир К., Извеков О._ __Моделирование двухфазного течения в пористых средах с использованием трехмерной сетевой модели__ // Труды 66-й Всероссийской научной конференции МФТИ, 1–6 апреля 2024 г. Аэрокосмические технологии. — М: Физматкнига, 2024, С. 159–161, ISBN 978-5-89155-411-5. _Опубликовано: (30.09.2024)_. [Тезис](https://drive.google.com/file/d/13iEHg6TghzQ-vN2tmOrBcY3OAh6-bhPN/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link).
-
-1. _Shabbir К., Izvekov O., Konyukhov A._ __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // The International Summer Conference on Theoretical Physics (03.07.2023). [Тезис](https://drive.google.com/file/d/1dEWF1XZvazpVHgu_bwuLLjofFFrsRp1c/view?usp=drive_link).
-
-1. _Shabbir K._ __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__ // Труды 65-й Всероссийской научной конференции МФТИ в честь 115-летия Л. Д. Ландау, 3–8 апреля 2023 г. Аэрокосмические технологии. — М: Физматкнига, 2023, С. 205–206, ISBN 978-5-89155-388-0. _Опубликовано: (20.11.2023)_. [Тезис](https://drive.google.com/file/d/1UYF6dMIxmFJBwPrQc0uAPHd8nN_e1JKV/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1dQFcNqbNkxJzRNheBGzD_b1Sl9YMuK1l/view?usp=drive_link).
 
 ### Грант
 1. [РНФ № 23-21-00175](https://rscf.ru/project/23-21-00175/) (01.03.2023 - 28.12.2024): Континуальное разрушение и фильтрация при разработке месторождений со сверхнизкой проницаемостью. EDN: [sfihsl](https://www.elibrary.ru/sfihsl).
@@ -141,35 +151,6 @@
 - [Lichess](https://lichess.org/@/kafiulshabbir)
 
 
-
-
-
-### Measurements
-- Mass: 70 kg
-- Height: 173 cm
-- Head circumference: 57cm
-- Neck circumference: 38cm
-- Shoulder circumference: 106cm
-- Chest circumference: 92cm
-- Waist (at pant's belt) circumference: 83cm
-
-### Clothes
-- Hat/helmet size: 58
-- Suit size: chest 48, drop 176
-- Shirt size: 40 M slim fit
-- Tshirt: M
-- Pant: 48 (Russia), 32 (USA)
-- Shoes walking: 40
-- Shoes running: 41
-- Boots winter: 42
-
-### Running times
-| Date | Distance (km) | Time mm::ss |
-|----------|----------|----------|
-|   23.11.2018  |	10 | 56:11 |
-|   20.09.2020	|	10 | 53:20 |
-|   07.05.2025 	|	10 | 71:00 |
-|   18.05.2025 	|	10 | 60:00 |
 
 
 
