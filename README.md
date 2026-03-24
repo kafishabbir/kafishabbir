@@ -125,11 +125,12 @@ ISBN 978-5-89155-388-0,
 
 1. Всемирный фестиваль молодежи, Сириус (01.03.2024 - 06.03.2024): [cертификат](https://drive.google.com/file/d/1_tH-yhIkwK7BSkykej7GObDydfCiuC8U/view?usp=drive_link)
 
-1. Евразийский аэрокосмический конгресс (24.07.2023):[фото](https://drive.google.com/file/d/1voTsyCQM80th2ee3jJWofUMPgF3PWbgs/view?usp=drive_link)
+1. Евразийский аэрокосмический конгресс (24.07.2023):
+[фото](https://drive.google.com/file/d/1voTsyCQM80th2ee3jJWofUMPgF3PWbgs/view?usp=drive_link)
 
 1. The International Summer Conference on Theoretical Physics (03.07.2023):
 [certificate](https://drive.google.com/file/d/1D25U43Fzp8OsPWj0afSyWxjYGUWflHOX/view?usp=drive_link),
-[programme)](https://drive.google.com/file/d/117pS65WbWy2VTHIJYAmX7I8PgtBXBaTP/view?usp=drive_link)
+[program](https://drive.google.com/file/d/117pS65WbWy2VTHIJYAmX7I8PgtBXBaTP/view?usp=drive_link)
 
 1. Школа предпринимательства (15.04.2023): 
 [cертификат](https://drive.google.com/file/d/1CUek6bP-u8HeLjxj4pbx8kSV0DDZkxUz/view?usp=drive_link)
