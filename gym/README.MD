@@ -11,16 +11,16 @@
 |:---:|:-----:|:---------|:-----------:|------------------------------:|
 | 1 | 1 | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | 10 (3x10) | |
 |   | 2 | [Squat](https://strengthlevel.com/strength-standards/squat) | 40 (3x10) | 100 |
-|   | 3 | [Lying Leg Curl](https://strengthlevel.com/strength-standards/lying-leg-curl) | 35 (3x10) | |
-|   | 4 | [Shoulder Press](https://strengthlevel.com/strength-standards/shoulder-press) | 25 (3x10) | 50 |
+|   | 3 | [Lying Leg Curl](https://strengthlevel.com/strength-standards/lying-leg-curl) | 40 (3x10) | |
+|   | 4 | [Shoulder Press](https://strengthlevel.com/strength-standards/shoulder-press) | 30 (3x10) | 50 |
 |   |   |                                             |           |                              |
 | 2 | 1 | [Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | (1x3) | |
-|   | 2 | [Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | 35 (3x10) | |
+|   | 2 | [Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | 40 (3x10) | |
 |   | 3 | [Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 30 (3x10) | |
 |   | 4 | [Bench Press](https://strengthlevel.com/strength-standards/bench-press) | 40 (3x10) | 70 |
 |   |   |                                             |           |                              |
 | 4 | 1 | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | 10 (3x10) | |
-|   | 2 | [Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 45 (3x10) | |
+|   | 2 | [Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 60 (6x5) | |
 |   | 3 | [Clean and Press](https://strengthlevel.com/strength-standards/clean-and-pres) | 45 (5x1) | 60 |
 |   |   |                                             |           |                              |
 | 5 | 1 | [Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | (1x3) | |
