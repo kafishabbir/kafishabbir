@@ -133,7 +133,7 @@ ISBN 978-5-89155-388-0,
 [объявление](https://vk.com/wall-178582319_5352),
 [скриншот](https://drive.google.com/file/d/1a7JfigkNynKCrBfWw35YANjxU6GsDTiZ/view?usp=drive_link)
 
-1. 68-я Всероссийская научная конференция МФТИ (03.04.2024): 
+1. 68-я Всероссийская научная конференция МФТИ (03.04.2026): 
 [cертификат](https://drive.google.com/file/d/1GqJAbHTv-hjzZSNSVkTuAxB5FCDav5zM/view?usp=drive_link)
 
 1. 67-я Всероссийская научная конференция МФТИ (04.04.2025): 
