@@ -3,3 +3,7 @@ all:
 	git commit -m "some changes"
 	git push
 
+edit:
+	geany -i *.md
+	
+

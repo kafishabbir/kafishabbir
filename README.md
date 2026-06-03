@@ -1,245 +1,247 @@
-# Кафи Шаббир
+# Kafi Shabbir
 
-## Статьи:
+- 2nd year PhD student at Department of Applied Mechanics, Moscow Institute of Physics and Technology 
+- Researcher at Computational Physics Center, Moscow Institute of Physics and Technology
 
-1. _Шаббир К., Извеков О. Я., Конюхов А. В._
-__Сетевое и континуальное моделирование капиллярной неравновесности двухфазной фильтрации__
+## Education:
+
+### 3. PhD in Fluid Mechanics
+- September 2025 - June 2029
+- Department of Applied Mechanics
+- School of Aerospace Engineering
+- Moscow Institute of Physics and Technology
+- Thesis title: __Network Models of Fluid Flow in Porous Media with Dynamically Changing Geometry__
+
+### 2. Master's in Applied Physics 
+- September 2023 - June 2025
+- Department of Applied Mechanics (Research and 40% of the course work)
+- School of Aerospace Engineering
+- Moscow Institute of Physics and Technology
+- Russian Academy of Sciences: Sadovsky [Institute](http://idg.chph.ras.ru/) of Geosphere Dynamics (60% of the [course work](https://fakt.mipt.ru/master/geo-theor))
+- Thesis title: __Network Model of Two-Phase Filtration in Heterogeneous Porous Media__
+- [certificate](https://drive.google.com/file/d/1-XcbRZle2anzzGjFC6VyFhotd98uC2Zh/view?usp=drive_link)
+
+### 1. Bachelor's in Aerospace Engineering
+- September 2019 - June 2023
+- Department of Applied Mechanics
+- School of Aerospace Engineering
+- Moscow Institute of Physics and Technology
+- Thesis title: __Models of Non-equilibrium Flow in Porous Medium__
+- [certificate](https://drive.google.com/file/d/1GCFFYA3cN6nYCx4Zhm7DuikevP-SxA-_/view?usp=drive_link)
+- [transcript](https://drive.google.com/file/d/1enGPK6OEO8HultZH8mThOx3ruYE5Qe2E/view?usp=drive_link)
+
+### B. Python Programming Certification
+- September 2023 - June 2024
+- [certificate](https://drive.google.com/file/d/1MgcwvLOYCm70ipPJrp0Dhmin9BpZhjN7/view?usp=sharing)
+
+### A. SolidWorks certification
+- December 2020
+- [certificate](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link)
+
+## Employment:
+| Start | End | Occupation | Organization | Location | Description |
+|------:|----:|:-----------|:-------------|:---------|:------------|
+| 2026-05-18 | present | Researcher | Computational Physics Center, MIPT | 141700, Moscow Region, Dolgoprudny | Development of Network models of two phase flow in porous media under Russian Science Fund grant [24-67-00026](https://rscf.ru/project/24-67-00026/)|
+| 2026-02-01 | 2026-06-30 | C++ Teacher Assistant | Center for Programming Education, School of Radio Engineering, MIPT | 141700, Moscow Region, Dolgoprudny | Graded homeworks and tasks for 1st year Masters students of the course: [Software Engineering with C++](https://github.com/i-s-m-mipt/Education) |
+| 2026-03-12 | 2026-03-21 | Curator | Phystech Lyceum | 141707, Moscow Region, Dolgoprudny | Helped [organize](https://drive.google.com/file/d/1lHYNzK-vhkKtv2YzcdOdXzB_rprZkxwu/view?usp=drive_link) All-Russian Olympiad in Economics |
+
+
+## Articles:
+
+1. _Shabbir K., Izvekov O., Konyukhov A._
+__Network and continuum modeling of capillary non-equilibrium in two-phase flow__
 //
-Труды МФТИ, 2026, Т. 18, №. 1, С. 181–192.
-[EDN](https://mipt.ru/science/trudy/69): not-available-yet,
-[ссылка](https://mipt.ru/science/trudy/69), 
+MIPT Proceedings, 2026, V. 18(1), 181–192.
+[edn](https://mipt.ru/upload/%D0%A2%D1%80%D1%83%D0%B4%D1%8B%20%D0%BC%D1%84%D1%82%D0%B8/69/16.pdf),
+[link](https://mipt.ru/science/trudy/69),
 [pdf](https://drive.google.com/file/d/13CPgw5xPFL1B20XptjFq1yAqX1aLKcfM/view?usp=drive_link)
 
-1. _Shabbir K., Izvekov O. Ya., Konyukhov A.V._
+2. _Shabbir K., Izvekov O., Konyukhov A._
 __Simulation of two-phase flow in porous media using an inhomogeneous network model__
 //
-Computer Research and Modeling. 2024, V. 16, N. 4, P. 913–925. 
-[DOI](https://doi.org/10.20537/2076-7633-2024-16-4-913-925): 10.20537/2076-7633-2024-16-4-913-925,
-[EDN](https://elibrary.ru/nldfeb): nldfeb,
-[ссылка](http://crm.ics.org.ru/journal/article/3500/), 
+Computer Research and Modeling, 2024, V. 16(4), 913–925.
+[doi](https://doi.org/10.20537/2076-7633-2024-16-4-913-925),
+[edn](https://elibrary.ru/nldfeb),
+[link](http://crm.ics.org.ru/journal/article/3500/),
 [pdf](https://drive.google.com/file/d/18eR9BNacpS1DP670lktNDLrrjXCEN9DZ/view?usp=drive_link)
 
-1. _Шаббир К., Извеков O. Я., Вамси Б._
-__Моделирование пропитки пористой среды с помощью двумерной сетевой модели__
+3. _Shabbir K., Izvekov O., Vamsi B._
+__Modeling imbibition in porous media using a two-dimensional network model__
 //
-Труды МФТИ. 2024, Т. 18, №. 2, С. 41–50.
-[EDN](https://elibrary.ru/doeyil): doeyil,
-[ссылка](https://mipt.ru/science/trudy/62), 
+MIPT Proceedings, 2024, V. 18(2), 41–50.
+[edn](https://elibrary.ru/doeyil),
+[link](https://mipt.ru/science/trudy/62),
 [pdf](https://drive.google.com/file/d/1ijaZ8UJ5xsav_CdEdcbFVWTFRwZIfGkb/view?usp=drive_link)
 
+## Grants
+Participant as researcher in the grants:
 
-## Тезисы с конференций:
+1. [RSF No. 24-67-00026](https://rscf.ru/project/24-67-00026/): From nanometer to meter: how to jump six orders of magnitude in describing physical properties in hierarchically structured porous media with minimal loss of information content?
 
-1. _Шаббир К., Извеков О.Я., Конюхов А.В._
-__Неоднородная сетевая модель для задач двухфазной фильтрации__
+1. [RSF No. 23-21-00175](https://rscf.ru/project/23-21-00175/) (2023-03-01 - 2024-12-28): Continuum fracturing and fluid flow in ultralow-permeability reservoir development.
+[end](https://www.elibrary.ru/sfihsl)
+
+## Conference abstracts:
+
+1. _Shabbir K., Izvekov O., Konyukhov A._
+__Inhomogeneous network model for two-phase flow problems__
 //
-53 школа-конференция Актуальные проблемы механики 22-26 июня 2026 года, Санкт-Петербург, Россия
+53rd Conference "Problems of Mechanics", June 22-26, 2026, Saint Petersburg
 
-1. _Шаббир К., Конюхов А. В., Извеков О. Я._
-__Влияние отношения вязкостей фаз на капиллярную неравновесность двухфазного вытеснения в структурно неоднородной пористой среде__
+2. _Shabbir K., Konyukhov A., Izvekov O._
+__Effect of phase viscosity ratio on capillary non-equilibrium in two-phase displacement in structurally heterogeneous porous media__
 //
-Труды 68-й Всероссийской научной конференции МФТИ в честь 130-летия со дня рождения Н.Н. Семёнова. — М: Физматкнига. 2026, С. xxx–xxx.
-ISBN 978-5-89155-xxx-x,
+Proceedings of the 68th All-Russian Scientific Conference of MIPT in honor of the 130th anniversary of the birth of N.N. Semenov, 2026, pp. xxx–xxx. ISBN 978-5-89155-xxx-x,
 [pdf](https://drive.google.com/file/d/1GqJAbHTv-hjzZSNSVkTuAxB5FCDav5zM/view?usp=drive_link),
-[cборник](conf.mipt.ru)
+[proceedings](conf.mipt.ru)
 
-1. _Шаббир К., Извеков О. Я., Конюхов А. В._
-__Моделирование процессов вытеснения в пористых средах с периодической неоднородностью__
+3. _Shabbir K., Izvekov O., Konyukhov A._
+__Modeling of displacement processes in porous media with periodic heterogeneity__
 //
-Труды 67-й Всероссийской научной конференции МФТИ, 31 марта – 5 апреля 2025 г. — М: Физматкнига. 2025, С. 180–182.
-ISBN 978-5-89155-411-5,
-[pdf](https://drive.google.com/file/d/1jqRZHVCGufpHVN0iNQTTMHgTVi5p34kQ/view?usp=drive_link), [cборник](https://drive.google.com/file/d/11-eonu1FcADtqJsfr2NA7OXPvD2ARizP/view?usp=drive_link)
+Proceedings of the 67th All-Russian Scientific Conference of MIPT, March 31 – April 5, 2025, pp. 180–182. ISBN 978-5-89155-411-5,
+[pdf](https://drive.google.com/file/d/1jqRZHVCGufpHVN0iNQTTMHgTVi5p34kQ/view?usp=drive_link),
+[proceedings](https://drive.google.com/file/d/11-eonu1FcADtqJsfr2NA7OXPvD2ARizP/view?usp=drive_link)
 
-1.  _Шаббир К., Извеков О. Я., Конюхов А. В._
-__Моделирование противоточной капиллярной пропитки на основе cетевой (network) модели__
+4. _Shabbir K., Izvekov O., Konyukhov A._
+__Modeling of counter-current capillary imbibition based on a network model__
 //
-VII Международная Конференция Триггерные Эффекты В Геосистемах 2–5 Июля 2024 Г., Долгопрудный, Тезисы Докладов, С. 54.
-[EDN](https://elibrary.ru/tfataz): tfataz, [pdf](https://drive.google.com/file/d/1ch1rhN66_3eEzHRqnvA_eWIv-YEG2n__/view?usp=drive_link),
-[сборник](https://drive.google.com/file/d/1hIQZVnG3fFMV_-Pp3bejYEXIqBrjmi6h/view?usp=drive_link),
-[ссылка](https://conf2024.idg.ras.ru/docs/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81%D1%8B_2024_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.pdf)
+VII International Conference "Trigger Effects in Geosystems", July 2–5, 2024, Dolgoprudny, p. 54.
+[edn](https://elibrary.ru/tfataz),
+[pdf](https://drive.google.com/file/d/1ch1rhN66_3eEzHRqnvA_eWIv-YEG2n__/view?usp=drive_link),
+[proceedings](https://drive.google.com/file/d/1hIQZVnG3fFMV_-Pp3bejYEXIqBrjmi6h/view?usp=drive_link),
+[link](https://conf2024.idg.ras.ru/docs/%D0%A2%D0%B5%D0%B7%D0%B8%D1%81%D1%8B_2024_%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.pdf)
 
-1.  _Шаббир К., Извеков О., Конюхов А._
-__Моделирование двухфазного потока в пористой среде с использованием двумерной сетевой модели__
+5. _Shabbir K., Izvekov O., Konyukhov A._
+__Modeling of two-phase flow in porous media using a two-dimensional network model__
 //
-Труды 66-й Всероссийской научной конференции МФТИ, 1–6 апреля 2024 г. Аэрокосмические технологии. — М: Физматкнига. 2024, С. 164–166.
-ISBN 978-5-89155-411-5,
-[pdf](https://drive.google.com/file/d/18Kr-ZmFcAIboMl1DOqnGP4OZIM6tnzlw/view?usp=drive_link), [cборник](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link)
+Proceedings of the 66th All-Russian Scientific Conference of MIPT, April 1–6, 2024, pp. 164–166.
+[pdf](https://drive.google.com/file/d/18Kr-ZmFcAIboMl1DOqnGP4OZIM6tnzlw/view?usp=drive_link),
+[proceedings](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link)
 
-1.  _Вамси Б., Шаббир К., Извеков О._
-__Моделирование двухфазного течения в пористых средах с использованием трехмерной сетевой модели__
+6. _Vamsi B., Shabbir K., Izvekov O._
+__Modeling of two-phase flow in porous media using a three-dimensional network model__
 //
-Труды 66-й Всероссийской научной конференции МФТИ, 1–6 апреля 2024 г. Аэрокосмические технологии. — М: Физматкнига, 2024, С. 159–161.
-ISBN 978-5-89155-411-5,
-[pdf](https://drive.google.com/file/d/13iEHg6TghzQ-vN2tmOrBcY3OAh6-bhPN/view?usp=drive_link), 
-[cборник](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link)
+Proceedings of the 66th All-Russian Scientific Conference of MIPT, April 1–6, 2024, pp. 159–161.
+[pdf](https://drive.google.com/file/d/13iEHg6TghzQ-vN2tmOrBcY3OAh6-bhPN/view?usp=drive_link),
+[proceedings](https://drive.google.com/file/d/1ZL5H1xJ0ZYRsa3xY7t7QXe9OsqUuZ4b2/view?usp=drive_link)
 
-1. _Shabbir К., Izvekov O., Konyukhov A._
+7. _Shabbir K., Izvekov O., Konyukhov A._
 __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__
 //
-The International Summer Conference on Theoretical Physics (03.07.2023), [pdf](https://drive.google.com/file/d/1dEWF1XZvazpVHgu_bwuLLjofFFrsRp1c/view?usp=drive_link)
+The International Summer Conference on Theoretical Physics, July 3, 2023.
+[pdf](https://drive.google.com/file/d/1dEWF1XZvazpVHgu_bwuLLjofFFrsRp1c/view?usp=drive_link)
 
-1. _Shabbir K._
+8. _Shabbir K._
 __Simulation of Two-Phase Flow in Porous Media using a Two-Dimensional Network Model__
 //
-Труды 65-й Всероссийской научной конференции МФТИ в честь 115-летия Л. Д. Ландау, 3–8 апреля 2023 г. Аэрокосмические технологии. — М: Физматкнига, 2023, С. 205–206.
-ISBN 978-5-89155-388-0,
-[pdf](https://drive.google.com/file/d/1UYF6dMIxmFJBwPrQc0uAPHd8nN_e1JKV/view?usp=drive_link), 
-[cборник](https://drive.google.com/file/d/1dQFcNqbNkxJzRNheBGzD_b1Sl9YMuK1l/view?usp=drive_link)
+Proceedings of the 65th All-Russian Scientific Conference of MIPT in honor of the 115th anniversary of L. D. Landau, April 3–8, 2023, pp. 205–206.
+[pdf](https://drive.google.com/file/d/1UYF6dMIxmFJBwPrQc0uAPHd8nN_e1JKV/view?usp=drive_link),
+[proceedings](https://drive.google.com/file/d/1dQFcNqbNkxJzRNheBGzD_b1Sl9YMuK1l/view?usp=drive_link)
 
-[In American🇺🇸](./publications-eng.md),
-[все файлы](https://drive.google.com/drive/folders/1K6X7G0WD6KmLEhiI17vd3FdvVKIH5GRZ?usp=sharing)
-
-
-## Грант
-
-1. [РНФ № 24-67-00026](https://rscf.ru/project/24-67-00026/): От нанометра к метру: как в пористых средах с иерархическим строением совершить прыжок в описании физических свойств на шесть порядков с минимальной потерей информационного содержания? 
-
-1. [РНФ № 23-21-00175](https://rscf.ru/project/23-21-00175/) (01.03.2023 - 28.12.2024): Континуальное разрушение и фильтрация при разработке месторождений со сверхнизкой проницаемостью. EDN: [sfihsl](https://www.elibrary.ru/sfihsl)
+[all files](https://drive.google.com/drive/folders/1K6X7G0WD6KmLEhiI17vd3FdvVKIH5GRZ?usp=sharing)
 
 
 
-## Образование:
-### 3. Аспирантура
-- (01.09.2025 - 31.08.2029)
-- Московский Физико-Технический Институт
-- Физтех-школа Аэрокосмических Технологий (ФАКТ)
-- 1.1.9 Механика жидкости, газа и плазмы
-- Моделирование континуальных моделей и двухфазного течения в пористых средах
 
-### 2. Магистратура
-- (01.09.2023 - 31.08.2025)
-- Московский Физико-Технический Институт
-- Физтех-школа Аэрокосмических Технологий (ФАКТ)
-- 03.04.01 Прикладные математика и физика
-- Фундаментальная и прикладная геофизика
-- [программа](https://fakt.mipt.ru/master/geo-theor),
-[диплом](https://drive.google.com/file/d/1-XcbRZle2anzzGjFC6VyFhotd98uC2Zh/view?usp=drive_link)
+## Conferences and events:
+1. Open seminar of the Center for Computational Physics, LPI MIPT (2026-04-08): Inhomogeneous network model for two-phase flow problems: capillary non-equilibrium and Saffman–Taylor instability.
+[announcement](https://vk.com/wall-178582319_5352),
+[screenshot](https://drive.google.com/file/d/1a7JfigkNynKCrBfWw35YANjxU6GsDTiZ/view?usp=drive_link)
 
-### 1. Бакалавра
-- (01.09.2019 - 31.08.2023)
-- Московский Физико-Технический Институт
-- Физтех-школа Аэрокосмических Технологий (ФАКТ)
-- 16.03.01 Техническая физика
-- Аэрокосмические технологии,
-- [диплом](https://drive.google.com/file/d/1GCFFYA3cN6nYCx4Zhm7DuikevP-SxA-_/view?usp=drive_link),
-[транскрипт](https://drive.google.com/file/d/1enGPK6OEO8HultZH8mThOx3ruYE5Qe2E/view?usp=drive_link)
+1. 68th All-Russian Scientific Conference of MIPT (2026-04-03): 
+[certificate](https://drive.google.com/file/d/1GqJAbHTv-hjzZSNSVkTuAxB5FCDav5zM/view?usp=drive_link)
 
-### B. Профессиональная квалификация программиста
-- (25.09.2023 - 30.06.2024)
-- [диплом](https://drive.google.com/file/d/1MgcwvLOYCm70ipPJrp0Dhmin9BpZhjN7/view?usp=sharing)
+1. 67th All-Russian Scientific Conference of MIPT (2025-04-04): 
+[certificate](https://drive.google.com/file/d/1Xm4NQOTk0mv3UrCITrNRjBNMs79VfFFv/view?usp=drive_link)
 
-### A. SolidWorks сертификация
-- (28.12.2020)
-- [сертификат](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link)
+1. IV Congress of Young Scientists, Sirius (2024-11-27 - 2024-11-29): 
+[certificate](https://drive.google.com/file/d/1aLEZlM2Q2xoBu4-7_M4_Uth3qhBmTxn4/view?usp=drive_link)
 
+1. Summer School on Trigger Effects in Geosystems (2024-07-03): 
+[certificate](https://drive.google.com/file/d/1-zFUOyJr_61EasyoQ8II7oZd0qu_b350/view?usp=drive_link)
 
-## Конференции и мероприятия:
-1. Открытый семинар Центра вычислительной физики ЛФИ МФТИ (08.04.2026): Неоднородная сетевая модель для задач двухфазной фильтрации: капиллярная неравновесность и неустойчивость Саффмана–Тэйлора.
-[объявление](https://vk.com/wall-178582319_5352),
-[скриншот](https://drive.google.com/file/d/1a7JfigkNynKCrBfWw35YANjxU6GsDTiZ/view?usp=drive_link)
+1. VII International Conference: Trigger Effects in Geosystems, Dolgoprudny, Russia, (2024-07-02 - 2024-07-05):
+[letter](https://drive.google.com/file/d/1POJX0404gQvl4NnoE0hW0oFLAnhwTx6z/view?usp=drive_link).
 
-1. 68-я Всероссийская научная конференция МФТИ (03.04.2026): 
-[cертификат](https://drive.google.com/file/d/1GqJAbHTv-hjzZSNSVkTuAxB5FCDav5zM/view?usp=drive_link)
+1. 66th All-Russian Scientific Conference of MIPT (2024-04-05):
+[certificate](https://drive.google.com/file/d/1IThZg5WiBYveaT5z3wpfkg-3ub-VodJP/view?usp=drive_link)
 
-1. 67-я Всероссийская научная конференция МФТИ (04.04.2025): 
-[cертификат](https://drive.google.com/file/d/1Xm4NQOTk0mv3UrCITrNRjBNMs79VfFFv/view?usp=drive_link)
+1. World Youth Festival, Sirius (2024-03-01 - 2024-03-06): [certificate](https://drive.google.com/file/d/1_tH-yhIkwK7BSkykej7GObDydfCiuC8U/view?usp=drive_link)
 
-1. IV Конгресса молодых ученых, Сириус (27.11.2024 - 29.11.2024): 
-[cертификат](https://drive.google.com/file/d/1aLEZlM2Q2xoBu4-7_M4_Uth3qhBmTxn4/view?usp=drive_link)
+1. Eurasian Aerospace Congress (2023-07-24):
+[photo](https://drive.google.com/file/d/1voTsyCQM80th2ee3jJWofUMPgF3PWbgs/view?usp=drive_link)
 
-1. Летняя школа по триггерным эффектам в геосистемах (03.07.2024): 
-[cертификат](https://drive.google.com/file/d/1-zFUOyJr_61EasyoQ8II7oZd0qu_b350/view?usp=drive_link)
-
-1. VII Международная конференция: Триггерные эффекты в геосистемах, Долгопрудный, Россия, (02.07.2024 - 05.07.2024):
-[письмо](https://drive.google.com/file/d/1POJX0404gQvl4NnoE0hW0oFLAnhwTx6z/view?usp=drive_link).
-
-1. 66-я Всероссийская научная конференция МФТИ (05.04.2024):
-[cертификат](https://drive.google.com/file/d/1IThZg5WiBYveaT5z3wpfkg-3ub-VodJP/view?usp=drive_link)
-
-1. Всемирный фестиваль молодежи, Сириус (01.03.2024 - 06.03.2024): [cертификат](https://drive.google.com/file/d/1_tH-yhIkwK7BSkykej7GObDydfCiuC8U/view?usp=drive_link)
-
-1. Евразийский аэрокосмический конгресс (24.07.2023):
-[фото](https://drive.google.com/file/d/1voTsyCQM80th2ee3jJWofUMPgF3PWbgs/view?usp=drive_link)
-
-1. The International Summer Conference on Theoretical Physics (03.07.2023):
+1. The International Summer Conference on Theoretical Physics (2023-07-03):
 [certificate](https://drive.google.com/file/d/1D25U43Fzp8OsPWj0afSyWxjYGUWflHOX/view?usp=drive_link),
 [program](https://drive.google.com/file/d/117pS65WbWy2VTHIJYAmX7I8PgtBXBaTP/view?usp=drive_link)
 
-1. Школа предпринимательства (15.04.2023): 
-[cертификат](https://drive.google.com/file/d/1CUek6bP-u8HeLjxj4pbx8kSV0DDZkxUz/view?usp=drive_link)
+1. School of Entrepreneurship (2023-04-15): 
+[certificate](https://drive.google.com/file/d/1CUek6bP-u8HeLjxj4pbx8kSV0DDZkxUz/view?usp=drive_link)
 
-1. 65-я Всероссийская научная конференция МФТИ (08.04.2023):
-[cертификат за лучшего докладчика](https://drive.google.com/file/d/1ljK9G-bwcgsKskkzEpvPk6d1rBpxcHlD/view?usp=drive_link),
-[cертификат участника](https://drive.google.com/file/d/1A8ht6zl4cgYfjY9o-gVjiNEGM_QEbvrG/view?usp=drive_link)
-
-
-## Олимпиады и cоревнования:
-1. Opendoors: Физика (21.02.2025), [cертификат](https://drive.google.com/file/d/1k7xyISYRNEaOedDckRWqbTxhUqCl-dNZ/view?usp=drive_link)
-
-1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2024 (08.10.2023), [cертификат](https://drive.google.com/file/d/1iwMvO2gnRpHlBlnyGYURe2HQJa-JWTQ3/view?usp=drive_link)
-
-1. Олимпиада по электродинамике (22.05.2023), [cертификат](https://drive.google.com/file/d/1OilRnO9ZKBKF8ymKy3YiEeocrG5kMLiv/view?usp=drive_link)
-
-1. Opendoors: Физика (17.01.2023), [cертификат](https://drive.google.com/file/d/1_N6wCpkx4CgAscZjYsKIx33V_RRVSMJ2/view?usp=drive_link)
-
-1. Opendoors: Компьютерные науки и науки о данных (11.01.2023), [cертификат](https://drive.google.com/file/d/1xUvVsdtTIcMoGnft4zmEa8dKt77K-h-r/view?usp=drive_link)
-
-1. Opendoors: Инженерия и технологии (10.01.2023), [cертификат](https://drive.google.com/file/d/1m3jNMcKqqWL303jHacuxLJ3pEAOWcgZ4/view?usp=drive_link)
-
-1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2023 (16.10.2022), [cертификат](https://drive.google.com/file/d/1vov-Dj0uin0AXc68CrdKINrtJgZ0xkQE/view?usp=drive_link)
-
-1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2021 (15.11.2020), [cертификат](https://drive.google.com/file/d/1JRaYZjs2q4WOoDMmpCFHXw5e7jIDopjn/view?usp=drive_link)
+1. 65th All-Russian Scientific Conference of MIPT (2023-04-08):
+[certificate for best speaker](https://drive.google.com/file/d/1ljK9G-bwcgsKskkzEpvPk6d1rBpxcHlD/view?usp=drive_link),
+[participant certificate](https://drive.google.com/file/d/1A8ht6zl4cgYfjY9o-gVjiNEGM_QEbvrG/view?usp=drive_link)
 
 
-## Организация мероприятий и волонтерская деятельность:
+## Olympiads and competitions:
+1. Opendoors: Physics (2025-02-21), [certificate](https://drive.google.com/file/d/1k7xyISYRNEaOedDckRWqbTxhUqCl-dNZ/view?usp=drive_link)
 
-1. Greentech МФТИ (10.10.2022 - ... ): раз в месяц участвую в качестве волонтера в сборе мусора, собираю батарейки и бумагу из учебных корпусов.
+1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2024 (2023-10-08), [certificate](https://drive.google.com/file/d/1iwMvO2gnRpHlBlnyGYURe2HQJa-JWTQ3/view?usp=drive_link)
 
-1. ВсОШ по экономике (12.03.2026 - 21.03.2026): куратор/ организатор,
-[письмо](https://drive.google.com/file/d/1lHYNzK-vhkKtv2YzcdOdXzB_rprZkxwu/view?usp=drive_link)
+1. Olympiad in Electrodynamics (2023-05-22), [certificate](https://drive.google.com/file/d/1OilRnO9ZKBKF8ymKy3YiEeocrG5kMLiv/view?usp=drive_link)
 
-1. Swap (Greentech МФТИ) (03.05.2025, 31.08.2025, 29.11.2025): провел мероприятия по обмену одеждой. Занимался логистикой, приемом и сортировкой вещей, координацией участников., 
-[ссылка](https://t.me/green_tech_mipt/113)
+1. Opendoors: Physics (2023-01-17), [certificate](https://drive.google.com/file/d/1_N6wCpkx4CgAscZjYsKIx33V_RRVSMJ2/view?usp=drive_link)
 
-1. Переработки пластика (Greentech МФТИ) (13.08.2024 - 25.10.2025): oрганизовал и участвовал в переработке пластика из 6‑го общежития,
-[cертификат](https://drive.google.com/file/d/1rB_0uwVvw6LEQ8pl1PYYZlQnrOc5WN2m/view?usp=drive_link)
+1. Opendoors: Computer Science and Data Science (2023-01-11), [certificate](https://drive.google.com/file/d/1xUvVsdtTIcMoGnft4zmEa8dKt77K-h-r/view?usp=drive_link)
 
-1. ВсОШ по [астрономии](https://t.me/astroftl25/210) (16.03.2025 - 24.03.2025), Физтех-лицей: Принимал участие в организации. Встречал членов жюри и участников в аэропорту и на вокзале, курировал группу из 14 школьников из 11 регионов (связь, сопровождение), дежурил на этаже во время проведения туров.
+1. Opendoors: Engineering and Technology (2023-01-10), [certificate](https://drive.google.com/file/d/1m3jNMcKqqWL303jHacuxLJ3pEAOWcgZ4/view?usp=drive_link)
 
-1. FestTech (06.05.2023): организовал перемещение мебели и регистрацию гостей,
-[cертификат](https://drive.google.com/file/d/1MbxemX2EMx1axa3uwb2CTktriH2wiaUb/view?usp=drive_link)
+1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2023 (2022-10-16), [certificate](https://drive.google.com/file/d/1vov-Dj0uin0AXc68CrdKINrtJgZ0xkQE/view?usp=drive_link)
 
-1. Физтех-buddy (10.02.2021 - 09.02.2023): Организовал помощь новым иностранным студентам в кампусе. Провел тренинг для русскоязычных студентов о том, как встретить нового иностранного студента в аэропорту, помочь ему заключить договор аренды с общежитием, купить новому студенту сим-карту, открыть новый банковский счет, подключиться к Интернету, получить пропуск,
-[cертификат](https://drive.google.com/file/d/1OFybBaNoNyV-aaRYcQ09Lw7yv4AFJHsk/view?usp=drive_link)
-
-1. Благодарность за существенный вклад в развитие студенческого самоуправления МФТИ (10.04.2022): [cертификат подписанный ректором](https://drive.google.com/file/d/1kw53RT1jA3YKkzuKpbvt9NThqxGf_7dF/view?usp=drive_link)
-
-1. COVID oбсерватор (15.10.2020 - 15.10.2022): помогал приносить еду возможно инфицированным студентам, которых держали в изоляции, выносить мусор, сопровождать их в клинику для сдачи анализов,
-[статья](https://vk.com/@-932-volontery-mfti) на странице ВК МФТИ.
-
-1. ICPC (05.10.2021): ездил на международные соревнования по Москве, встречал их в аэропорту, [cертификат](https://drive.google.com/file/d/1QjNoe-pruaWMd_zEhZkm3Ui29fTJYbID/view?usp=drive_link)
+1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2021 (2020-11-15), [certificate](https://drive.google.com/file/d/1JRaYZjs2q4WOoDMmpCFHXw5e7jIDopjn/view?usp=drive_link)
 
 
-## Проекты:
-1. [Запуска ракета в 2025 году](https://github.com/icarus-imperium/rocket-2025) мы добавили возможность приземления с парашютом.
+## Event organization and volunteering:
 
-1. [Запуска ракета в 2023 году](https://github.com/icarus-imperium/rocket-2023) мы спроектировали ракету в Solidworks, напечатали ее детали на 3D-принтере, смоделировали и проверили, что она будет работать на openrocket. В ракете использовался твердотопливный двигатель,
-[cтатья](https://vk.com/astech_mipt?z=photo-17906_457246723) на ВК странице ФАКИ.
+1. Greentech MIPT (2022-10-10 - ... ): once a month I volunteer in waste collection, collect batteries and paper from academic buildings.
 
-1. [Mini tank](https://github.com/kafishabbir/mini_tank), мы придумали новый дизайн колес и цепей, он управлялся с помощью arduino. Мы написали код, который сможет интегрировать различные системы с небольшой памятью и вычислительной мощностью. В будущем мы планируем превратить его в автоматизированного робота для разминирования или строительства чего-либо на Луне.
 
-## Аккаунты
+
+1. Swap (Greentech MIPT) (2025-05-03, 2025-08-31, 2025-11-29): organized clothing swap events. Handled logistics, receiving and sorting items, coordinating participants.,
+[link](https://t.me/green_tech_mipt/113)
+
+1. Plastic recycling (Greentech MIPT) (2024-08-13 - 2025-10-25): organized and participated in recycling plastic from dormitory No. 6,
+[certificate](https://drive.google.com/file/d/1rB_0uwVvw6LEQ8pl1PYYZlQnrOc5WN2m/view?usp=drive_link)
+
+1. All-Russian Olympiad in [Astronomy](https://t.me/astroftl25/210) (2025-03-16 - 2025-03-24), Phystech-Lyceum: Participated in organization. Met jury members and participants at the airport and train station, supervised a group of 14 schoolchildren from 11 regions (communication, escort), stood duty on the floor during the rounds.
+
+1. FestTech (2023-05-06): organized furniture moving and guest registration,
+[certificate](https://drive.google.com/file/d/1MbxemX2EMx1axa3uwb2CTktriH2wiaUb/view?usp=drive_link)
+
+1. Phystech-buddy (2021-02-10 - 2023-02-09): Organized assistance for new international students on campus. Conducted training for Russian-speaking students on how to meet a new international student at the airport, help them sign a dormitory rental agreement, buy a SIM card for the new student, open a new bank account, connect to the Internet, obtain a pass,
+[certificate](https://drive.google.com/file/d/1OFybBaNoNyV-aaRYcQ09Lw7yv4AFJHsk/view?usp=drive_link)
+
+1. Gratitude for significant contribution to the development of student self-government at MIPT (2022-04-10): [certificate signed by the rector](https://drive.google.com/file/d/1kw53RT1jA3YKkzuKpbvt9NThqxGf_7dF/view?usp=drive_link)
+
+1. COVID observer (2020-10-15 - 2022-10-15): helped bring food to potentially infected students who were kept in isolation, take out trash, accompany them to the clinic for testing,
+[article](https://vk.com/@-932-volontery-mfti) on MIPT VK page.
+
+1. ICPC (2021-10-05): traveled to international competitions in Moscow, met them at the airport, [certificate](https://drive.google.com/file/d/1QjNoe-pruaWMd_zEhZkm3Ui29fTJYbID/view?usp=drive_link)
+
+
+## Projects:
+1. [Rocket launch in 2025](https://github.com/icarus-imperium/rocket-2025) we added the capability for parachute landing.
+
+1. [Rocket launch in 2023](https://github.com/icarus-imperium/rocket-2023) we designed the rocket in Solidworks, 3D-printed its parts, simulated and verified that it would work using openrocket. The rocket used a solid-propellant engine,
+[article](https://vk.com/astech_mipt?z=photo-17906_457246723) on FAKI VK page.
+
+1. [Mini tank](https://github.com/kafishabbir/mini_tank), we designed a new wheel and track design, it was controlled using arduino. We wrote code that can integrate various systems with small memory and computing power. In the future, we plan to turn it into an automated robot for demining or building something on the Moon.
+## Accounts
 - [ORCiD](https://orcid.org/0000-0003-2199-9151): 0000-0003-2199-9151
 - [author_id](https://elibrary.ru/author_profile.asp?authorid=1269711): 1269711
-- [spin-код](https://elibrary.ru/author_items.asp?authorid=1269711&show_option=1&show_refs=1): 7182-8379
+- [spin-code](https://elibrary.ru/author_items.asp?authorid=1269711&show_option=1&show_refs=1): 7182-8379
 - [ResearchGate](https://www.researchgate.net/profile/Kafi-Shabbir)
 - [Codeforces](https://codeforces.com/profile/kafiulshabbir)
 - [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK)
 - [Lichess](https://lichess.org/@/kafiulshabbir)
 - [Dobro-ru](https://dobro.ru/volunteers/94646073/resume)
-
-
-
-
-
-
