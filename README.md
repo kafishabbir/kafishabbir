@@ -1,7 +1,7 @@
 # Kafi Shabbir
 
-- 2nd year PhD student at Department of Applied Mechanics, Moscow Institute of Physics and Technology 
-- Researcher at Computational Physics Center, Moscow Institute of Physics and Technology
+- 2nd year PhD student at Department of Applied Mechanics, MIPT (Moscow Institute of Physics and Technology) 
+- Researcher at Center for Computational Physics, MIPT
 
 ## Education:
 
@@ -15,8 +15,7 @@
 ### 2. Master's in Applied Physics 
 - September 2023 - June 2025
 - Department of Applied Mechanics (Research and 40% of the course work)
-- School of Aerospace Engineering
-- Moscow Institute of Physics and Technology
+- School of Aerospace Engineering, MIPT
 - Russian Academy of Sciences: Sadovsky [Institute](http://idg.chph.ras.ru/) of Geosphere Dynamics (60% of the [course work](https://fakt.mipt.ru/master/geo-theor))
 - Thesis title: __Network Model of Two-Phase Filtration in Heterogeneous Porous Media__
 - [certificate](https://drive.google.com/file/d/1-XcbRZle2anzzGjFC6VyFhotd98uC2Zh/view?usp=drive_link)
@@ -24,8 +23,7 @@
 ### 1. Bachelor's in Aerospace Engineering
 - September 2019 - June 2023
 - Department of Applied Mechanics
-- School of Aerospace Engineering
-- Moscow Institute of Physics and Technology
+- School of Aerospace Engineering, MIPT
 - Thesis title: __Models of Non-equilibrium Flow in Porous Medium__
 - [certificate](https://drive.google.com/file/d/1GCFFYA3cN6nYCx4Zhm7DuikevP-SxA-_/view?usp=drive_link)
 - [transcript](https://drive.google.com/file/d/1enGPK6OEO8HultZH8mThOx3ruYE5Qe2E/view?usp=drive_link)
