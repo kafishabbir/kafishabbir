@@ -7,14 +7,13 @@
 
 ### 3. PhD in Fluid Mechanics
 - September 2025 - June 2029
-- Department of Applied Mechanics
-- School of Aerospace Engineering
-- Moscow Institute of Physics and Technology
+- Department of Applied Mechanics,
+- School of Aerospace Engineering, MIPT
 - Thesis title: __Network Models of Fluid Flow in Porous Media with Dynamically Changing Geometry__
 
 ### 2. Master's in Applied Physics 
 - September 2023 - June 2025
-- Department of Applied Mechanics (Research and 40% of the course work)
+- Department of Applied Mechanics (Research and 40% of the course work),
 - School of Aerospace Engineering, MIPT
 - Russian Academy of Sciences: Sadovsky [Institute](http://idg.chph.ras.ru/) of Geosphere Dynamics (60% of the [course work](https://fakt.mipt.ru/master/geo-theor))
 - Thesis title: __Network Model of Two-Phase Filtration in Heterogeneous Porous Media__
@@ -22,7 +21,7 @@
 
 ### 1. Bachelor's in Aerospace Engineering
 - September 2019 - June 2023
-- Department of Applied Mechanics
+- Department of Applied Mechanics,
 - School of Aerospace Engineering, MIPT
 - Thesis title: __Models of Non-equilibrium Flow in Porous Medium__
 - [certificate](https://drive.google.com/file/d/1GCFFYA3cN6nYCx4Zhm7DuikevP-SxA-_/view?usp=drive_link)
