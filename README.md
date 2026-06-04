@@ -2,6 +2,8 @@
 
 - 2nd year PhD student at Department of Applied Mechanics, MIPT (Moscow Institute of Physics and Technology) 
 - Researcher at Center for Computational Physics, MIPT
+- Interested in fluid-mechanics-computational-methods, rocket engines, two-phase flow in porous media, C++
+
 
 ## Education:
 
@@ -81,7 +83,7 @@ Participant as researcher in the grants:
 1. [RSF No. 24-67-00026](https://rscf.ru/project/24-67-00026/): From nanometer to meter: how to jump six orders of magnitude in describing physical properties in hierarchically structured porous media with minimal loss of information content?
 
 1. [RSF No. 23-21-00175](https://rscf.ru/project/23-21-00175/) (2023-03-01 - 2024-12-28): Continuum fracturing and fluid flow in ultralow-permeability reservoir development.
-[end](https://www.elibrary.ru/sfihsl)
+[edn](https://www.elibrary.ru/sfihsl)
 
 ## Conference abstracts:
 
