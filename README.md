@@ -31,7 +31,9 @@
     <img src="logos/07-dobro-ru.png" alt="Dobro.ru" width="auto" height="30">
   </a>
 </p>
+
 [rus](./profile-rus.md)
+
 ## Education:
 
 ### 3. PhD in Fluid Mechanics
