@@ -36,12 +36,12 @@
 - [certificate](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link)
 
 ## Employment:
-| Period | Occupation | Organization | Location | Description |
-|:--------:|:-----------|:-------------|:---------|:------------|
-| 2026-05-18 until present | Researcher | Center for Computational Physics, MIPT | 141700, Moscow Region, Dolgoprudny | Development of Network models of two phase flow in porous media under Russian Science Fund grant [24-67-00026](https://rscf.ru/project/24-67-00026/)|
-| 2026-02-01 to 2026-06-30 | Teacher Assistant | Center for Programming Education, School of Radio Engineering, MIPT | 141700, Moscow Region, Dolgoprudny | Graded homeworks and tests of 1st year Masters students for the course: [Software Engineering with C++](https://github.com/i-s-m-mipt/Education) |
-| 2026-03-12 to 2026-03-21 | Curator | Phystech Lyceum | 141707, Moscow Region, Dolgoprudny | Helped [organize](https://drive.google.com/file/d/1lHYNzK-vhkKtv2YzcdOdXzB_rprZkxwu/view?usp=drive_link) All-Russian Olympiad in Economics |
-| 2022-03-24 to 2022-11-25 | Organizer | International Department, MIPT | 141700, Moscow Region, Dolgoprudny | Main organizer of the Phystech-buddy project. Gathered a team (of buddies) to help new international students on campus, meet at the airport, help sign a dormitory rental agreement, buy a SIM card, open a bank account, connect to the Internet, obtain a university pass card,  [certificate](https://drive.google.com/file/d/1OFybBaNoNyV-aaRYcQ09Lw7yv4AFJHsk/view?usp=drive_link). Gratitude [certificate](https://drive.google.com/file/d/1kw53RT1jA3YKkzuKpbvt9NThqxGf_7dF/view?usp=drive_link) from the rector of MIPT for significant contribution to student campus life development. | 
+| Period | Occupation | Organization | Description |
+|:--------:|:-----------|:-------------|:------------|
+| 2026-05-18 until present | Researcher | Center for Computational Physics, MIPT, Dolgoprudny, 141700 | Development of Network models of two phase flow in porous media under Russian Science Fund grant [24-67-00026](https://rscf.ru/project/24-67-00026/)|
+| 2026-02-01 to 2026-06-30 | Teaching Assistant | Center for Programming Education, School of Radio Engineering, MIPT, Dolgoprudny, 141700 | Graded homeworks and tests of 1st year Masters students for the course: [Software Engineering with C++](https://github.com/i-s-m-mipt/Education) |
+| 2026-03-12 to 2026-03-21 | Curator | Phystech Lyceum, Dolgoprudny, 141707 | Helped [organize](https://drive.google.com/file/d/1lHYNzK-vhkKtv2YzcdOdXzB_rprZkxwu/view?usp=drive_link) All-Russian Olympiad in Economics |
+| 2022-03-24 to 2022-11-25 | Organizer | International Department, MIPT, Dolgoprudny, 141700 | Main organizer of the Phystech-buddy project. Gathered a team (of buddies) to help new international students on campus, meet at the airport, help sign a dormitory rental agreement, buy a SIM card, open a bank account, connect to the Internet, obtain a university pass card,  [certificate](https://drive.google.com/file/d/1OFybBaNoNyV-aaRYcQ09Lw7yv4AFJHsk/view?usp=drive_link). Gratitude [certificate](https://drive.google.com/file/d/1kw53RT1jA3YKkzuKpbvt9NThqxGf_7dF/view?usp=drive_link) from the rector of MIPT for significant contribution to student campus life development. | 
 
 ## Articles:
 
