@@ -1,8 +1,10 @@
 # Kafi Shabbir
-### KAFIULSHABBIR@PHYSTECH.EDU
+
 <p align="center">
   Computational fluid mechanics | Rocket engines | Two-phase flow in porous media | C++
 </p>
+
+### KAFIULSHABBIR@PHYSTECH.EDU
 
 ### Looking for PhD position related to computational fluid mechanics or aerospace engineering
 - Current research: __Network Simulator for Two-phase flow in porous media__
