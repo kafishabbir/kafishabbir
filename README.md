@@ -179,7 +179,7 @@ Proceedings of the 65th All-Russian Scientific Conference of MIPT in honor of th
 [screenshot](https://drive.google.com/file/d/1a7JfigkNynKCrBfWw35YANjxU6GsDTiZ/view?usp=drive_link)
 
 2. 68th All-Russian Scientific Conference of MIPT (2026-04-03):
-[certificate](https://drive.google.com/file/d/1GqJAbHTv-hjzZSNSVkTuAxB5FCDav5zM/view?usp=drive_link)
+[certificate](https://drive.google.com/file/d/1U9nPjHk7_dJFYNX1PAhSefVWdzVplvBc/view?usp=drive_link)
 
 3. 67th All-Russian Scientific Conference of MIPT (2025-04-04):
 [certificate](https://drive.google.com/file/d/1Xm4NQOTk0mv3UrCITrNRjBNMs79VfFFv/view?usp=drive_link)
