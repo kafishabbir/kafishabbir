@@ -1,54 +1,53 @@
 # Kafi Shabbir
 
-- 2nd year PhD student at Department of Applied Mechanics, MIPT (Moscow Institute of Physics and Technology) 
-- Researcher at Center for Computational Physics, MIPT
-- Interested in fluid-mechanics-computational-methods, rocket engines, two-phase flow in porous media, C++
-
+- 2nd year PhD student at the Department of Applied Mechanics, MIPT (Moscow Institute of Physics and Technology)
+- Researcher at the Center for Computational Physics, MIPT
+- Interested in computational fluid mechanics, rocket engines, two-phase flow in porous media, and C++
 
 ## Education:
 
 ### 3. PhD in Fluid Mechanics
-- September 2025 - June 2029
-- Department of Applied Mechanics,
+- September 2025 – June 2029
+- Department of Applied Mechanics
 - School of Aerospace Engineering, MIPT
 - Thesis title: __Network Models of Fluid Flow in Porous Media with Dynamically Changing Geometry__
 
-### 2. Master's in Applied Physics 
-- September 2023 - June 2025
-- Department of Applied Mechanics (Research and 40% of the course work),
+### 2. Master's in Applied Physics
+- September 2023 – June 2025
+- Department of Applied Mechanics (research and 40% of coursework)
 - School of Aerospace Engineering, MIPT
-- Russian Academy of Sciences: Sadovsky [Institute](http://idg.chph.ras.ru/) of Geosphere Dynamics (60% of the [course work](https://fakt.mipt.ru/master/geo-theor))
+- Russian Academy of Sciences: Sadovsky [Institute](http://idg.chph.ras.ru/) of Geosphere Dynamics (60% of [coursework](https://fakt.mipt.ru/master/geo-theor))
 - Thesis title: __Network Model of Two-Phase Filtration in Heterogeneous Porous Media__
 - [certificate](https://drive.google.com/file/d/1-XcbRZle2anzzGjFC6VyFhotd98uC2Zh/view?usp=drive_link)
 
 ### 1. Bachelor's in Aerospace Engineering
-- September 2019 - June 2023
-- Department of Applied Mechanics,
+- September 2019 – June 2023
+- Department of Applied Mechanics
 - School of Aerospace Engineering, MIPT
-- Thesis title: __Models of Non-equilibrium Flow in Porous Medium__
+- Thesis title: __Models of Non-equilibrium Flow in Porous Media__
 - [certificate](https://drive.google.com/file/d/1GCFFYA3cN6nYCx4Zhm7DuikevP-SxA-_/view?usp=drive_link)
 - [transcript](https://drive.google.com/file/d/1enGPK6OEO8HultZH8mThOx3ruYE5Qe2E/view?usp=drive_link)
 
 ### B. Python Programming Certification
-- September 2023 - June 2024
+- September 2023 – June 2024
 - [certificate](https://drive.google.com/file/d/1MgcwvLOYCm70ipPJrp0Dhmin9BpZhjN7/view?usp=sharing)
 
-### A. SolidWorks certification
+### A. SolidWorks Certification
 - December 2020
 - [certificate](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link)
 
 ## Employment:
 | Period | Occupation | Organization | Description |
 |:--------:|:-----------|:-------------|:------------|
-| __2026-05-18 until present__ | __Researcher__ | Center for Computational Physics, MIPT, Dolgoprudny-141700 | Development of Network models of two phase flow in porous media under Russian Science Fund grant [24-67-00026](https://rscf.ru/project/24-67-00026/)|
-| __2026-02-01 to 2026-06-30__ | __Teaching Assistant__ | Center for Programming Education, School of Radio Engineering, MIPT, Dolgoprudny-141700 | Graded homeworks and tests of 1st year Masters students for the course: [Software Engineering with C++](https://github.com/i-s-m-mipt/Education) |
-| 2026-03-12 to 2026-03-21 | Curator | Phystech Lyceum, Dolgoprudny-141707 | Helped [organize](https://drive.google.com/file/d/1lHYNzK-vhkKtv2YzcdOdXzB_rprZkxwu/view?usp=drive_link) All-Russian Olympiad in Economics. |
-| 2025-06-20 to 2025-08-20 | Admissions Officer | MIPT, Dolgoprudny-141700 | Accepted Master's and PhD applications through Russian government portal (gosuslugi). Answered emails about score disagreement and other clarification questions. Organized the scoring team for evaluating and assigning points for for awards, conference papers, and scientific articles according to criteria for [Master's](https://web.archive.org/web/20250918085335/https://pk.mipt.ru/master/2025_ID/) and [PhD](https://web.archive.org/web/20250918092252/https://pk.mipt.ru/phd/2025_ID/) applicants.|
-| 2025-03-16 to 2025-03-24 | Curator | Phystech Lyceum, Dolgoprudny-141707 | Assisted in organizing All-Russian Olympiad in [Astronomy](https://t.me/astroftl25/210). Met jury members and participants at the airport and train station, supervised a group of 14 schoolchildren from 11 regions (made sure that they received information, helped them find places and get around), stood duty on the floor during the rounds. |
-| 2024-12-16 to 2025-01-22 | R&D Engineer | UAV programming department, JSC Ploschad, Moscow-109380 | Uploaded test code from ArduPilot to micro-controllers. OpenCV for navigation based on identifying landmarks.|
-| 2024-06-25 to 2024-08-15 | Junior Admissions Officer | MIPT, Dolgoprudny-141700 | Accepted originals of Bachelor's and Master's degree of Applicants. Helped applicants fill up application paper-work. Scanned the paper-works and inserted them to the data-base. Briefly assisted the scoring team in assigning points for awards, conference papers, and scientific articles according to criteria for [Master's](https://web.archive.org/web/20240809212954/https://pk.mipt.ru/master/2024_ID/) and [PhD](https://web.archive.org/web/20240618203835/https://pk.mipt.ru/phd/ID_2024/) applicants.|
-| __2023-03-15 to 2024-12-28__ | __Junior Researcher__ | Department of Applied Mechanics, MIPT, Dolgoprudny-141700 | Developed a network model in C++ from sctatch using a new method of two-phase distribution at the nodes under Russian Science Fund grant [23-21-00175](https://rscf.ru/project/23-21-00175/). And successfully simulated using it imbibition. Noteable result is that the dependence of capillary pressure with respect to saturation qualitatively matches the experimental one. Published 3 articles, and presented the results in 7 conferences.|
-| 2022-03-24 to 2022-11-25 | Organizer | International Department, MIPT, Dolgoprudny-141700 | Main organizer of the [Phystech-buddy](https://drive.google.com/file/d/1OFybBaNoNyV-aaRYcQ09Lw7yv4AFJHsk/view?usp=drive_link) project. Gathered a team (of buddies) to help new international students on campus, meet at the airport, help sign a dormitory rental agreement, buy a SIM card, open a bank account, connect to the Internet, obtain a university pass card. Gratitude [certificate](https://drive.google.com/file/d/1kw53RT1jA3YKkzuKpbvt9NThqxGf_7dF/view?usp=drive_link) from the rector of MIPT for significant contribution to the development of student campus life.|
+| __2026-05-18 – present__ | __Researcher__ | Center for Computational Physics, MIPT, Dolgoprudny-141700 | Development of network models of two-phase flow in porous media under Russian Science Foundation grant [24-67-00026](https://rscf.ru/project/24-67-00026/) |
+| __2026-02-01 – 2026-06-30__ | __Teaching Assistant__ | Center for Programming Education, School of Radio Engineering, MIPT, Dolgoprudny-141700 | Graded homework and tests for first-year Master's students in the course [Software Engineering with C++](https://github.com/i-s-m-mipt/Education) |
+| 2026-03-12 – 2026-03-21 | Curator | Phystech Lyceum, Dolgoprudny-141707 | Helped [organize](https://drive.google.com/file/d/1lHYNzK-vhkKtv2YzcdOdXzB_rprZkxwu/view?usp=drive_link) the All-Russian Olympiad in Economics |
+| 2025-06-20 – 2025-08-20 | Admissions Officer | MIPT, Dolgoprudny-141700 | Accepted Master's and PhD applications through the Russian government portal (Gosuslugi). Answered emails about score disagreements and other clarification questions. Organized the scoring team for evaluating and assigning points for awards, conference papers, and scientific articles according to criteria for [Master's](https://web.archive.org/web/20250918085335/https://pk.mipt.ru/master/2025_ID/) and [PhD](https://web.archive.org/web/20250918092252/https://pk.mipt.ru/phd/2025_ID/) applicants |
+| 2025-03-16 – 2025-03-24 | Curator | Phystech Lyceum, Dolgoprudny-141707 | Assisted in organizing the All-Russian Olympiad in [Astronomy](https://t.me/astroftl25/210). Met jury members and participants at the airport and train station, supervised a group of 14 schoolchildren from 11 regions (ensured they received information, helped them find places and get around), stood duty on the floor during the rounds |
+| 2024-12-16 – 2025-01-22 | R&D Engineer | UAV Programming Department, JSC Ploschad, Moscow-109380 | Uploaded test code from ArduPilot to microcontrollers. Used OpenCV for navigation based on landmark identification |
+| 2024-06-25 – 2024-08-15 | Junior Admissions Officer | MIPT, Dolgoprudny-141700 | Accepted original Bachelor's and Master's degree documents from applicants. Helped applicants complete paperwork. Scanned documents and entered them into the database. Briefly assisted the scoring team in assigning points for awards, conference papers, and scientific articles according to criteria for [Master's](https://web.archive.org/web/20240809212954/https://pk.mipt.ru/master/2024_ID/) and [PhD](https://web.archive.org/web/20240618203835/https://pk.mipt.ru/phd/ID_2024/) applicants |
+| __2023-03-15 – 2024-12-28__ | __Junior Researcher__ | Department of Applied Mechanics, MIPT, Dolgoprudny-141700 | Developed a network model in C++ from scratch using a new method for two-phase distribution at nodes under Russian Science Foundation grant [23-21-00175](https://rscf.ru/project/23-21-00175/). Successfully simulated imbibition using this model. A notable result is that the dependence of capillary pressure on saturation qualitatively matches experimental data. Published 3 articles and presented the results at 7 conferences |
+| 2022-03-24 – 2022-11-25 | Organizer | International Department, MIPT, Dolgoprudny-141700 | Main organizer of the [Phystech-buddy](https://drive.google.com/file/d/1OFybBaNoNyV-aaRYcQ09Lw7yv4AFJHsk/view?usp=drive_link) project. Gathered a team of buddies to help new international students on campus: meeting them at the airport, helping sign dormitory rental agreements, buying SIM cards, opening bank accounts, connecting to the Internet, and obtaining university pass cards. Received a [certificate of gratitude](https://drive.google.com/file/d/1kw53RT1jA3YKkzuKpbvt9NThqxGf_7dF/view?usp=drive_link) from the rector of MIPT for significant contribution to the development of student campus life |
 
 ## Articles:
 
@@ -78,11 +77,12 @@ MIPT Proceedings, 2024, V. 18(2), 41–50.
 [pdf](https://drive.google.com/file/d/1ijaZ8UJ5xsav_CdEdcbFVWTFRwZIfGkb/view?usp=drive_link)
 
 ## Grants
-Participant as researcher in the grants:
 
-1. [RSF No. 24-67-00026](https://rscf.ru/project/24-67-00026/): From nanometer to meter: how to jump six orders of magnitude in describing physical properties in hierarchically structured porous media with minimal loss of information content?
+Participant as researcher in the following grants:
 
-1. [RSF No. 23-21-00175](https://rscf.ru/project/23-21-00175/) (2023-03-01 - 2024-12-28): Continuum fracturing and fluid flow in ultralow-permeability reservoir development.
+1. [RSF No. 24-67-00026](https://rscf.ru/project/24-67-00026/): From nanometer to meter: how to jump six orders of magnitude in describing physical properties in hierarchically structured porous media with minimal loss of information content
+
+2. [RSF No. 23-21-00175](https://rscf.ru/project/23-21-00175/) (2023-03-01 – 2024-12-28): Continuum fracturing and fluid flow in ultralow-permeability reservoir development
 [edn](https://www.elibrary.ru/sfihsl)
 
 ## Conference abstracts:
@@ -90,7 +90,7 @@ Participant as researcher in the grants:
 1. _Shabbir K., Izvekov O., Konyukhov A._
 __Inhomogeneous network model for two-phase flow problems__
 //
-53rd Conference "Problems of Mechanics", June 22-26, 2026, Saint Petersburg
+53rd Conference "Problems of Mechanics", June 22–26, 2026, Saint Petersburg
 
 2. _Shabbir K., Konyukhov A., Izvekov O._
 __Effect of phase viscosity ratio on capillary non-equilibrium in two-phase displacement in structurally heterogeneous porous media__
@@ -144,102 +144,92 @@ Proceedings of the 65th All-Russian Scientific Conference of MIPT in honor of th
 
 [all files](https://drive.google.com/drive/folders/1K6X7G0WD6KmLEhiI17vd3FdvVKIH5GRZ?usp=sharing)
 
-
-
-
 ## Conferences and events:
-1. Open seminar of the Center for Computational Physics, LPI MIPT (2026-04-08): Inhomogeneous network model for two-phase flow problems: capillary non-equilibrium and Saffman–Taylor instability.
+
+1. Open seminar of the Center for Computational Physics, Landau Physics Institute, MIPT (2026-04-08): "Inhomogeneous network model for two-phase flow problems: capillary non-equilibrium and Saffman–Taylor instability"
 [announcement](https://vk.com/wall-178582319_5352),
 [screenshot](https://drive.google.com/file/d/1a7JfigkNynKCrBfWw35YANjxU6GsDTiZ/view?usp=drive_link)
 
-1. 68th All-Russian Scientific Conference of MIPT (2026-04-03): 
+2. 68th All-Russian Scientific Conference of MIPT (2026-04-03):
 [certificate](https://drive.google.com/file/d/1GqJAbHTv-hjzZSNSVkTuAxB5FCDav5zM/view?usp=drive_link)
 
-1. 67th All-Russian Scientific Conference of MIPT (2025-04-04): 
+3. 67th All-Russian Scientific Conference of MIPT (2025-04-04):
 [certificate](https://drive.google.com/file/d/1Xm4NQOTk0mv3UrCITrNRjBNMs79VfFFv/view?usp=drive_link)
 
-1. IV Congress of Young Scientists, Sirius (2024-11-27 - 2024-11-29): 
+4. IV Congress of Young Scientists, Sirius (2024-11-27 – 2024-11-29):
 [certificate](https://drive.google.com/file/d/1aLEZlM2Q2xoBu4-7_M4_Uth3qhBmTxn4/view?usp=drive_link)
 
-1. Summer School on Trigger Effects in Geosystems (2024-07-03): 
+5. Summer School on Trigger Effects in Geosystems (2024-07-03):
 [certificate](https://drive.google.com/file/d/1-zFUOyJr_61EasyoQ8II7oZd0qu_b350/view?usp=drive_link)
 
-1. VII International Conference: Trigger Effects in Geosystems, Dolgoprudny, Russia, (2024-07-02 - 2024-07-05):
-[letter](https://drive.google.com/file/d/1POJX0404gQvl4NnoE0hW0oFLAnhwTx6z/view?usp=drive_link).
+6. VII International Conference: Trigger Effects in Geosystems, Dolgoprudny, Russia (2024-07-02 – 2024-07-05):
+[letter](https://drive.google.com/file/d/1POJX0404gQvl4NnoE0hW0oFLAnhwTx6z/view?usp=drive_link)
 
-1. 66th All-Russian Scientific Conference of MIPT (2024-04-05):
+7. 66th All-Russian Scientific Conference of MIPT (2024-04-05):
 [certificate](https://drive.google.com/file/d/1IThZg5WiBYveaT5z3wpfkg-3ub-VodJP/view?usp=drive_link)
 
-1. World Youth Festival, Sirius (2024-03-01 - 2024-03-06): [certificate](https://drive.google.com/file/d/1_tH-yhIkwK7BSkykej7GObDydfCiuC8U/view?usp=drive_link)
+8. World Youth Festival, Sirius (2024-03-01 – 2024-03-06):
+[certificate](https://drive.google.com/file/d/1_tH-yhIkwK7BSkykej7GObDydfCiuC8U/view?usp=drive_link)
 
-1. Eurasian Aerospace Congress (2023-07-24):
+9. Eurasian Aerospace Congress (2023-07-24):
 [photo](https://drive.google.com/file/d/1voTsyCQM80th2ee3jJWofUMPgF3PWbgs/view?usp=drive_link)
 
-1. The International Summer Conference on Theoretical Physics (2023-07-03):
+10. The International Summer Conference on Theoretical Physics (2023-07-03):
 [certificate](https://drive.google.com/file/d/1D25U43Fzp8OsPWj0afSyWxjYGUWflHOX/view?usp=drive_link),
 [program](https://drive.google.com/file/d/117pS65WbWy2VTHIJYAmX7I8PgtBXBaTP/view?usp=drive_link)
 
-1. School of Entrepreneurship (2023-04-15): 
+11. School of Entrepreneurship (2023-04-15):
 [certificate](https://drive.google.com/file/d/1CUek6bP-u8HeLjxj4pbx8kSV0DDZkxUz/view?usp=drive_link)
 
-1. 65th All-Russian Scientific Conference of MIPT (2023-04-08):
+12. 65th All-Russian Scientific Conference of MIPT (2023-04-08):
 [certificate for best speaker](https://drive.google.com/file/d/1ljK9G-bwcgsKskkzEpvPk6d1rBpxcHlD/view?usp=drive_link),
 [participant certificate](https://drive.google.com/file/d/1A8ht6zl4cgYfjY9o-gVjiNEGM_QEbvrG/view?usp=drive_link)
 
+## Competitions:
 
-## Olympiads and competitions:
 1. Opendoors: Physics (2025-02-21), [certificate](https://drive.google.com/file/d/1k7xyISYRNEaOedDckRWqbTxhUqCl-dNZ/view?usp=drive_link)
 
-1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2024 (2023-10-08), [certificate](https://drive.google.com/file/d/1iwMvO2gnRpHlBlnyGYURe2HQJa-JWTQ3/view?usp=drive_link)
+2. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2024 (2023-10-08), [certificate](https://drive.google.com/file/d/1iwMvO2gnRpHlBlnyGYURe2HQJa-JWTQ3/view?usp=drive_link)
 
-1. Olympiad in Electrodynamics (2023-05-22), [certificate](https://drive.google.com/file/d/1OilRnO9ZKBKF8ymKy3YiEeocrG5kMLiv/view?usp=drive_link)
+3. Olympiad in Electrodynamics (2023-05-22), [certificate](https://drive.google.com/file/d/1OilRnO9ZKBKF8ymKy3YiEeocrG5kMLiv/view?usp=drive_link)
 
-1. Opendoors: Physics (2023-01-17), [certificate](https://drive.google.com/file/d/1_N6wCpkx4CgAscZjYsKIx33V_RRVSMJ2/view?usp=drive_link)
+4. Opendoors: Physics (2023-01-17), [certificate](https://drive.google.com/file/d/1_N6wCpkx4CgAscZjYsKIx33V_RRVSMJ2/view?usp=drive_link)
 
-1. Opendoors: Computer Science and Data Science (2023-01-11), [certificate](https://drive.google.com/file/d/1xUvVsdtTIcMoGnft4zmEa8dKt77K-h-r/view?usp=drive_link)
+5. Opendoors: Computer Science and Data Science (2023-01-11), [certificate](https://drive.google.com/file/d/1xUvVsdtTIcMoGnft4zmEa8dKt77K-h-r/view?usp=drive_link)
 
-1. Opendoors: Engineering and Technology (2023-01-10), [certificate](https://drive.google.com/file/d/1m3jNMcKqqWL303jHacuxLJ3pEAOWcgZ4/view?usp=drive_link)
+6. Opendoors: Engineering and Technology (2023-01-10), [certificate](https://drive.google.com/file/d/1m3jNMcKqqWL303jHacuxLJ3pEAOWcgZ4/view?usp=drive_link)
 
-1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2023 (2022-10-16), [certificate](https://drive.google.com/file/d/1vov-Dj0uin0AXc68CrdKINrtJgZ0xkQE/view?usp=drive_link)
+7. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2023 (2022-10-16), [certificate](https://drive.google.com/file/d/1vov-Dj0uin0AXc68CrdKINrtJgZ0xkQE/view?usp=drive_link)
 
-1. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2021 (2020-11-15), [certificate](https://drive.google.com/file/d/1JRaYZjs2q4WOoDMmpCFHXw5e7jIDopjn/view?usp=drive_link)
+8. [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK) 2021 (2020-11-15), [certificate](https://drive.google.com/file/d/1JRaYZjs2q4WOoDMmpCFHXw5e7jIDopjn/view?usp=drive_link)
 
+## Volunteering:
 
-## Event organization and volunteering:
+1. Greentech MIPT (2022-10-10 – present): about once a month, I help with paper and battery collection and recycling from academic buildings
 
-1. Greentech MIPT (2022-10-10 - ... ): once a month I volunteer in waste collection, collect batteries and paper from academic buildings.
+2. Swap (Greentech MIPT) (2025-05-03, 2025-08-31, 2025-11-29): organized used clothing swap events, [link](https://t.me/green_tech_mipt/113)
 
-
-
-1. Swap (Greentech MIPT) (2025-05-03, 2025-08-31, 2025-11-29): organized clothing swap events. Handled logistics, receiving and sorting items, coordinating participants.,
-[link](https://t.me/green_tech_mipt/113)
-
-1. Plastic recycling (Greentech MIPT) (2024-08-13 - 2025-10-25): organized and participated in recycling plastic from dormitory No. 6,
+3. Plastic recycling (Greentech MIPT) (2024-08-13 – 2025-10-25): organized and participated in recycling plastic from the 6th dormitory,
 [certificate](https://drive.google.com/file/d/1rB_0uwVvw6LEQ8pl1PYYZlQnrOc5WN2m/view?usp=drive_link)
 
-1. 
-
-1. FestTech (2023-05-06): organized furniture moving and guest registration,
+4. FestTech (2023-05-06): helped with furniture moving and guest registration,
 [certificate](https://drive.google.com/file/d/1MbxemX2EMx1axa3uwb2CTktriH2wiaUb/view?usp=drive_link)
 
-1. 
+5. COVID-19 isolation building (2020-10-15 – 2022-10-15): organized and helped transport food from the canteen to students who were kept in the isolation building under suspicion of being infected, took out their trash, escorted them to the clinic for testing, [article](https://vk.com/@-932-volontery-mfti) on MIPT VK page
 
-1. 
-
-1. COVID observer (2020-10-15 - 2022-10-15): helped bring food to potentially infected students who were kept in isolation, take out trash, accompany them to the clinic for testing,
-[article](https://vk.com/@-932-volontery-mfti) on MIPT VK page.
-
-1. ICPC (2021-10-05): traveled to international competitions in Moscow, met them at the airport, [certificate](https://drive.google.com/file/d/1QjNoe-pruaWMd_zEhZkm3Ui29fTJYbID/view?usp=drive_link)
-
+6. ICPC (2021-10-05): helped organize ICPC-2020 in Moscow, met delegates and participants at the airport, [certificate](https://drive.google.com/file/d/1QjNoe-pruaWMd_zEhZkm3Ui29fTJYbID/view?usp=drive_link)
 
 ## Projects:
-1. [Rocket launch in 2025](https://github.com/icarus-imperium/rocket-2025) we added the capability for parachute landing.
 
-1. [Rocket launch in 2023](https://github.com/icarus-imperium/rocket-2023) we designed the rocket in Solidworks, 3D-printed its parts, simulated and verified that it would work using openrocket. The rocket used a solid-propellant engine,
-[article](https://vk.com/astech_mipt?z=photo-17906_457246723) on FAKI VK page.
+1. [Rocket 2025](https://github.com/icarus-imperium/rocket-2025): added parachute landing capability to Rocket 2023
 
-1. [Mini tank](https://github.com/kafishabbir/mini_tank), we designed a new wheel and track design, it was controlled using arduino. We wrote code that can integrate various systems with small memory and computing power. In the future, we plan to turn it into an automated robot for demining or building something on the Moon.
+2. [Rocket 2023](https://github.com/icarus-imperium/rocket-2023): designed the rocket in SolidWorks, 3D-printed its parts, simulated and verified functionality using OpenRocket. The rocket used a solid-propellant engine,
+[article](https://vk.com/astech_mipt?z=photo-17906_457246723) on the School of Aerospace Engineering, MIPT VK page
+
+3. [Mini tank](https://github.com/kafishabbir/mini_tank): designed a new wheel and track system, 3D-printed the parts, built the mini-tank, and wrote an operating system for Arduino to control the mini-tank while it performs other tasks
+
 ## Accounts
+
 - [ORCiD](https://orcid.org/0000-0003-2199-9151): 0000-0003-2199-9151
 - [author_id](https://elibrary.ru/author_profile.asp?authorid=1269711): 1269711
 - [spin-code](https://elibrary.ru/author_items.asp?authorid=1269711&show_option=1&show_refs=1): 7182-8379
