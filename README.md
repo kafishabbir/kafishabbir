@@ -7,9 +7,19 @@
 ### KAFIULSHABBIR@PHYSTECH.EDU
 
 ### Looking for PhD position related to computational fluid mechanics or aerospace engineering
-- Current research: __Network Simulator for Two-phase flow in porous media__
+- Current research: __Network simulator for two-phase flow in porous media__
 - 2nd year PhD student at the Department of Applied Mechanics, MIPT (Moscow Institute of Physics and Technology)
 - Researcher at the Center for Computational Physics, MIPT
+
+<p align="center">
+  <img src="logos/01-orcid.png" alt="ORCID" width="auto" height="40">
+  <img src="logos/02-elibrary-author-id.png" alt="eLibrary Author ID" width="auto" height="40">
+  <img src="logos/03-research-gate.png" alt="ResearchGate" width="auto" height="40">
+  <img src="logos/04-code-forces.png" alt="Codeforces" width="auto" height="40">
+  <img src="logos/05-icpc.png" alt="ICPC" width="auto" height="40">
+  <img src="logos/06-lichess.png" alt="Lichess" width="auto" height="40">
+  <img src="logos/07-dobro-ru.png" alt="Dobro.ru" width="auto" height="40">
+</p>
 
 ## Education:
 
