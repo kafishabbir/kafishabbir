@@ -135,7 +135,7 @@ Proceedings of the 67th All-Russian Scientific Conference of MIPT, March 31 – 
 [proceedings](https://drive.google.com/file/d/11-eonu1FcADtqJsfr2NA7OXPvD2ARizP/view?usp=drive_link)
 
 4. _Shabbir K., Izvekov O., Konyukhov A._
-__Modeling of counter-current capillary imbibition based on a network model__
+__Modeling of countercurrent imbibition using a network model__
 //
 VII International Conference "Trigger Effects in Geosystems", July 2–5, 2024, Dolgoprudny, p. 54.
 [edn](https://elibrary.ru/tfataz),
