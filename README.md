@@ -45,7 +45,7 @@
 ### 2. Master's in Applied Physics
 - September 2023 – June 2025
 - Department of [Applied](https://web.archive.org/web/20220622012816/https://mipt.ru/education/chair/applied_mechanics/) Mechanics (research and 40% of coursework), School of [Aerospace](https://mipt.ru/education/schools/fact) Engineering, MIPT
-- Russian Academy of Sciences: Sadovsky [Institute](http://idg.chph.ras.ru/) of Geosphere Dynamics (60% of [coursework](https://fakt.mipt.ru/master/geo-theor))
+- Russian Academy of Sciences: Sadovsky [Institute](http://idg.chph.ras.ru/) of Geosphere Dynamics (60% of [coursework](https://web.archive.org/web/20260604114852/https://fakt.mipt.ru/master/geo-theor))
 - Thesis title: __Network Model of Two-Phase Filtration in Heterogeneous Porous Media__
 - [certificate](https://drive.google.com/file/d/1-XcbRZle2anzzGjFC6VyFhotd98uC2Zh/view?usp=drive_link)
 
