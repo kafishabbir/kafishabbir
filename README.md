@@ -3,6 +3,7 @@
 <p align="center">
   Computational fluid mechanics | Rocket engines | Two-phase flow in porous media | C++
 </p>
+
 ### Looking for PhD position related to computational fluid mechanics or aerospace engineering
 - Current research: __Network Simulator for Two-phase flow in porous media__
 - 2nd year PhD student at the Department of Applied Mechanics, MIPT (Moscow Institute of Physics and Technology)
