@@ -86,7 +86,7 @@ Computer Research and Modeling, 2024, V. 16(4), 913–925.
 3. _Shabbir K., Izvekov O., Vamsi B._
 __Modeling imbibition in porous media using a two-dimensional network model__
 //
-MIPT Proceedings, 2024, V. 18(2), 41–50.
+MIPT Proceedings, 2024, V. 16(2), 41–50.
 [edn](https://elibrary.ru/doeyil),
 [link](https://mipt.ru/science/trudy/62),
 [pdf](https://drive.google.com/file/d/1ijaZ8UJ5xsav_CdEdcbFVWTFRwZIfGkb/view?usp=drive_link)
