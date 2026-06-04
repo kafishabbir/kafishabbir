@@ -1,3 +1,9 @@
+<p align="right">
+<a href="./profile-rus.md">
+    🇷🇺
+  </a>
+</p>
+
 # Kafi Shabbir
 
 ### KAFIULSHABBIR@PHYSTECH.EDU
@@ -32,7 +38,7 @@
   </a>
 </p>
 
-[rus](./profile-rus.md)
+
 
 ## Education:
 
