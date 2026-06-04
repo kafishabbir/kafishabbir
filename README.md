@@ -12,6 +12,9 @@
 - Born: March 2001
 
 <p align="center">
+  <a href="https://scholar.google.com/citations?user=zdKLtA0AAAAJ&hl=en">
+    <img src="logos/00-google-scholar.png" alt="Google Scholar" width="auto" height="40">
+  </a>
   <a href="https://orcid.org/0000-0003-2199-9151">
     <img src="logos/01-orcid.png" alt="ORCID" width="auto" height="40">
   </a>
