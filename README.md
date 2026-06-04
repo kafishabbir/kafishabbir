@@ -12,13 +12,27 @@
 - Researcher at the Center for Computational Physics, MIPT
 
 <p align="center">
-  <img src="logos/01-orcid.png" alt="ORCID" width="auto" height="40">
-  <img src="logos/02-elibrary-author-id.png" alt="eLibrary Author ID" width="auto" height="40">
-  <img src="logos/03-research-gate.png" alt="ResearchGate" width="auto" height="40">
-  <img src="logos/04-code-forces.png" alt="Codeforces" width="auto" height="40">
-  <img src="logos/05-icpc.png" alt="ICPC" width="auto" height="40">
-  <img src="logos/06-lichess.png" alt="Lichess" width="auto" height="40">
-  <img src="logos/07-dobro-ru.png" alt="Dobro.ru" width="auto" height="40">
+  <a href="https://orcid.org/0000-0003-2199-9151">
+    <img src="logos/01-orcid.png" alt="ORCID" width="auto" height="50" style="margin: 0 10px;">
+  </a>
+  <a href="https://elibrary.ru/author_profile.asp?authorid=1269711">
+    <img src="logos/02-elibrary-author-id.png" alt="eLibrary Author ID" width="auto" height="50" style="margin: 0 10px;">
+  </a>
+  <a href="https://www.researchgate.net/profile/Kafi-Shabbir">
+    <img src="logos/03-research-gate.png" alt="ResearchGate" width="auto" height="50" style="margin: 0 10px;">
+  </a>
+  <a href="https://codeforces.com/profile/kafiulshabbir">
+    <img src="logos/04-code-forces.png" alt="Codeforces" width="auto" height="50" style="margin: 0 10px;">
+  </a>
+  <a href="https://icpc.global/ICPCID/2SLTF0CWMQFK">
+    <img src="logos/05-icpc.png" alt="ICPC" width="auto" height="50" style="margin: 0 10px;">
+  </a>
+  <a href="https://lichess.org/@/kafiulshabbir">
+    <img src="logos/06-lichess.png" alt="Lichess" width="auto" height="50" style="margin: 0 10px;">
+  </a>
+  <a href="https://dobro.ru/volunteers/94646073/resume">
+    <img src="logos/07-dobro-ru.png" alt="Dobro.ru" width="auto" height="50" style="margin: 0 10px;">
+  </a>
 </p>
 
 ## Education:
@@ -241,14 +255,3 @@ Proceedings of the 65th All-Russian Scientific Conference of MIPT in honor of th
 [article](https://vk.com/astech_mipt?z=photo-17906_457246723) on the School of Aerospace Engineering, MIPT VK page
 
 3. [Mini tank](https://github.com/kafishabbir/mini_tank): designed a new wheel and track system, 3D-printed the parts, built the mini-tank, and wrote an operating system for Arduino to control the mini-tank while it performs other tasks
-
-## Accounts
-
-- [ORCiD](https://orcid.org/0000-0003-2199-9151): 0000-0003-2199-9151
-- [author_id](https://elibrary.ru/author_profile.asp?authorid=1269711): 1269711
-- [spin-code](https://elibrary.ru/author_items.asp?authorid=1269711&show_option=1&show_refs=1): 7182-8379
-- [ResearchGate](https://www.researchgate.net/profile/Kafi-Shabbir)
-- [Codeforces](https://codeforces.com/profile/kafiulshabbir)
-- [ICPC](https://icpc.global/ICPCID/2SLTF0CWMQFK)
-- [Lichess](https://lichess.org/@/kafiulshabbir)
-- [Dobro-ru](https://dobro.ru/volunteers/94646073/resume)
