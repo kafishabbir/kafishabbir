@@ -92,11 +92,10 @@ MIPT Proceedings, 2024, V. 18(2), 41–50.
 [pdf](https://drive.google.com/file/d/1ijaZ8UJ5xsav_CdEdcbFVWTFRwZIfGkb/view?usp=drive_link)
 
 ## Employment:
-| Period | Occupation | Organization | Description | Salary  | 
+| Period | Occupation | Organization | Description | Salary (after tax, $1 = 80 RUB) | 
 |:--------:|:-----------|:-------------|:------------|---:|
-|          |            |              |             | after tax, 1 $ = 80 RUB |
 | __2026-05-18 – present__ | __Researcher__ | Center for Computational Physics, MIPT, Dolgoprudny-141700 | Development of network models of two-phase flow in porous media under Russian Science Foundation grant [24-67-00026](https://rscf.ru/project/24-67-00026/) | $300 / month |
-| __2026-02-01 – 2026-06-30__ | __Teaching Assistant__ | Center for Programming Education, School of Radio Engineering, MIPT, Dolgoprudny-141700 | Graded homework and tests for first-year Master's students in the course [Software Engineering with C++](https://github.com/i-s-m-mipt/Education) | |
+| __2026-02-01 – 2026-06-30__ | __Teaching Assistant__ | Center for Programming Education, School of Radio Engineering, MIPT, Dolgoprudny-141700 | Graded homework and tests for first-year Master's students in the course [Software Engineering with C++](https://github.com/i-s-m-mipt/Education) | - |
 | 2026-03-12 – 2026-03-21 | Curator | Phystech Lyceum, Dolgoprudny-141707 | Helped [organize](https://drive.google.com/file/d/1lHYNzK-vhkKtv2YzcdOdXzB_rprZkxwu/view?usp=drive_link) the All-Russian Olympiad in Economics | $700 / month |
 | 2025-06-20 – 2025-08-20 | Admissions Officer | MIPT, Dolgoprudny-141700 | Accepted Master's and PhD applications through the Russian government portal (Gosuslugi). Answered emails about score disagreements and other clarification questions. Organized the scoring team for evaluating and assigning points for awards, conference papers, and scientific articles according to criteria for [Master's](https://web.archive.org/web/20250918085335/https://pk.mipt.ru/master/2025_ID/) and [PhD](https://web.archive.org/web/20250918092252/https://pk.mipt.ru/phd/2025_ID/) applicants | $1200 / month |
 | 2025-03-16 – 2025-03-24 | Curator | Phystech Lyceum, Dolgoprudny-141707 | Assisted in organizing the All-Russian Olympiad in [Astronomy](https://t.me/astroftl25/210). Met jury members and participants at the airport and train station, supervised a group of 14 schoolchildren from 11 regions (ensured they received information, helped them find places and get around), stood duty on the floor during the rounds | $900 / month |
