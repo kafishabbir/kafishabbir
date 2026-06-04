@@ -1,29 +1,30 @@
 # Kafi Shabbir
-
+### KAFIULSHABBIR@PHYSTECH.EDU
+<p align="center">
+  Computational fluid mechanics | Rocket engines | Two-phase flow in porous media | C++
+</p>
+### Looking for PhD position related to computational fluid mechanics or aerospace engineering
+- Current research: __Network Simulator for Two-phase flow in porous media__
 - 2nd year PhD student at the Department of Applied Mechanics, MIPT (Moscow Institute of Physics and Technology)
 - Researcher at the Center for Computational Physics, MIPT
-- Interested in computational fluid mechanics, rocket engines, two-phase flow in porous media, and C++
 
 ## Education:
 
 ### 3. PhD in Fluid Mechanics
 - September 2025 – June 2029
-- Department of Applied Mechanics
-- School of Aerospace Engineering, MIPT
+- Department of [Applied](https://web.archive.org/web/20220622012816/https://mipt.ru/education/chair/applied_mechanics/) Mechanics, School of [Aerospace](https://mipt.ru/education/schools/fact) Engineering, MIPT
 - Thesis title: __Network Models of Fluid Flow in Porous Media with Dynamically Changing Geometry__
 
 ### 2. Master's in Applied Physics
 - September 2023 – June 2025
-- Department of Applied Mechanics (research and 40% of coursework)
-- School of Aerospace Engineering, MIPT
+- Department of [Applied](https://web.archive.org/web/20220622012816/https://mipt.ru/education/chair/applied_mechanics/) Mechanics (research and 40% of coursework), School of [Aerospace](https://mipt.ru/education/schools/fact) Engineering, MIPT
 - Russian Academy of Sciences: Sadovsky [Institute](http://idg.chph.ras.ru/) of Geosphere Dynamics (60% of [coursework](https://fakt.mipt.ru/master/geo-theor))
 - Thesis title: __Network Model of Two-Phase Filtration in Heterogeneous Porous Media__
 - [certificate](https://drive.google.com/file/d/1-XcbRZle2anzzGjFC6VyFhotd98uC2Zh/view?usp=drive_link)
 
 ### 1. Bachelor's in Aerospace Engineering
 - September 2019 – June 2023
-- Department of Applied Mechanics
-- School of Aerospace Engineering, MIPT
+- Department of [Applied](https://web.archive.org/web/20220622012816/https://mipt.ru/education/chair/applied_mechanics/) Mechanics, School of [Aerospace](https://mipt.ru/education/schools/fact) Engineering, MIPT
 - Thesis title: __Models of Non-equilibrium Flow in Porous Media__
 - [certificate](https://drive.google.com/file/d/1GCFFYA3cN6nYCx4Zhm7DuikevP-SxA-_/view?usp=drive_link)
 - [transcript](https://drive.google.com/file/d/1enGPK6OEO8HultZH8mThOx3ruYE5Qe2E/view?usp=drive_link)
