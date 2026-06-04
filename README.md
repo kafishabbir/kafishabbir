@@ -125,7 +125,7 @@ __Effect of phase viscosity ratio on capillary non-equilibrium in two-phase disp
 //
 Proceedings of the 68th All-Russian Scientific Conference of MIPT in honor of the 130th anniversary of the birth of N.N. Semenov, 2026, pp. xxx–xxx. ISBN 978-5-89155-xxx-x,
 [pdf](https://drive.google.com/file/d/1GqJAbHTv-hjzZSNSVkTuAxB5FCDav5zM/view?usp=drive_link),
-[proceedings](conf.mipt.ru)
+[proceedings](https://conf.mipt.ru/page/conference-materials/)
 
 3. _Shabbir K., Izvekov O., Konyukhov A._
 __Modeling of displacement processes in porous media with periodic heterogeneity__
