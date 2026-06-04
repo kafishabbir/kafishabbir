@@ -69,7 +69,7 @@
 1. _Shabbir K., Izvekov O., Konyukhov A._
 __Network and continuum modeling of capillary non-equilibrium in two-phase flow__
 //
-MIPT Proceedings, 2026, V. 18(1), 181–192.
+Proceedings of MIPT, 2026, V. 18(1), 181–192.
 [edn](https://mipt.ru/upload/%D0%A2%D1%80%D1%83%D0%B4%D1%8B%20%D0%BC%D1%84%D1%82%D0%B8/69/16.pdf),
 [link](https://mipt.ru/science/trudy/69),
 [pdf](https://drive.google.com/file/d/13CPgw5xPFL1B20XptjFq1yAqX1aLKcfM/view?usp=drive_link)
@@ -86,7 +86,7 @@ Computer Research and Modeling, 2024, V. 16(4), 913–925.
 3. _Shabbir K., Izvekov O., Vamsi B._
 __Modeling imbibition in porous media using a two-dimensional network model__
 //
-MIPT Proceedings, 2024, V. 16(2), 41–50.
+Proceedings of MIPT, 2024, V. 16(2), 41–50.
 [edn](https://elibrary.ru/doeyil),
 [link](https://mipt.ru/science/trudy/62),
 [pdf](https://drive.google.com/file/d/1ijaZ8UJ5xsav_CdEdcbFVWTFRwZIfGkb/view?usp=drive_link)
