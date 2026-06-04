@@ -13,25 +13,25 @@
 
 <p align="center">
   <a href="https://orcid.org/0000-0003-2199-9151">
-    <img src="logos/01-orcid.png" alt="ORCID" width="auto" height="50" style="margin: 0 10px;">
+    <img src="logos/01-orcid.png" alt="ORCID" width="auto" height="40" style="margin: 0 10px;">
   </a>
   <a href="https://elibrary.ru/author_profile.asp?authorid=1269711">
-    <img src="logos/02-elibrary-author-id.png" alt="eLibrary Author ID" width="auto" height="50" style="margin: 0 10px;">
+    <img src="logos/02-elibrary-author-id.png" alt="eLibrary Author ID" width="auto" height="40" style="margin: 0 10px;">
   </a>
   <a href="https://www.researchgate.net/profile/Kafi-Shabbir">
-    <img src="logos/03-research-gate.png" alt="ResearchGate" width="auto" height="50" style="margin: 0 10px;">
+    <img src="logos/03-research-gate.png" alt="ResearchGate" width="auto" height="40" style="margin: 0 10px;">
   </a>
   <a href="https://codeforces.com/profile/kafiulshabbir">
-    <img src="logos/04-code-forces.png" alt="Codeforces" width="auto" height="50" style="margin: 0 10px;">
+    <img src="logos/04-code-forces.png" alt="Codeforces" width="auto" height="40" style="margin: 0 10px;">
   </a>
   <a href="https://icpc.global/ICPCID/2SLTF0CWMQFK">
-    <img src="logos/05-icpc.png" alt="ICPC" width="auto" height="50" style="margin: 0 10px;">
+    <img src="logos/05-icpc.png" alt="ICPC" width="auto" height="40" style="margin: 0 10px;">
   </a>
   <a href="https://lichess.org/@/kafiulshabbir">
-    <img src="logos/06-lichess.png" alt="Lichess" width="auto" height="50" style="margin: 0 10px;">
+    <img src="logos/06-lichess.png" alt="Lichess" width="auto" height="40" style="margin: 0 10px;">
   </a>
   <a href="https://dobro.ru/volunteers/94646073/resume">
-    <img src="logos/07-dobro-ru.png" alt="Dobro.ru" width="auto" height="50" style="margin: 0 10px;">
+    <img src="logos/07-dobro-ru.png" alt="Dobro.ru" width="auto" height="40" style="margin: 0 10px;">
   </a>
 </p>
 
