@@ -9,7 +9,7 @@
 ### Looking for PhD position related to computational fluid mechanics or aerospace engineering
 - Current research: __Network simulator for two-phase flow in porous media__
 - 2nd year PhD student at the Department of Applied Mechanics, MIPT (Moscow Institute of Physics and Technology)
-- Researcher at the Center for Computational Physics, MIPT
+- Born: March 2001
 
 <p align="center">
   <a href="https://orcid.org/0000-0003-2199-9151">
