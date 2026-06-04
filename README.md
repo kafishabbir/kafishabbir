@@ -1,14 +1,8 @@
 # Kafi Shabbir
 
-<p align="center">
-  | Two-phase flow | Network models | C++ | Computational Physics | 
-</p>
-
 ### KAFIULSHABBIR@PHYSTECH.EDU
-
-- 2nd year PhD student,
-- Department of Applied Mechanics,
-- MIPT (Moscow Institute of Physics and Technology)
+- Network simulators for two phase-flow in porous media
+- 2nd year PhD student, MIPT
 - Born: March 2001
 
 <p align="center">
@@ -37,24 +31,27 @@
     <img src="logos/07-dobro-ru.png" alt="Dobro.ru" width="auto" height="30">
   </a>
 </p>
-
+[rus](./profile-rus.md)
 ## Education:
 
 ### 3. PhD in Fluid Mechanics
 - September 2025 – June 2029
-- [Department](https://web.archive.org/web/20220622012816/https://mipt.ru/education/chair/applied_mechanics/) of Applied Mechanics, [School](https://mipt.ru/education/schools/fact) of Aerospace Engineering, MIPT
+- Department of Applied Mechanics, [link](https://web.archive.org/web/20220622012816/https://mipt.ru/education/chair/applied_mechanics/) 
+- School of Aerospace Engineering, MIPT, [link](https://mipt.ru/education/schools/fact)
 - Thesis title: __Network Models of Fluid Flow in Porous Media with Dynamically Changing Geometry__
 
 ### 2. Master's in Applied Physics
 - September 2023 – June 2025
-- [Department](https://web.archive.org/web/20220622012816/https://mipt.ru/education/chair/applied_mechanics/) of Applied Mechanics (research and 40% of the coursework), [School](https://mipt.ru/education/schools/fact) of Aerospace Engineering, MIPT
-- Russian Academy of Sciences: Sadovsky [Institute](http://idg.chph.ras.ru/) of Geosphere Dynamics (60% of the [coursework](https://web.archive.org/web/20260604114852/https://fakt.mipt.ru/master/geo-theor))
+- Department of Applied Mechanics, [link](https://web.archive.org/web/20220622012816/https://mipt.ru/education/chair/applied_mechanics/) 
+- School of Aerospace Engineering, MIPT, [link](https://mipt.ru/education/schools/fact)
+- In collaboration with Russian Academy of Sciences: Sadovsky Institute of Geosphere Dynamics, [link](https://web.archive.org/web/20260604114852/https://fakt.mipt.ru/master/geo-theor)
 - Thesis title: __Network Model of Two-Phase Filtration in Heterogeneous Porous Media__
 - [certificate](https://drive.google.com/file/d/1-XcbRZle2anzzGjFC6VyFhotd98uC2Zh/view?usp=drive_link)
 
 ### 1. Bachelor's in Aerospace Engineering
 - September 2019 – June 2023
-- [Department](https://web.archive.org/web/20220622012816/https://mipt.ru/education/chair/applied_mechanics/) of Applied Mechanics, [School](https://mipt.ru/education/schools/fact) of Aerospace Engineering, MIPT
+- Department of Applied Mechanics, [link](https://web.archive.org/web/20220622012816/https://mipt.ru/education/chair/applied_mechanics/) 
+- School of Aerospace Engineering, MIPT, [link](https://mipt.ru/education/schools/fact)
 - Thesis title: __Models of Non-equilibrium Flow in Porous Media__
 - [certificate](https://drive.google.com/file/d/1GCFFYA3cN6nYCx4Zhm7DuikevP-SxA-_/view?usp=drive_link)
 - [transcript](https://drive.google.com/file/d/1enGPK6OEO8HultZH8mThOx3ruYE5Qe2E/view?usp=drive_link)
