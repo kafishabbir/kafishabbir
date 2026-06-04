@@ -36,19 +36,6 @@
 - December 2020
 - [certificate](https://drive.google.com/file/d/1XXfy3d3HiHwL6m6nvCOMQrXh22L5SFFA/view?usp=drive_link)
 
-## Employment:
-| Period | Occupation | Organization | Description |
-|:--------:|:-----------|:-------------|:------------|
-| __2026-05-18 – present__ | __Researcher__ | Center for Computational Physics, MIPT, Dolgoprudny-141700 | Development of network models of two-phase flow in porous media under Russian Science Foundation grant [24-67-00026](https://rscf.ru/project/24-67-00026/) |
-| __2026-02-01 – 2026-06-30__ | __Teaching Assistant__ | Center for Programming Education, School of Radio Engineering, MIPT, Dolgoprudny-141700 | Graded homework and tests for first-year Master's students in the course [Software Engineering with C++](https://github.com/i-s-m-mipt/Education) |
-| 2026-03-12 – 2026-03-21 | Curator | Phystech Lyceum, Dolgoprudny-141707 | Helped [organize](https://drive.google.com/file/d/1lHYNzK-vhkKtv2YzcdOdXzB_rprZkxwu/view?usp=drive_link) the All-Russian Olympiad in Economics |
-| 2025-06-20 – 2025-08-20 | Admissions Officer | MIPT, Dolgoprudny-141700 | Accepted Master's and PhD applications through the Russian government portal (Gosuslugi). Answered emails about score disagreements and other clarification questions. Organized the scoring team for evaluating and assigning points for awards, conference papers, and scientific articles according to criteria for [Master's](https://web.archive.org/web/20250918085335/https://pk.mipt.ru/master/2025_ID/) and [PhD](https://web.archive.org/web/20250918092252/https://pk.mipt.ru/phd/2025_ID/) applicants |
-| 2025-03-16 – 2025-03-24 | Curator | Phystech Lyceum, Dolgoprudny-141707 | Assisted in organizing the All-Russian Olympiad in [Astronomy](https://t.me/astroftl25/210). Met jury members and participants at the airport and train station, supervised a group of 14 schoolchildren from 11 regions (ensured they received information, helped them find places and get around), stood duty on the floor during the rounds |
-| 2024-12-16 – 2025-01-22 | R&D Engineer | UAV Programming Department, JSC Ploschad, Moscow-109380 | Uploaded test code from ArduPilot to microcontrollers. Used OpenCV for navigation based on landmark identification |
-| 2024-06-25 – 2024-08-15 | Junior Admissions Officer | MIPT, Dolgoprudny-141700 | Accepted original Bachelor's and Master's degree documents from applicants. Helped applicants complete paperwork. Scanned documents and entered them into the database. Briefly assisted the scoring team in assigning points for awards, conference papers, and scientific articles according to criteria for [Master's](https://web.archive.org/web/20240809212954/https://pk.mipt.ru/master/2024_ID/) and [PhD](https://web.archive.org/web/20240618203835/https://pk.mipt.ru/phd/ID_2024/) applicants |
-| __2023-03-15 – 2024-12-28__ | __Junior Researcher__ | Department of Applied Mechanics, MIPT, Dolgoprudny-141700 | Developed a network model in C++ from scratch using a new method for two-phase distribution at nodes under Russian Science Foundation grant [23-21-00175](https://rscf.ru/project/23-21-00175/). Successfully simulated imbibition using this model. A notable result is that the dependence of capillary pressure on saturation qualitatively matches experimental data. Published 3 articles and presented the results at 7 conferences |
-| 2022-03-24 – 2022-11-25 | Organizer | International Department, MIPT, Dolgoprudny-141700 | Main organizer of the [Phystech-buddy](https://drive.google.com/file/d/1OFybBaNoNyV-aaRYcQ09Lw7yv4AFJHsk/view?usp=drive_link) project. Gathered a team of buddies to help new international students on campus: meeting them at the airport, helping sign dormitory rental agreements, buying SIM cards, opening bank accounts, connecting to the Internet, and obtaining university pass cards. Received a [certificate of gratitude](https://drive.google.com/file/d/1kw53RT1jA3YKkzuKpbvt9NThqxGf_7dF/view?usp=drive_link) from the rector of MIPT for significant contribution to the development of student campus life |
-
 ## Articles:
 
 1. _Shabbir K., Izvekov O., Konyukhov A._
@@ -75,6 +62,19 @@ MIPT Proceedings, 2024, V. 18(2), 41–50.
 [edn](https://elibrary.ru/doeyil),
 [link](https://mipt.ru/science/trudy/62),
 [pdf](https://drive.google.com/file/d/1ijaZ8UJ5xsav_CdEdcbFVWTFRwZIfGkb/view?usp=drive_link)
+
+## Employment:
+| Period | Occupation | Organization | Description |
+|:--------:|:-----------|:-------------|:------------|
+| __2026-05-18 – present__ | __Researcher__ | Center for Computational Physics, MIPT, Dolgoprudny-141700 | Development of network models of two-phase flow in porous media under Russian Science Foundation grant [24-67-00026](https://rscf.ru/project/24-67-00026/) |
+| __2026-02-01 – 2026-06-30__ | __Teaching Assistant__ | Center for Programming Education, School of Radio Engineering, MIPT, Dolgoprudny-141700 | Graded homework and tests for first-year Master's students in the course [Software Engineering with C++](https://github.com/i-s-m-mipt/Education) |
+| 2026-03-12 – 2026-03-21 | Curator | Phystech Lyceum, Dolgoprudny-141707 | Helped [organize](https://drive.google.com/file/d/1lHYNzK-vhkKtv2YzcdOdXzB_rprZkxwu/view?usp=drive_link) the All-Russian Olympiad in Economics |
+| 2025-06-20 – 2025-08-20 | Admissions Officer | MIPT, Dolgoprudny-141700 | Accepted Master's and PhD applications through the Russian government portal (Gosuslugi). Answered emails about score disagreements and other clarification questions. Organized the scoring team for evaluating and assigning points for awards, conference papers, and scientific articles according to criteria for [Master's](https://web.archive.org/web/20250918085335/https://pk.mipt.ru/master/2025_ID/) and [PhD](https://web.archive.org/web/20250918092252/https://pk.mipt.ru/phd/2025_ID/) applicants |
+| 2025-03-16 – 2025-03-24 | Curator | Phystech Lyceum, Dolgoprudny-141707 | Assisted in organizing the All-Russian Olympiad in [Astronomy](https://t.me/astroftl25/210). Met jury members and participants at the airport and train station, supervised a group of 14 schoolchildren from 11 regions (ensured they received information, helped them find places and get around), stood duty on the floor during the rounds |
+| 2024-12-16 – 2025-01-22 | R&D Engineer | UAV Programming Department, JSC Ploschad, Moscow-109380 | Uploaded test code from ArduPilot to microcontrollers. Used OpenCV for navigation based on landmark identification |
+| 2024-06-25 – 2024-08-15 | Junior Admissions Officer | MIPT, Dolgoprudny-141700 | Accepted original Bachelor's and Master's degree documents from applicants. Helped applicants complete paperwork. Scanned documents and entered them into the database. Briefly assisted the scoring team in assigning points for awards, conference papers, and scientific articles according to criteria for [Master's](https://web.archive.org/web/20240809212954/https://pk.mipt.ru/master/2024_ID/) and [PhD](https://web.archive.org/web/20240618203835/https://pk.mipt.ru/phd/ID_2024/) applicants |
+| __2023-03-15 – 2024-12-28__ | __Junior Researcher__ | Department of Applied Mechanics, MIPT, Dolgoprudny-141700 | Developed a network model in C++ from scratch using a new method for two-phase distribution at nodes under Russian Science Foundation grant [23-21-00175](https://rscf.ru/project/23-21-00175/). Successfully simulated imbibition using this model. A notable result is that the dependence of capillary pressure on saturation qualitatively matches experimental data. Published 3 articles and presented the results at 7 conferences |
+| 2022-03-24 – 2022-11-25 | Organizer | International Department, MIPT, Dolgoprudny-141700 | Main organizer of the [Phystech-buddy](https://drive.google.com/file/d/1OFybBaNoNyV-aaRYcQ09Lw7yv4AFJHsk/view?usp=drive_link) project. Gathered a team of buddies to help new international students on campus: meeting them at the airport, helping sign dormitory rental agreements, buying SIM cards, opening bank accounts, connecting to the Internet, and obtaining university pass cards. Received a [certificate of gratitude](https://drive.google.com/file/d/1kw53RT1jA3YKkzuKpbvt9NThqxGf_7dF/view?usp=drive_link) from the rector of MIPT for significant contribution to the development of student campus life |
 
 ## Grants
 
@@ -142,9 +142,9 @@ Proceedings of the 65th All-Russian Scientific Conference of MIPT in honor of th
 [pdf](https://drive.google.com/file/d/1UYF6dMIxmFJBwPrQc0uAPHd8nN_e1JKV/view?usp=drive_link),
 [proceedings](https://drive.google.com/file/d/1dQFcNqbNkxJzRNheBGzD_b1Sl9YMuK1l/view?usp=drive_link)
 
-[all files](https://drive.google.com/drive/folders/1K6X7G0WD6KmLEhiI17vd3FdvVKIH5GRZ?usp=sharing)
+[all files](https://drive.google.com/drive/folders/1PeWoHZbUUmmv9jjAqqtbKN3vOXZ_a3It?usp=drive_link)
 
-## Conferences and events:
+## Events:
 
 1. Open seminar of the Center for Computational Physics, Landau Physics Institute, MIPT (2026-04-08): "Inhomogeneous network model for two-phase flow problems: capillary non-equilibrium and Saffman–Taylor instability"
 [announcement](https://vk.com/wall-178582319_5352),
