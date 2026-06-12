@@ -9,34 +9,25 @@
 
 # Evening
 
-| Day | Group | Exercise | Max-w (set-x-rep) | Target |
+| Day | Group | Exercise | Weight / x-reps | Target |
 |:---:|:-----:|:---------|:----------------:|-------:|
-|  1  | 1     | [Squat](https://strengthlevel.com/strength-standards/squat) | 40 (3x10) | 60 |
-|     | 2     | [Clean and Press](https://strengthlevel.com/strength-standards/clean-and-pres) | 45 (5x1) | 50 |
-|     | 3     | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | 1x50  | -  |
-|     | 4     | [Lying Leg Curl](https://strengthlevel.com/strength-standards/lying-leg-curl) | 40 (3x10) | 50  |
-|     | 5     | [Bench Press](https://strengthlevel.com/strength-standards/bench-press) | 30 (3x10) | 50 |
-|     | 6     | [Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 40 (6x5) | 80 |
-|     |       |                                             |                  |         |
-| 2   | 1     | [Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | (1x3) | 5 |
-|     | 2     | [Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | 40 (3x10) | 40 |
-|     | 3     | [Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 30 (3x10) | 30 |
-|     | 4     | [Barbell Curl](https://strengthlevel.com/strength-standards/barbell-curl) | 20 (3x10) | 30 |
-|     | 5     | Dumbbell Curl | 10 (3 x 10) | - |
-|     |       |                                             |                  |         |
-|  4  | 1     | [Squat](https://strengthlevel.com/strength-standards/squat) | 40 (3x10) | 60 |
-|     | 2     | [Shoulder Press](https://strengthlevel.com/strength-standards/shoulder-press) | 30 (3x10) | 30 |
-|     | 3     | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | 10 (3x10) | - |
-|     | 4     | [Lying Leg Curl](https://strengthlevel.com/strength-standards/lying-leg-curl) | 40 (3x10) | 50 |
-|     | 5     | [Bench Press](https://strengthlevel.com/strength-standards/bench-press) | 30 (3x10) | 50 |
-|     | 6     | [Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 40 (6x5) | 80 |
-|     |       |                                             |                  |         |
-| 5   | 1     | [Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | (1x3) | 5 |
-|     | 2     | [Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | 40 (3x10) | 40 |
-|     | 3     | [Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 30 (3x10) | 30 |
-|     | 4     | [Barbell Curl](https://strengthlevel.com/strength-standards/barbell-curl) | 20 (3x10) | 30 |
-|     | 5     | Dumbbell Curl | 10 (3 x 10) | - |
-
+| 1 | 1 | [Squat](https://strengthlevel.com/strength-standards/squat) | 50 | 113 |
+|   | 2 | [Lying Leg Curl](https://strengthlevel.com/strength-standards/lying-leg-curl) | 40 | |
+|   | 3 | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | x50 | |
+|   | 4 | [Shoulder Press](https://strengthlevel.com/strength-standards/shoulder-press) | 30 | 50 |
+|   |   | | | |
+| 2 | 5 | [Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | 4 | 14 |
+|   | 6 | [Lat Pulldown](https://strengthlevel.com/strength-standards/lat-pulldown) | 40 | |
+|   | 7 | [Machine Row](https://strengthlevel.com/strength-standards/machine-row) | 30 | |
+|   |   | | | |
+| 3 | 8 | [Decline Sit Up](https://strengthlevel.com/strength-standards/decline-sit-up) | 10 | |
+|   | 9 | [Deadlift](https://strengthlevel.com/strength-standards/deadlift) | 70 | |
+|   | 10 | [Clean and Press](https://strengthlevel.com/strength-standards/clean-and-pres) | 50 | 70 |
+|   |   | | | |
+| 4 | 11 | [Pull Ups](https://strengthlevel.com/strength-standards/pull-ups) | 4 | 14 |
+|   | 12 | [Bench Press](https://strengthlevel.com/strength-standards/bench-press) | 40 | 85 |
+|   | 13 | [Barbell Curl](https://strengthlevel.com/strength-standards/barbell-curl) | 20 | 43 |
+|   | 14 | [Dumbbell Curl](https://strengthlevel.com/strength-standards/dumbbell-curl) | 8 | |
 
 
 # Measurements
