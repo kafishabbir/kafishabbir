@@ -39,7 +39,6 @@
 
 
 
-
 # Measurements
 - Mass: 70 kg
 - Height: 173 cm
