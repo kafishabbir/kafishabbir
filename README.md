@@ -193,6 +193,9 @@ Proceedings of the 65th All-Russian Scientific Conference of MIPT in honor of th
 3. 67th All-Russian Scientific Conference of MIPT (2025-04-04):
 [certificate](https://drive.google.com/file/d/1Xm4NQOTk0mv3UrCITrNRjBNMs79VfFFv/view?usp=drive_link)
 
+3. Mention in For Science (2024-10-10):
+[link](https://zanauku.ru/2024/12/25/novyj-podhod-k-modelirovaniyu-dvuhfaznogo-techeniya-v-poristyh-sredah-ot-seti-kapillyarov-k-realnym-geologicheskim-strukturam/)
+
 4. IV Congress of Young Scientists, Sirius (2024-11-27 – 2024-11-29):
 [certificate](https://drive.google.com/file/d/1aLEZlM2Q2xoBu4-7_M4_Uth3qhBmTxn4/view?usp=drive_link)
 
