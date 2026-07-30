@@ -6,7 +6,7 @@
 
 # Kafi Shabbir
 
-### KAFIULSHABBIR@PHYSTECH.EDU
+### KAFIULSHABBIR@PHYSTECH.SU
 - Network simulators for two phase-flow in porous media
 - 2nd year PhD student, MIPT
 - Born: March 2001
